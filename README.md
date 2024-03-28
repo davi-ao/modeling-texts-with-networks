@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/779033806.svg)](https://zenodo.org/doi/10.5281/zenodo.10892528)
+
 # Modeling Texts with Networks: Comparing Five Approaches to Sentence Representation
 
 **Authors:** Davi Alves Oliveira and Hernane Borges de Barros Pereira
