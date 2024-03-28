@@ -1,0 +1,25 @@
+*Vertices 12
+1 "proteins"
+2 "purify"
+3 "standard"
+4 "resolve"
+5 "be"
+6 "extract"
+7 "total"
+8 "tissue"
+9 "identify"
+10 "position"
+11 "protein"
+12 "gel"
+*Edges
+2 3
+3 1
+1 5
+5 4
+4 7
+7 8
+8 6
+6 9
+9 10
+10 11
+11 12

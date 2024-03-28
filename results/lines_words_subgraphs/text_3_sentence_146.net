@@ -1,0 +1,27 @@
+*Vertices 13
+1 "labware"
+2 "cellware"
+3 "6"
+4 "well"
+5 "dickinson"
+6 "plates"
+7 "becton"
+8 "used"
+9 "were"
+10 "surface"
+11 "as"
+12 "the"
+13 "solid"
+*Edges
+2 3
+3 4
+4 6
+6 7
+7 5
+5 1
+1 9
+9 8
+8 11
+11 12
+12 13
+13 10

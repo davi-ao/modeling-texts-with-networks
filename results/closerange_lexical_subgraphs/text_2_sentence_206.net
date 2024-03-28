@@ -1,0 +1,29 @@
+*Vertices 11
+1 "mother"
+2 "AVM"
+3 "lineal"
+4 "migrate"
+5 "grandmother"
+6 "anteriorly"
+7 "misposition"
+8 "defective"
+9 "migration"
+10 "be"
+11 "AVMs"
+*Edges
+2 3 1
+2 1 1
+3 1 1
+5 3 1
+5 1 1
+5 4 1
+4 1 1
+6 4 1
+6 9 1
+6 10 0
+10 9 0
+8 9 1
+11 10 1
+11 8 1
+11 7 1
+10 7 1

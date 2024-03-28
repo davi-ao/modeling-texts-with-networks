@@ -1,0 +1,21 @@
+*Vertices 9
+1 "gene"
+2 "mec"
+3 "fusion"
+4 "lack"
+5 "appear"
+6 "express"
+7 "element"
+8 "be"
+9 "correctly"
+*Edges
+1 2
+1 3
+4 1
+5 1
+6 1
+1 4
+4 7
+6 8
+6 9
+5 6

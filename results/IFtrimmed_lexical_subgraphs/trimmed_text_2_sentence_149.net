@@ -1,0 +1,24 @@
+*Vertices 9
+1 "1a"
+2 "figure"
+3 "show"
+4 "direction"
+5 "extent"
+6 "ALM"
+7 "migration"
+8 "BDU"
+9 "cell"
+*Edges
+1 4
+6 8
+6 9
+2 6
+6 7
+3 6
+7 9
+3 9
+4 5
+5 7
+2 7
+2 3
+3 7

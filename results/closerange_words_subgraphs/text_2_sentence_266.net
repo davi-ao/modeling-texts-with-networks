@@ -1,0 +1,32 @@
+*Vertices 12
+1 "strains"
+2 "all"
+3 "of"
+4 "the"
+5 "presented"
+6 "here"
+7 "frequencies"
+8 "had"
+9 "transmission"
+10 "greater"
+11 "16"
+12 "than"
+*Edges
+2 3 1
+2 4 0
+3 4 0
+3 1 0
+1 4 0
+5 1 1
+5 4 0
+6 1 1
+8 9 1
+6 9 1
+7 8 1
+7 9 1
+7 10 1
+10 9 1
+7 12 1
+10 12 1
+11 10 1
+11 12 1

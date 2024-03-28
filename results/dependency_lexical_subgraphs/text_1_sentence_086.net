@@ -1,0 +1,23 @@
+*Vertices 10
+1 "reason"
+2 "combine"
+3 "increase"
+4 "size"
+5 "sample"
+6 "bmi"
+7 "low"
+8 "category"
+9 "define"
+10 "underweight"
+*Edges
+2 1
+2 3
+4 5
+3 4
+6 7
+2 2
+8 7
+2 8
+8 9
+9 10
+10 6

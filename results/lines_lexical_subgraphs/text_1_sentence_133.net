@@ -1,0 +1,25 @@
+*Vertices 12
+1 "estimate"
+2 "result"
+3 "year"
+4 "last"
+5 "datum"
+6 "health"
+7 "percent"
+8 "about"
+9 "sample"
+10 "similar"
+11 "group"
+12 "be"
+*Edges
+1 4
+4 3
+3 6
+6 5
+5 8
+8 7
+7 9
+9 2
+2 11
+11 12
+12 10

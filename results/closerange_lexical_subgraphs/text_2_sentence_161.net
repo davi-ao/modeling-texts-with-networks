@@ -1,0 +1,38 @@
+*Vertices 13
+1 "piece"
+2 "small"
+3 "sufficient"
+4 "induce"
+5 "sequence"
+6 "upstream"
+7 "pst"
+8 "site"
+9 "be"
+10 "also"
+11 "defect"
+12 "ALM"
+13 "migration"
+*Edges
+1 5 1
+1 2 1
+5 2 1
+1 6 1
+5 6 1
+7 5 1
+7 6 1
+7 8 1
+8 6 1
+9 7 0
+9 8 0
+10 9 0
+10 8 1
+10 3 1
+9 3 1
+10 4 1
+4 3 1
+12 4 1
+12 3 1
+12 13 1
+4 13 1
+12 11 1
+11 13 1

@@ -1,0 +1,26 @@
+*Vertices 11
+1 "blot"
+2 "western"
+3 "grow"
+4 "cell"
+5 "raw"
+6 "be"
+7 "dish"
+8 "well"
+9 "treatment"
+10 "same"
+11 "cytokine"
+*Edges
+4 6
+3 6
+6 10
+6 8
+1 7
+1 2
+4 5
+4 8
+7 11
+5 11
+5 7
+2 7
+8 9

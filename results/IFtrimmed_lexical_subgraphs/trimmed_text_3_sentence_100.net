@@ -1,0 +1,23 @@
+*Vertices 8
+1 "take"
+2 "thus"
+3 "conjugate"
+4 "entire"
+5 "microbead"
+6 "adenovirus"
+7 "be"
+8 "cell"
+*Edges
+6 8
+3 6
+4 6
+5 6
+2 6
+7 8
+2 7
+3 8
+5 8
+1 8
+2 8
+3 5
+1 2

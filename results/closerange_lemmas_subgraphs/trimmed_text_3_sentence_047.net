@@ -1,0 +1,27 @@
+*Vertices 12
+1 "analyze"
+2 "then"
+3 "infection"
+4 "the"
+5 "cell"
+6 "of"
+7 "be"
+8 "expression"
+9 "through"
+10 "gene"
+11 "z"
+12 "lac"
+*Edges
+2 3
+3 6
+1 7
+1 5
+1 9
+8 9
+6 8
+6 12
+4 12
+11 12
+4 11
+10 12
+10 11

@@ -1,0 +1,25 @@
+*Vertices 9
+1 "superiority"
+2 "relative"
+3 "hold"
+4 "yhl"
+5 "YOL"
+6 "probably"
+7 "trial"
+8 "follow"
+9 "short"
+*Edges
+1 2
+2 4
+1 4
+1 5
+4 5
+4 6
+5 6
+3 6
+3 5
+3 7
+6 7
+3 9
+8 9
+7 8

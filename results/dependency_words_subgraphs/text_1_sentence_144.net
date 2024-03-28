@@ -1,0 +1,26 @@
+*Vertices 12
+1 "criticized"
+2 "recommendations"
+3 "weight"
+4 "for"
+5 "desirable"
+6 "have"
+7 "been"
+8 "mortality"
+9 "emphasizing"
+10 "health"
+11 "rather"
+12 "than"
+*Edges
+1 2
+3 4
+3 5
+2 3
+1 6
+1 7
+8 4
+8 9
+1 8
+10 11
+11 12
+8 10

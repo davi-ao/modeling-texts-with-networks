@@ -1,0 +1,25 @@
+*Vertices 9
+1 "effort"
+2 "future"
+3 "include"
+4 "determine"
+5 "guideline"
+6 "desirable"
+7 "weight"
+8 "measure"
+9 "YHL"
+*Edges
+4 1 1
+4 2 1
+1 2 1
+6 4 1
+6 1 1
+6 7 1
+4 7 1
+6 5 1
+5 7 1
+3 7 1
+5 8 1
+3 8 1
+3 9 1
+8 9 1

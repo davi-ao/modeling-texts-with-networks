@@ -1,0 +1,19 @@
+*Vertices 9
+1 "elegans"
+2 "Caenorhabditis"
+3 "system"
+4 "be"
+5 "attractive"
+6 "particularly"
+7 "study"
+8 "migration"
+9 "cell"
+*Edges
+2 1
+1 4
+4 6
+6 5
+5 3
+3 7
+7 9
+9 8

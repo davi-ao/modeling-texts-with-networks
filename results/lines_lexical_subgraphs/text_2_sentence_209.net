@@ -1,0 +1,26 @@
+*Vertices 12
+1 "believe"
+2 "therefore"
+3 "induce"
+4 "defect"
+5 "PLM"
+6 "be"
+7 "titration"
+8 "factor"
+9 "same"
+10 "control"
+11 "migration"
+12 "ALM"
+*Edges
+1 2
+2 5
+5 4
+4 6
+6 3
+3 7
+7 9
+9 8
+8 8
+8 10
+10 12
+12 11

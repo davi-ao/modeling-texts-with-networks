@@ -1,0 +1,25 @@
+*Vertices 12
+1 "result"
+2 "present"
+3 "predict"
+4 "activate"
+5 "IFN"
+6 "not"
+7 "cell"
+8 "receive"
+9 "have"
+10 "signal"
+11 "early"
+12 "rankl"
+*Edges
+2 1
+1 3
+3 5
+5 6
+6 4
+4 7
+7 9
+9 8
+8 11
+11 12
+12 10

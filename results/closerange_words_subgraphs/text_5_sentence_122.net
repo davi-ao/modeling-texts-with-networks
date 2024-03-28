@@ -1,0 +1,56 @@
+*Vertices 20
+1 "retention"
+2 "the"
+3 "intriguing"
+4 "signaling"
+5 "of"
+6 "jak"
+7 "stat1"
+8 "osteoclasts"
+9 "in"
+10 "stimulated"
+11 "rankl"
+12 "pre"
+13 "is"
+14 "insensitivity"
+15 "given"
+16 "their"
+17 "demonstrated"
+18 "ifn"
+19 "to"
+20 "γ"
+*Edges
+5 1 1
+5 2 0
+1 2 1
+6 5 1
+6 1 1
+6 7 1
+5 7 1
+6 4 1
+4 7 1
+9 4 0
+9 7 0
+9 11 0
+11 4 1
+9 10 1
+11 10 1
+12 11 1
+12 10 1
+8 12 1
+8 10 1
+13 8 1
+13 12 1
+15 3 1
+15 13 1
+15 16 1
+3 16 1
+17 16 1
+17 14 1
+14 16 1
+17 19 1
+14 19 1
+18 14 1
+18 19 1
+18 20 1
+19 20 0

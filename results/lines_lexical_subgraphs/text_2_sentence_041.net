@@ -1,0 +1,17 @@
+*Vertices 8
+1 "sequence"
+2 "disrupt"
+3 "also"
+4 "extension"
+5 "axon"
+6 "receptor"
+7 "PLM"
+8 "touch"
+*Edges
+1 3
+3 2
+2 4
+4 7
+7 8
+8 6
+6 5

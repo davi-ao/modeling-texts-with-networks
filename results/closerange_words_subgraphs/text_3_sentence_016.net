@@ -1,0 +1,69 @@
+*Vertices 25
+1 "feasibility"
+2 "the"
+3 "tested"
+4 "strategy"
+5 "of"
+6 "this"
+7 "was"
+8 "by"
+9 "using"
+10 "vectors"
+11 "recombinant"
+12 "adenoviral"
+13 "carrying"
+14 "canada"
+15 "a"
+16 "gene"
+17 "transducable"
+18 "z"
+19 "lac"
+20 "β"
+21 "galactosidase"
+22 "ad5cmv"
+23 "lacz"
+24 "qbiogene"
+25 "montreal"
+*Edges
+1 5 1
+1 2 1
+5 2 0
+1 6 1
+5 6 0
+5 4 0
+4 6 1
+4 7 1
+6 7 0
+8 3 1
+8 7 1
+8 9 1
+8 11 1
+11 9 1
+12 11 1
+12 9 1
+12 10 1
+11 10 1
+12 13 1
+13 10 1
+15 10 0
+15 17 1
+13 17 1
+15 19 1
+19 17 1
+19 18 1
+17 18 1
+19 20 1
+18 20 1
+21 18 1
+21 20 1
+21 16 1
+16 20 1
+22 16 1
+22 23 1
+16 23 1
+22 24 1
+23 24 1
+23 25 1
+25 24 1
+14 25 1
+14 24 1

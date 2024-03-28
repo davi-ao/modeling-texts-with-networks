@@ -1,0 +1,25 @@
+*Vertices 12
+1 "cell"
+2 "mononuclear"
+3 "form"
+4 "osteoclast"
+5 "multinuclear"
+6 "presence"
+7 "dose"
+8 "inhibitory"
+9 "maximally"
+10 "IFN"
+11 "ml"
+12 "ng"
+*Edges
+1 2
+3 1
+4 5
+3 4
+3 6
+8 9
+7 8
+6 7
+7 10
+11 12
+7 11

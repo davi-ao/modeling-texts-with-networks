@@ -1,0 +1,22 @@
+*Vertices 8
+1 "plot"
+2 "figure"
+3 "be"
+4 "YOL"
+5 "adjust"
+6 "YHL"
+7 "sex"
+8 "bmi"
+*Edges
+3 5
+5 8
+4 5
+3 8
+3 6
+3 4
+1 8
+6 8
+4 8
+1 2
+1 7
+4 6

@@ -1,0 +1,16 @@
+*Vertices 8
+1 "well"
+2 "wash"
+3 "be"
+4 "pbst"
+5 "ph"
+6 "then"
+7 "pbs"
+8 "tween"
+*Edges
+2 1
+2 3
+2 4
+5 6
+5 7
+5 8

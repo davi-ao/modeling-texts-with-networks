@@ -1,0 +1,27 @@
+*Vertices 13
+1 "modulate"
+2 "finally"
+3 "element"
+4 "expression"
+5 "mec"
+6 "way"
+7 "evident"
+8 "be"
+9 "not"
+10 "look"
+11 "fluorescence"
+12 "3gfp"
+13 "MEC"
+*Edges
+2 3
+3 1
+1 5
+5 4
+4 6
+6 8
+8 9
+9 7
+7 10
+10 13
+13 12
+12 11

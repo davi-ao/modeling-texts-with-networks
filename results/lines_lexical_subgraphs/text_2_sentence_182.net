@@ -1,0 +1,11 @@
+*Vertices 5
+1 "element"
+2 "titrate"
+3 "regulate"
+4 "be"
+5 "gene"
+*Edges
+2 1
+1 4
+4 3
+3 5

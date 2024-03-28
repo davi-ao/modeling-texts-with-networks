@@ -1,0 +1,9 @@
+*Vertices 4
+1 "instance"
+2 "palindromic"
+3 "region"
+4 "be"
+*Edges
+3 4
+1 2
+2 3

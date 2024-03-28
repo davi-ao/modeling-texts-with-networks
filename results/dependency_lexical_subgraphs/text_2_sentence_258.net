@@ -1,0 +1,15 @@
+*Vertices 7
+1 "plasmid"
+2 "prepare"
+3 "be"
+4 "kit"
+5 "midiprep"
+6 "Wizard"
+7 "Promega"
+*Edges
+2 1
+2 3
+5 6
+4 5
+2 4
+4 7

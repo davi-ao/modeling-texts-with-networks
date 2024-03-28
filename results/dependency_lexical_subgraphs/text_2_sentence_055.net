@@ -1,0 +1,18 @@
+*Vertices 8
+1 "ea485"
+2 "have"
+3 "alms"
+4 "score"
+5 "morphology"
+6 "normal"
+7 "axonal"
+8 "tu2562"
+*Edges
+2 1
+5 6
+5 7
+2 5
+2 8
+2 3
+3 4
+2 2

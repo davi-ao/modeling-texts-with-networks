@@ -1,0 +1,19 @@
+*Vertices 7
+1 "promote"
+2 "UNC"
+3 "migration"
+4 "dorsal"
+5 "ventral"
+6 "response"
+7 "signal"
+*Edges
+2 1
+1 4
+4 3
+3 2
+2 1
+1 5
+5 3
+3 6
+6 2
+2 7

@@ -1,0 +1,27 @@
+*Vertices 13
+1 "expresses"
+2 "ht"
+3 "29"
+4 "amount"
+5 "only"
+6 "a"
+7 "small"
+8 "car"
+9 "of"
+10 "surface"
+11 "on"
+12 "the"
+13 "cell"
+*Edges
+1 2
+2 3
+4 5
+4 6
+4 7
+1 4
+8 9
+4 8
+10 11
+10 12
+10 13
+1 10

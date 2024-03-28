@@ -1,0 +1,17 @@
+*Vertices 8
+1 "alms"
+2 "locate"
+3 "posterior"
+4 "position"
+5 "have"
+6 "morphology"
+7 "normal"
+8 "axonal"
+*Edges
+1 2
+2 3
+3 4
+4 5
+5 7
+7 8
+8 6

@@ -1,0 +1,19 @@
+*Vertices 8
+1 "duration"
+2 "the"
+3 "important"
+4 "pretreatment"
+5 "of"
+6 "rankl"
+7 "was"
+8 "also"
+*Edges
+1 5
+1 2
+1 6
+4 5
+4 6
+4 7
+6 7
+4 8
+3 7

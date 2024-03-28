@@ -1,0 +1,12 @@
+*Vertices 5
+1 "strain"
+2 "measure"
+3 "position"
+4 "ALMs"
+5 "BDUs"
+*Edges
+2 1
+2 3
+3 4
+3 5
+4 5

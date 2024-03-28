@@ -1,0 +1,26 @@
+*Vertices 12
+1 "centrifuge"
+2 "homogenate"
+3 "store"
+4 "be"
+5 "then"
+6 "rpm"
+7 "supernatant"
+8 "min"
+9 "transfer"
+10 "tube"
+11 "clean"
+12 "4degreesc"
+*Edges
+2 4
+4 5
+5 1
+1 6
+6 8
+8 7
+7 4
+4 9
+9 11
+11 10
+10 3
+3 12

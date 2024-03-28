@@ -1,0 +1,21 @@
+*Vertices 10
+1 "effect"
+2 "this"
+3 "refer"
+4 "be"
+5 "interference"
+6 "to"
+7 "as"
+8 "rna"
+9 "rnai"
+10 "or"
+*Edges
+2 1
+1 4
+4 3
+3 6
+6 7
+7 8
+8 5
+5 10
+10 9

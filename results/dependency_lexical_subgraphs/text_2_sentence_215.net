@@ -1,0 +1,20 @@
+*Vertices 9
+1 "factor"
+2 "titrate"
+3 "sequence"
+4 "involve"
+5 "also"
+6 "be"
+7 "alms"
+8 "differentiate"
+9 "bdus"
+*Edges
+2 1
+2 3
+4 5
+4 6
+2 4
+7 8
+4 7
+4 9
+7 9

@@ -1,0 +1,27 @@
+*Vertices 13
+1 "mention"
+2 "repeat"
+3 "use"
+4 "analysis"
+5 "person"
+6 "exclude"
+7 "datum"
+8 "estimate"
+9 "partially"
+10 "way"
+11 "different"
+12 "YHL"
+13 "code"
+*Edges
+1 2
+2 4
+4 6
+6 5
+5 9
+9 8
+8 7
+7 3
+3 11
+11 10
+10 13
+13 12

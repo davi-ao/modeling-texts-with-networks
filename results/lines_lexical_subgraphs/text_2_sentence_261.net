@@ -1,0 +1,27 @@
+*Vertices 13
+1 "pjc4"
+2 "plasmid"
+3 "pjc1"
+4 "pjc3"
+5 "inject"
+6 "pjc8"
+7 "be"
+8 "animal"
+9 "n2"
+10 "type"
+11 "wild"
+12 "ml"
+13 "μg"
+*Edges
+2 3
+3 4
+4 1
+1 6
+6 7
+7 5
+5 9
+9 11
+11 10
+10 8
+8 13
+13 12

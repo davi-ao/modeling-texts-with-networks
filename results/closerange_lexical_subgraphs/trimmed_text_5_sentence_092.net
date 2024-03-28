@@ -1,0 +1,27 @@
+*Vertices 10
+1 "inhibit"
+2 "pretreatment"
+3 "rankl"
+4 "induce"
+5 "IFN"
+6 "production"
+7 "dose"
+8 "manner"
+9 "dependent"
+10 "time"
+*Edges
+1 2
+1 3
+2 3
+3 5
+4 5
+5 6
+4 6
+4 7
+6 7
+7 9
+6 9
+9 10
+7 10
+8 9
+8 10

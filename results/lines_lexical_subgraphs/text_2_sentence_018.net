@@ -1,0 +1,19 @@
+*Vertices 9
+1 "gene"
+2 "conserve"
+3 "be"
+4 "group"
+5 "broad"
+6 "animal"
+7 "elegans"
+8 "Caenorhabditis"
+9 "man"
+*Edges
+1 3
+3 2
+2 5
+5 4
+4 6
+6 8
+8 7
+7 9

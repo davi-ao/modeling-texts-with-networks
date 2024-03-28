@@ -1,0 +1,22 @@
+*Vertices 10
+1 "pjc10"
+2 "instance"
+3 "plasmid"
+4 "effective"
+5 "contain"
+6 "surround"
+7 "more"
+8 "sequence"
+9 "be"
+10 "pjc15"
+*Edges
+2 3
+3 1
+1 5
+5 7
+7 6
+6 8
+8 9
+9 7
+7 4
+4 10

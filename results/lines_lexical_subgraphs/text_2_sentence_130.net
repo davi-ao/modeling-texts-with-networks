@@ -1,0 +1,23 @@
+*Vertices 11
+1 "cross"
+2 "array"
+3 "pjc4"
+4 "ea485"
+5 "background"
+6 "ls20"
+7 "pag"
+8 "genetic"
+9 "generate"
+10 "ea489"
+11 "strain"
+*Edges
+1 3
+3 2
+2 4
+4 7
+7 6
+6 8
+8 5
+5 9
+9 11
+11 10

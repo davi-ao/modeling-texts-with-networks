@@ -1,0 +1,22 @@
+*Vertices 9
+1 "plm"
+2 "score"
+3 "tu2562"
+4 "have"
+5 "morphology"
+6 "normal"
+7 "ea485"
+8 "defect"
+9 "axonal"
+*Edges
+2 1
+2 3
+4 4
+5 6
+4 5
+5 2
+2 7
+2 4
+4 8
+5 9
+8 5

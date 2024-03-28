@@ -1,0 +1,27 @@
+*Vertices 13
+1 "surprising"
+2 "be"
+3 "somewhat"
+4 "titrate"
+5 "array"
+6 "high"
+7 "copy"
+8 "factor"
+9 "level"
+10 "enough"
+11 "low"
+12 "induce"
+13 "phenotype"
+*Edges
+2 3
+3 1
+1 6
+6 7
+7 5
+5 4
+4 8
+8 11
+11 10
+10 9
+9 12
+12 13

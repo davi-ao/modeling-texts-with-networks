@@ -1,0 +1,19 @@
+*Vertices 9
+1 "rna"
+2 "inject"
+3 "animal"
+4 "have"
+5 "also"
+6 "morphology"
+7 "normal"
+8 "plm"
+9 "axonal"
+*Edges
+2 1
+2 3
+4 5
+2 4
+6 7
+6 8
+6 9
+4 6

@@ -1,0 +1,51 @@
+*Vertices 18
+1 "conclusions"
+2 "these"
+3 "assume"
+4 "generated"
+5 "that"
+6 "arrays"
+7 "the"
+8 "construct"
+9 "for"
+10 "each"
+11 "have"
+12 "number"
+13 "roughly"
+14 "same"
+15 "copies"
+16 "of"
+17 "sequence"
+18 "titrating"
+*Edges
+3 1 1
+3 2 1
+1 2 1
+3 5 1
+1 5 1
+3 7 1
+5 7 0
+6 5 1
+6 7 0
+4 7 0
+6 9 0
+10 9 1
+8 10 1
+8 9 1
+8 11 1
+10 11 1
+8 13 1
+11 13 1
+11 7 0
+14 7 1
+12 14 1
+12 7 1
+12 16 1
+15 12 1
+15 16 1
+15 7 1
+16 7 0
+16 18 0
+7 18 1
+17 7 1
+17 18 1

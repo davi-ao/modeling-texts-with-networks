@@ -1,0 +1,21 @@
+*Vertices 9
+1 "percent"
+2 "fair"
+3 "poor"
+4 "be"
+5 "unhealthy"
+6 "baseline"
+7 "healthy"
+8 "year"
+9 "later"
+*Edges
+1 4
+4 5
+5 2
+2 3
+3 6
+6 1
+1 4
+4 7
+7 8
+8 9

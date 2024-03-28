@@ -1,0 +1,15 @@
+*Vertices 7
+1 "line"
+2 "germ"
+3 "transformation"
+4 "do"
+5 "be"
+6 "describe"
+7 "Mello"
+*Edges
+1 2
+3 1
+4 3
+4 5
+4 6
+6 7

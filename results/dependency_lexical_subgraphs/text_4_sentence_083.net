@@ -1,0 +1,16 @@
+*Vertices 7
+1 "tissue"
+2 "aerate"
+3 "be"
+4 "continuously"
+5 "mix"
+6 "o2"
+7 "co2"
+*Edges
+2 1
+2 3
+2 4
+2 5
+5 6
+5 7
+6 7

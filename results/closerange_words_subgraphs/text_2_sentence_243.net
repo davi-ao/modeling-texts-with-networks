@@ -1,0 +1,56 @@
+*Vertices 19
+1 "make"
+2 "to"
+3 "oligonucleotides"
+4 "pbs1"
+5 "the"
+6 "3"
+7 "5"
+8 "acctcccaaactatagattgggtg"
+9 "cggccagagtcgactcacatattg"
+10 "and"
+11 "used"
+12 "amplify"
+13 "were"
+14 "fragment"
+15 "a"
+16 "bp"
+17 "1370"
+18 "ptu23"
+19 "from"
+*Edges
+1 4 1
+1 2 1
+4 2 1
+1 5 0
+4 5 0
+3 4 1
+3 5 1
+7 3 1
+7 5 0
+7 8 1
+8 3 1
+6 8 1
+6 10 1
+8 10 1
+7 10 0
+7 9 1
+10 9 1
+6 9 1
+6 13 0
+6 11 0
+11 13 1
+2 11 1
+2 13 0
+12 2 1
+12 11 1
+15 2 0
+17 15 1
+17 12 1
+17 16 1
+15 16 1
+17 14 1
+16 14 1
+16 19 1
+14 18 1
+19 18 1

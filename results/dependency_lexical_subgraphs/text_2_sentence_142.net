@@ -1,0 +1,15 @@
+*Vertices 7
+1 "show"
+2 "figure"
+3 "distribution"
+4 "position"
+5 "ALM"
+6 "strain"
+7 "temperature"
+*Edges
+1 2
+1 3
+4 5
+3 4
+3 6
+3 7

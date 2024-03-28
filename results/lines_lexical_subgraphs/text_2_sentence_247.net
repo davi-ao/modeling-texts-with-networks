@@ -1,0 +1,21 @@
+*Vertices 9
+1 "digest"
+2 "pbs1δk"
+3 "pjc3"
+4 "bb"
+5 "Xho"
+6 "remove"
+7 "piece"
+8 "bp"
+9 "respectively"
+*Edges
+1 2
+2 3
+3 4
+4 5
+5 6
+6 8
+8 7
+7 8
+8 7
+7 9

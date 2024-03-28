@@ -1,0 +1,31 @@
+*Vertices 12
+1 "datum"
+2 "indicate"
+3 "similar"
+4 "fraction"
+5 "actin"
+6 "major"
+7 "proteins"
+8 "motor"
+9 "myosin"
+10 "be"
+11 "vessel"
+12 "blood"
+*Edges
+1 4 1
+1 2 1
+4 2 1
+4 6 1
+2 6 1
+4 8 1
+6 8 1
+5 8 1
+5 7 1
+5 9 1
+9 7 1
+5 10 0
+10 9 0
+10 3 1
+12 3 1
+12 11 1
+3 11 1

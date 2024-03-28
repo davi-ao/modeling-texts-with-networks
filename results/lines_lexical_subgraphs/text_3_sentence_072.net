@@ -1,0 +1,17 @@
+*Vertices 8
+1 "express"
+2 "ht"
+3 "amount"
+4 "only"
+5 "small"
+6 "car"
+7 "surface"
+8 "cell"
+*Edges
+2 1
+1 4
+4 5
+5 3
+3 6
+6 8
+8 7

@@ -1,0 +1,26 @@
+*Vertices 11
+1 "sequence"
+2 "affect"
+3 "do"
+4 "not"
+5 "migration"
+6 "cell"
+7 "division"
+8 "ALM"
+9 "BDU"
+10 "position"
+11 "bdu"
+*Edges
+2 1
+2 3
+2 4
+5 6
+2 5
+7 8
+6 9
+7 6
+5 7
+5 10
+7 10
+6 11
+10 6

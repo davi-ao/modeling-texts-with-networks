@@ -1,0 +1,48 @@
+*Vertices 16
+1 "control"
+2 "thus"
+3 "arrangement"
+4 "ultimate"
+5 "spatial"
+6 "determine"
+7 "site"
+8 "transduction"
+9 "surface"
+10 "solid"
+11 "be"
+12 "will"
+13 "placement"
+14 "strategic"
+15 "vector"
+16 "viral"
+*Edges
+5 2 1
+5 4 1
+2 4 1
+3 5 1
+3 4 1
+3 8 1
+5 8 1
+3 7 1
+7 8 1
+7 10 1
+10 8 1
+7 9 1
+10 9 1
+11 10 0
+11 9 0
+11 1 0
+1 9 1
+11 6 1
+1 6 1
+1 12 1
+6 12 1
+6 14 1
+14 12 1
+13 14 1
+13 12 1
+13 16 1
+13 15 1
+15 16 1
+10 15 1
+10 16 1

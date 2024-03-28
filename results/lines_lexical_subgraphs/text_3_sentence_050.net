@@ -1,0 +1,23 @@
+*Vertices 11
+1 "plateaue"
+2 "however"
+3 "amount"
+4 "infection"
+5 "add"
+6 "time"
+7 "2point5"
+8 "particle"
+9 "viral"
+10 "be"
+11 "well"
+*Edges
+2 3
+3 4
+4 1
+1 7
+7 6
+6 9
+9 8
+8 10
+10 5
+5 11

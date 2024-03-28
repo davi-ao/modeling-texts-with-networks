@@ -1,0 +1,14 @@
+*Vertices 6
+1 "grow"
+2 "animal"
+3 "be"
+4 "20degreesc"
+5 "state"
+6 "otherwise"
+*Edges
+1 2
+1 4
+4 6
+1 6
+4 5
+5 6

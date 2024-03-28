@@ -1,0 +1,13 @@
+*Vertices 6
+1 "fragment"
+2 "remain"
+3 "religate"
+4 "make"
+5 "be"
+6 "pjc8"
+*Edges
+2 1
+1 5
+5 3
+3 4
+4 6

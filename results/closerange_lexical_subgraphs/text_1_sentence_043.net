@@ -1,0 +1,83 @@
+*Vertices 31
+1 "report"
+2 "Self"
+3 "include"
+4 "covariate"
+5 "age"
+6 "smoking"
+7 "gender"
+8 "never"
+9 "history"
+10 "former"
+11 "diabetes"
+12 "cancer"
+13 "arthritis"
+14 "limitation"
+15 "fair"
+16 "poor"
+17 "rate"
+18 "self"
+19 "status"
+20 "health"
+21 "activity"
+22 "living"
+23 "daily"
+24 "instrumental"
+25 "pound"
+26 "loss"
+27 "unintended"
+28 "more"
+29 "weight"
+30 "year"
+31 "baseline"
+*Edges
+4 1 1
+4 2 1
+1 2 1
+4 3 1
+3 1 1
+5 4 1
+5 3 1
+5 7 1
+7 3 1
+5 6 1
+7 6 1
+7 8 1
+8 6 1
+10 6 1
+10 9 1
+9 8 1
+13 10 1
+13 9 1
+13 12 1
+12 9 1
+13 11 1
+11 16 1
+15 16 1
+15 18 1
+16 18 1
+17 18 1
+20 18 1
+20 19 1
+17 19 1
+20 14 1
+14 19 1
+21 14 1
+21 19 1
+21 23 1
+23 14 1
+21 22 1
+23 22 1
+23 24 1
+24 22 1
+21 24 1
+23 25 1
+28 25 1
+28 27 1
+25 27 1
+28 29 1
+27 29 1
+26 27 1
+26 29 1
+31 26 1
+31 30 1

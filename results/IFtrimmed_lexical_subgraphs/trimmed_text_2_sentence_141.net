@@ -1,0 +1,26 @@
+*Vertices 9
+1 "choose"
+2 "tu2562"
+3 "be"
+4 "migrate"
+5 "alms"
+6 "position"
+7 "close"
+8 "normal"
+9 "20degreesc"
+*Edges
+1 9
+2 9
+4 5
+5 8
+5 6
+2 5
+3 8
+3 6
+2 3
+7 8
+4 6
+2 4
+6 8
+2 8
+2 6

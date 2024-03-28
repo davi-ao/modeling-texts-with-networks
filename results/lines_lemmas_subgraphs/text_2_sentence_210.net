@@ -1,0 +1,27 @@
+*Vertices 13
+1 "case"
+2 "in"
+3 "both"
+4 "fail"
+5 "cell"
+6 "the"
+7 "interpret"
+8 "to"
+9 "correctly"
+10 "information"
+11 "anterior"
+12 "posterior"
+13 "spatial"
+*Edges
+2 3
+3 1
+1 6
+6 5
+5 4
+4 8
+8 9
+9 7
+7 11
+11 12
+12 13
+13 10

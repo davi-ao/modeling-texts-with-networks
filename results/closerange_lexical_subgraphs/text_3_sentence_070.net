@@ -1,0 +1,47 @@
+*Vertices 15
+1 "see"
+2 "however"
+3 "infectivity"
+4 "enhance"
+5 "vector"
+6 "immobilize"
+7 "adenoviral"
+8 "be"
+9 "not"
+10 "permissive"
+11 "line"
+12 "cell"
+13 "test"
+14 "poorly"
+15 "infection"
+*Edges
+4 2 1
+4 3 1
+2 3 1
+4 6 1
+6 3 1
+7 6 1
+7 3 1
+7 5 1
+6 5 1
+7 8 0
+8 5 0
+8 9 0
+9 5 0
+8 1 1
+9 1 1
+12 9 0
+12 1 1
+12 11 1
+11 1 1
+12 13 1
+11 13 1
+8 11 0
+8 13 0
+8 14 1
+14 13 1
+8 10 0
+7 10 1
+7 14 1
+7 15 1
+15 10 1

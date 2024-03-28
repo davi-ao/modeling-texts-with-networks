@@ -1,0 +1,25 @@
+*Vertices 11
+1 "incidence"
+2 "the"
+3 "correlated"
+4 "defects"
+5 "of"
+6 "plm"
+7 "axonal"
+8 "well"
+9 "with"
+10 "alm"
+11 "migration"
+*Edges
+2 1
+1 5
+5 6
+6 7
+7 4
+4 3
+3 8
+8 9
+9 2
+2 10
+10 11
+11 4

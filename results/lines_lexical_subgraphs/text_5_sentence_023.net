@@ -1,0 +1,21 @@
+*Vertices 10
+1 "seem"
+2 "there"
+3 "situation"
+4 "be"
+5 "act"
+6 "IFN"
+7 "do"
+8 "not"
+9 "agent"
+10 "osteoclastogenic"
+*Edges
+2 1
+1 4
+4 3
+3 6
+6 7
+7 8
+8 5
+5 10
+10 9

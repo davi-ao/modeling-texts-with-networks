@@ -1,0 +1,26 @@
+*Vertices 12
+1 "lyse"
+2 "bacterium"
+3 "be"
+4 "recover"
+5 "proteins"
+6 "soluble"
+7 "use"
+8 "agarose"
+9 "glutathione"
+10 "bead"
+11 "Pharmacia"
+12 "Amersham"
+*Edges
+2 3
+3 1
+1 6
+6 5
+5 3
+3 4
+4 7
+7 9
+9 8
+8 10
+10 12
+12 11

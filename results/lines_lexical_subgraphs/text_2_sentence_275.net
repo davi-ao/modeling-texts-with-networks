@@ -1,0 +1,27 @@
+*Vertices 13
+1 "site"
+2 "transcription"
+3 "binding"
+4 "factor"
+5 "identify"
+6 "be"
+7 "MatInspector"
+8 "matinspectorpl"
+9 "http"
+10 "genomatixgsde"
+11 "cgi"
+12 "bin"
+13 "matinspector"
+*Edges
+2 4
+4 3
+3 1
+1 6
+6 5
+5 7
+7 9
+9 10
+10 11
+11 12
+12 13
+13 8

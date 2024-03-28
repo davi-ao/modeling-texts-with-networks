@@ -1,0 +1,25 @@
+*Vertices 12
+1 "efficiency"
+2 "determine"
+3 "immobilization"
+4 "cycle"
+5 "addition"
+6 "be"
+7 "number"
+8 "particle"
+9 "viral"
+10 "remain"
+11 "unbound"
+12 "solution"
+*Edges
+2 1
+1 3
+4 5
+1 4
+2 6
+2 7
+8 9
+7 8
+8 10
+10 11
+11 12

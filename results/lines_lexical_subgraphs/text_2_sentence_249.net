@@ -1,0 +1,20 @@
+*Vertices 9
+1 "sequence"
+2 "only"
+3 "mec"
+4 "pjc10"
+5 "plasmid"
+6 "be"
+7 "bp"
+8 "pst"
+9 "site"
+*Edges
+2 3
+3 1
+1 5
+5 4
+4 6
+6 7
+7 1
+1 8
+8 9

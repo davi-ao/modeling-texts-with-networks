@@ -1,0 +1,22 @@
+*Vertices 10
+1 "address"
+2 "ask"
+3 "present"
+4 "neuron"
+5 "BDU"
+6 "be"
+7 "animal"
+8 "displace"
+9 "ALMs"
+10 "anteriorly"
+*Edges
+2 1
+4 5
+3 4
+3 6
+2 3
+3 7
+8 9
+8 6
+7 8
+8 10

@@ -1,0 +1,27 @@
+*Vertices 13
+1 "added"
+2 "ifn"
+3 "ml"
+4 "γ"
+5 "ng"
+6 "10"
+7 "was"
+8 "days"
+9 "on"
+10 "various"
+11 "cultures"
+12 "in"
+13 "some"
+*Edges
+2 4
+4 6
+6 5
+5 3
+3 7
+7 1
+1 9
+9 10
+10 8
+8 12
+12 13
+13 11

@@ -1,0 +1,21 @@
+*Vertices 10
+1 "have"
+2 "YHL"
+3 "different"
+4 "YOL"
+5 "size"
+6 "similar"
+7 "effect"
+8 "woman"
+9 "be"
+10 "significantly"
+*Edges
+2 4
+4 1
+1 6
+6 7
+7 5
+5 8
+8 9
+9 10
+10 3

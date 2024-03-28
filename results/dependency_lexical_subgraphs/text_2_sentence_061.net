@@ -1,0 +1,19 @@
+*Vertices 8
+1 "strain"
+2 "result"
+3 "express"
+4 "3gfp"
+5 "mec"
+6 "cell"
+7 "be"
+8 "normally"
+*Edges
+1 2
+3 1
+4 5
+3 4
+3 6
+3 5
+3 7
+3 8
+6 3

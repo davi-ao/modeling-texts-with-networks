@@ -1,0 +1,24 @@
+*Vertices 11
+1 "make"
+2 "protein"
+3 "MEC"
+4 "be"
+5 "form"
+6 "UNC"
+7 "mec"
+8 "heterodimer"
+9 "activate"
+10 "effectively"
+11 "more"
+*Edges
+3 2
+2 4
+4 1
+1 6
+6 7
+7 5
+5 8
+8 11
+11 10
+10 9
+9 7

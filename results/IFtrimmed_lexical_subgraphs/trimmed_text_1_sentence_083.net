@@ -1,0 +1,21 @@
+*Vertices 9
+1 "make"
+2 "Adjustment"
+3 "covariate"
+4 "extensive"
+5 "also"
+6 "difference"
+7 "little"
+8 "column"
+9 "yhl"
+*Edges
+2 8
+2 4
+2 7
+5 6
+3 8
+4 8
+3 6
+3 7
+6 9
+1 7

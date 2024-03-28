@@ -1,0 +1,17 @@
+*Vertices 8
+1 "add"
+2 "IFN"
+3 "ml"
+4 "ng"
+5 "be"
+6 "day"
+7 "various"
+8 "culture"
+*Edges
+1 2
+3 4
+2 3
+1 5
+6 7
+1 6
+1 8

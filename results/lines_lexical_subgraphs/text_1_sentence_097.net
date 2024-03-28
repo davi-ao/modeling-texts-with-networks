@@ -1,0 +1,24 @@
+*Vertices 11
+1 "yhl"
+2 "year"
+3 "woman"
+4 "underweight"
+5 "obese"
+6 "be"
+7 "about"
+8 "low"
+9 "significantly"
+10 "group"
+11 "normal"
+*Edges
+1 4
+4 5
+5 3
+3 6
+6 7
+7 2
+2 6
+6 9
+9 8
+8 11
+11 10

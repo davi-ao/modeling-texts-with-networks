@@ -1,0 +1,27 @@
+*Vertices 13
+1 "element"
+2 "the"
+3 "titrate"
+4 "regulate"
+5 "could"
+6 "be"
+7 "neither"
+8 "either"
+9 "both"
+10 "or"
+11 "gene"
+12 "of"
+13 "this"
+*Edges
+2 3
+3 1
+1 5
+5 6
+6 4
+4 8
+8 7
+7 10
+10 9
+9 12
+12 13
+13 11

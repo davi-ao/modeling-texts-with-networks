@@ -1,0 +1,19 @@
+*Vertices 9
+1 "adult"
+2 "old"
+3 "have"
+4 "factor"
+5 "risk"
+6 "effect"
+7 "great"
+8 "health"
+9 "mortality"
+*Edges
+1 2
+3 1
+4 5
+3 4
+6 7
+3 6
+6 8
+6 9

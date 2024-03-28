@@ -1,0 +1,27 @@
+*Vertices 12
+1 "cause"
+2 "bias"
+3 "large"
+4 "adjustment"
+5 "be"
+6 "probably"
+7 "not"
+8 "sensitive"
+9 "finding"
+10 "number"
+11 "variable"
+12 "adjust"
+*Edges
+1 2
+3 1
+1 4
+3 5
+3 6
+3 7
+8 9
+8 5
+8 7
+3 8
+8 10
+10 11
+10 12

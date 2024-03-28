@@ -1,0 +1,25 @@
+*Vertices 8
+1 "make"
+2 "pjc4"
+3 "delete"
+4 "pst"
+5 "bb"
+6 "fragment"
+7 "bp"
+8 "pjc3"
+*Edges
+5 8
+6 7
+1 7
+7 8
+2 7
+4 7
+3 4
+1 6
+6 8
+4 6
+1 8
+1 2
+1 4
+2 8
+4 8

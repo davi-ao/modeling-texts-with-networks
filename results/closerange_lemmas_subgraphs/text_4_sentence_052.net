@@ -1,0 +1,49 @@
+*Vertices 17
+1 "reveal"
+2 "densitometry"
+3 "band"
+4 "of"
+5 "immunoreactive"
+6 "contain"
+7 "that"
+8 "artery"
+9 "the"
+10 "1point39"
+11 "approximately"
+12 "time"
+13 "more"
+14 "caldesmon"
+15 "h"
+16 "vein"
+17 "than"
+*Edges
+2 5 1
+2 4 1
+5 4 1
+3 5 1
+3 4 1
+3 1 1
+5 1 1
+3 7 1
+1 7 1
+1 9 0
+7 9 0
+8 7 0
+8 9 1
+8 6 1
+6 9 0
+11 8 1
+11 6 1
+10 11 1
+10 6 1
+10 12 1
+11 12 1
+10 13 1
+15 13 1
+15 12 1
+14 15 1
+14 13 1
+14 17 1
+15 17 1
+14 16 1
+17 16 1

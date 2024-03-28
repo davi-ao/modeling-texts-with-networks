@@ -1,0 +1,21 @@
+*Vertices 10
+1 "lacz"
+2 "unmodified"
+3 "ad5cmv"
+4 "use"
+5 "be"
+6 "free"
+7 "solution"
+8 "in"
+9 "comparison"
+10 "for"
+*Edges
+2 3
+3 1
+1 5
+5 4
+4 6
+6 8
+8 7
+7 10
+10 9

@@ -1,0 +1,14 @@
+*Vertices 5
+1 "calculate"
+2 "set"
+3 "value"
+4 "adjust"
+5 "follow"
+*Edges
+4 1 1
+4 2 1
+1 2 1
+4 3 1
+2 3 1
+4 5 1
+5 3 1

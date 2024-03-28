@@ -1,0 +1,23 @@
+*Vertices 8
+1 "agreement"
+2 "this"
+3 "is"
+4 "in"
+5 "study"
+6 "with"
+7 "our"
+8 "earlier"
+*Edges
+1 8
+1 7
+7 8
+3 4
+4 5
+2 4
+4 6
+3 5
+2 3
+3 6
+5 7
+2 5
+2 6

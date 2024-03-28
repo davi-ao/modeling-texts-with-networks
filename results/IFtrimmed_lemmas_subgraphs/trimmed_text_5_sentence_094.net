@@ -1,0 +1,24 @@
+*Vertices 8
+1 "marker"
+2 "both"
+3 "upregulate"
+4 "be"
+5 "strongly"
+6 "IFN"
+7 "by"
+8 "γ"
+*Edges
+2 4
+4 7
+4 6
+4 8
+2 7
+2 6
+2 8
+6 7
+1 7
+7 8
+6 8
+1 5
+1 3
+3 5

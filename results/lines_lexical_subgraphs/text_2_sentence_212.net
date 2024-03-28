@@ -1,0 +1,15 @@
+*Vertices 7
+1 "have"
+2 "temperature"
+3 "effect"
+4 "strong"
+5 "defect"
+6 "ALM"
+7 "migration"
+*Edges
+2 1
+1 4
+4 3
+3 6
+6 7
+7 5

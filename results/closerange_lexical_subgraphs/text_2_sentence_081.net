@@ -1,0 +1,58 @@
+*Vertices 20
+1 "case"
+2 "seem"
+3 "describe"
+4 "here"
+5 "unlikely"
+6 "induce"
+7 "rnai"
+8 "be"
+9 "migration"
+10 "ALM"
+11 "defect"
+12 "PLM"
+13 "axonal"
+14 "morphology"
+15 "protein"
+16 "predict"
+17 "encode"
+18 "gene"
+19 "sequence"
+20 "titrate"
+*Edges
+1 3 1
+1 4 1
+3 4 1
+3 2 1
+4 2 1
+4 5 1
+2 5 1
+7 5 1
+8 7 0
+8 5 1
+8 6 0
+6 7 1
+10 8 0
+10 6 1
+10 9 1
+6 9 1
+10 12 1
+9 12 1
+13 9 1
+13 12 1
+13 14 1
+14 12 1
+13 11 1
+11 14 1
+8 11 0
+8 14 0
+8 15 0
+16 15 1
+17 16 1
+17 15 1
+17 18 1
+18 15 0
+17 20 1
+18 20 1
+18 19 1
+19 20 1

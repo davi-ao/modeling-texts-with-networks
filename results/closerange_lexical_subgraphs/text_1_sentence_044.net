@@ -1,0 +1,65 @@
+*Vertices 23
+1 "covariate"
+2 "clinical"
+3 "include"
+4 "disease"
+5 "hypertension"
+6 "cardiovascular"
+7 "prevalent"
+8 "heart"
+9 "peripheral"
+10 "vascular"
+11 "thickness"
+12 "cerebrovascular"
+13 "maximum"
+14 "cholesterol"
+15 "artery"
+16 "internal"
+17 "carotid"
+18 "depression"
+19 "cesd"
+20 "score"
+21 "serum"
+22 "albumin"
+23 "creatinine"
+*Edges
+2 1 1
+2 3 1
+1 3 1
+1 5 1
+5 3 1
+6 5 1
+6 3 1
+6 4 1
+4 5 1
+6 7 1
+4 7 1
+4 8 1
+8 7 1
+4 9 1
+8 9 1
+4 10 1
+12 4 1
+12 10 1
+12 13 1
+4 11 1
+13 11 1
+16 13 1
+17 16 1
+17 11 1
+15 17 1
+15 16 1
+15 18 1
+17 18 1
+15 19 1
+19 18 1
+19 20 1
+18 20 1
+19 21 1
+20 21 1
+22 20 1
+22 21 1
+22 14 1
+14 21 1
+14 23 1
+23 21 1

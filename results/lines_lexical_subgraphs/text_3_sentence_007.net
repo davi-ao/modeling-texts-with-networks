@@ -1,0 +1,27 @@
+*Vertices 13
+1 "limit"
+2 "however"
+3 "specificity"
+4 "such"
+5 "site"
+6 "be"
+7 "seriously"
+8 "diffuse"
+9 "vector"
+10 "viral"
+11 "freely"
+12 "solution"
+13 "application"
+*Edges
+2 4
+4 5
+5 3
+3 6
+6 7
+7 1
+1 10
+10 9
+9 8
+8 11
+11 12
+12 13

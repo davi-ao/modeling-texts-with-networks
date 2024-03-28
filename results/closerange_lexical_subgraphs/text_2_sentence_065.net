@@ -1,0 +1,29 @@
+*Vertices 10
+1 "region"
+2 "appear"
+3 "suppress"
+4 "Pst"
+5 "bb"
+6 "defect"
+7 "migration"
+8 "compare"
+9 "pjc3"
+10 "pjc4"
+*Edges
+5 4 1
+5 1 1
+4 1 1
+2 5 1
+2 4 1
+2 3 1
+5 3 1
+2 7 1
+7 3 1
+6 7 1
+6 3 1
+8 6 1
+8 7 1
+8 9 1
+6 9 1
+8 10 1
+9 10 1

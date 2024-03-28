@@ -1,0 +1,16 @@
+*Vertices 7
+1 "way"
+2 "follow"
+3 "cell"
+4 "process"
+5 "cue"
+6 "adhesive"
+7 "guidance"
+*Edges
+5 6
+6 7
+4 6
+1 6
+2 3
+2 5
+5 7

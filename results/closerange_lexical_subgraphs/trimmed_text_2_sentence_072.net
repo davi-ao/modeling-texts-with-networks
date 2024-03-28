@@ -1,0 +1,22 @@
+*Vertices 8
+1 "report"
+2 "have"
+3 "be"
+4 "expression"
+5 "gfp"
+6 "neuron"
+7 "effect"
+8 "toxic"
+*Edges
+1 2
+1 4
+4 5
+1 5
+4 6
+5 6
+2 5
+2 6
+2 8
+6 8
+2 7
+7 8

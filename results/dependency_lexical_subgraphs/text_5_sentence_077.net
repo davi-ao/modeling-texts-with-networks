@@ -1,0 +1,17 @@
+*Vertices 8
+1 "render"
+2 "pretreatment"
+3 "cell"
+4 "raw"
+5 "rankl"
+6 "hour"
+7 "resistant"
+8 "IFN"
+*Edges
+1 2
+3 4
+2 3
+2 5
+2 6
+1 7
+7 8

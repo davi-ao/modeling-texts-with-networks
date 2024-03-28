@@ -1,0 +1,21 @@
+*Vertices 10
+1 "serve"
+2 "however"
+3 "type"
+4 "vessel"
+5 "blood"
+6 "function"
+7 "distinct"
+8 "circulation"
+9 "resistance"
+10 "capacitance"
+*Edges
+2 3
+3 5
+5 4
+4 1
+1 7
+7 6
+6 8
+8 9
+9 10

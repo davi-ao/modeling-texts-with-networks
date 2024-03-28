@@ -1,0 +1,59 @@
+*Vertices 20
+1 "consistent"
+2 "collectively"
+3 "finding"
+4 "be"
+5 "observation"
+6 "associate"
+7 "cell"
+8 "th1"
+9 "disease"
+10 "erosive"
+11 "have"
+12 "IFN"
+13 "do"
+14 "not"
+15 "activity"
+16 "antiresorptive"
+17 "inhibit"
+18 "il"
+19 "resorption"
+20 "bone"
+*Edges
+4 2 1
+4 3 1
+2 3 1
+4 1 1
+1 3 1
+4 5 0
+1 5 1
+1 8 1
+5 8 1
+7 5 1
+7 8 1
+4 7 0
+4 8 0
+6 4 1
+6 7 0
+6 10 1
+4 10 0
+6 9 1
+9 10 1
+9 12 1
+9 13 1
+13 12 1
+13 14 1
+12 14 1
+13 11 1
+11 14 1
+16 11 1
+16 14 1
+15 16 1
+15 11 1
+15 18 1
+16 18 1
+15 17 1
+20 18 1
+20 17 1
+20 19 1
+17 19 1

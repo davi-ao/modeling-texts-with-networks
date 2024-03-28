@@ -1,0 +1,21 @@
+*Vertices 8
+1 "find"
+2 "too"
+3 "contribute"
+4 "region"
+5 "several"
+6 "sequence"
+7 "upstream"
+8 "effect"
+*Edges
+3 4
+3 6
+2 3
+3 7
+1 8
+1 2
+4 6
+4 5
+4 7
+6 7
+2 5

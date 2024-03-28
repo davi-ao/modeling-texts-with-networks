@@ -1,0 +1,11 @@
+*Vertices 5
+1 "be"
+2 "difference"
+3 "significant"
+4 "content"
+5 "caldesmon"
+*Edges
+1 2
+2 5
+2 4
+2 3

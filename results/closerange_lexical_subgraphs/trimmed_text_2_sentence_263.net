@@ -1,0 +1,20 @@
+*Vertices 7
+1 "prf4"
+2 "plasmid"
+3 "inject"
+4 "be"
+5 "co"
+6 "ml"
+7 "μg"
+*Edges
+1 2
+4 5
+1 5
+3 4
+3 5
+2 5
+2 3
+3 7
+2 7
+2 6
+6 7

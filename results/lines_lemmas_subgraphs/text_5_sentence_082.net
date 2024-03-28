@@ -1,0 +1,22 @@
+*Vertices 9
+1 "phase"
+2 "the"
+3 "long"
+4 "pretreatment"
+5 "resistance"
+6 "great"
+7 "IFN"
+8 "to"
+9 "γ"
+*Edges
+2 3
+3 2
+2 4
+4 1
+1 2
+2 6
+6 2
+2 5
+5 8
+8 7
+7 9

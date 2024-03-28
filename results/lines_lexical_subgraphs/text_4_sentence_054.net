@@ -1,0 +1,22 @@
+*Vertices 10
+1 "reveal"
+2 "analysis"
+3 "band"
+4 "tm"
+5 "lack"
+6 "difference"
+7 "significant"
+8 "total"
+9 "artery"
+10 "vein"
+*Edges
+2 4
+4 3
+3 1
+1 5
+5 7
+7 6
+6 8
+8 4
+4 9
+9 10

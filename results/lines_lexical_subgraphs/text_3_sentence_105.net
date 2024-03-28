@@ -1,0 +1,21 @@
+*Vertices 10
+1 "application"
+2 "such"
+3 "creation"
+4 "be"
+5 "array"
+6 "virus"
+7 "expression"
+8 "analysis"
+9 "functional"
+10 "gene"
+*Edges
+2 1
+1 4
+4 3
+3 6
+6 5
+5 7
+7 9
+9 8
+8 10

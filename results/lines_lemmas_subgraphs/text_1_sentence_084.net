@@ -1,0 +1,23 @@
+*Vertices 11
+1 "analysis"
+2 "subsequent"
+3 "adjust"
+4 "be"
+5 "race"
+6 "only"
+7 "for"
+8 "age"
+9 "smoking"
+10 "and"
+11 "former"
+*Edges
+2 1
+1 4
+4 3
+3 6
+6 7
+7 8
+8 5
+5 10
+10 11
+11 9

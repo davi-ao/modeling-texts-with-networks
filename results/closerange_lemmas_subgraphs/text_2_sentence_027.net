@@ -1,0 +1,49 @@
+*Vertices 17
+1 "guidance"
+2 "the"
+3 "understand"
+4 "cell"
+5 "of"
+6 "axon"
+7 "and"
+8 "axis"
+9 "along"
+10 "anterior"
+11 "posterior"
+12 "elegans"
+13 "Caenorhabditis"
+14 "be"
+15 "not"
+16 "as"
+17 "well"
+*Edges
+1 5 0
+1 2 0
+5 2 0
+4 5 0
+7 4 0
+7 5 0
+6 4 1
+9 7 1
+9 6 1
+9 2 1
+6 2 0
+9 10 1
+10 2 0
+10 11 1
+10 8 1
+8 11 1
+8 5 1
+5 11 0
+13 5 1
+13 12 1
+12 5 0
+14 13 0
+14 12 0
+14 15 1
+12 15 1
+16 14 0
+16 15 0
+16 17 1
+15 17 0
+16 3 1

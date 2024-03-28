@@ -1,0 +1,26 @@
+*Vertices 9
+1 "factor"
+2 "sequester"
+3 "affect"
+4 "sequence"
+5 "titrate"
+6 "do"
+7 "not"
+8 "migration"
+9 "cell"
+*Edges
+1 2 1
+1 5 1
+2 5 1
+4 2 1
+4 5 1
+6 4 1
+6 5 1
+6 7 1
+7 4 0
+3 6 1
+3 7 1
+3 9 1
+9 7 0
+3 8 1
+9 8 1

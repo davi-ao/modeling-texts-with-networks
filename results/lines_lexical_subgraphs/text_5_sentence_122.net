@@ -1,0 +1,27 @@
+*Vertices 13
+1 "retention"
+2 "intriguing"
+3 "signaling"
+4 "Jak"
+5 "stat1"
+6 "osteoclast"
+7 "stimulate"
+8 "rankl"
+9 "be"
+10 "insensitivity"
+11 "give"
+12 "demonstrate"
+13 "IFN"
+*Edges
+1 4
+4 5
+5 3
+3 8
+8 7
+7 6
+6 9
+9 2
+2 11
+11 12
+12 10
+10 13

@@ -1,0 +1,26 @@
+*Vertices 12
+1 "elegans"
+2 "Caenorhabditis"
+3 "result"
+4 "presence"
+5 "rna"
+6 "double"
+7 "strand"
+8 "correspond"
+9 "sequence"
+10 "gene"
+11 "usually"
+12 "silencing"
+*Edges
+2 1
+1 4
+4 6
+6 7
+7 5
+5 8
+8 9
+9 10
+10 11
+11 3
+3 12
+12 10

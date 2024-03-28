@@ -1,0 +1,17 @@
+*Vertices 8
+1 "extraction"
+2 "protein"
+3 "therefore"
+4 "consider"
+5 "cycle"
+6 "third"
+7 "be"
+8 "complete"
+*Edges
+1 2
+3 1
+5 6
+4 5
+4 7
+1 4
+4 8

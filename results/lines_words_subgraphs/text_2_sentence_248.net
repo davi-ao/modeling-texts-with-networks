@@ -1,0 +1,17 @@
+*Vertices 8
+1 "fragments"
+2 "the"
+3 "remaining"
+4 "religated"
+5 "make"
+6 "were"
+7 "to"
+8 "pjc8"
+*Edges
+2 3
+3 1
+1 6
+6 4
+4 7
+7 5
+5 8

@@ -1,0 +1,15 @@
+*Vertices 7
+1 "step"
+2 "this"
+3 "repeat"
+4 "be"
+5 "time"
+6 "several"
+7 "more"
+*Edges
+2 1
+1 4
+4 3
+3 6
+6 7
+7 5

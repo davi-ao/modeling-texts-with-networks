@@ -1,0 +1,36 @@
+*Vertices 13
+1 "organization"
+2 "gross"
+3 "study"
+4 "artery"
+5 "canine"
+6 "mesenteric"
+7 "vein"
+8 "preparation"
+9 "be"
+10 "microscopy"
+11 "conventional"
+12 "contrast"
+13 "phase"
+*Edges
+5 2 1
+5 1 1
+2 1 1
+5 6 1
+6 1 1
+4 6 1
+4 7 1
+6 7 1
+4 8 1
+8 7 1
+9 8 1
+9 7 0
+9 3 0
+8 3 1
+9 11 1
+11 3 1
+11 13 1
+13 3 1
+12 11 1
+12 13 1
+12 10 1

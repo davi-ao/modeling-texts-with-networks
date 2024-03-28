@@ -1,0 +1,27 @@
+*Vertices 12
+1 "show"
+2 "figure"
+3 "region"
+4 "include"
+5 "mec"
+6 "plasmid"
+7 "distribution"
+8 "position"
+9 "ALM"
+10 "strain"
+11 "separate"
+12 "make"
+*Edges
+1 2
+4 3
+3 5
+1 4
+4 6
+4 7
+6 7
+8 9
+7 8
+10 11
+4 10
+10 12
+12 6

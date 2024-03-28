@@ -1,0 +1,21 @@
+*Vertices 9
+1 "ring"
+2 "plastic"
+3 "remove"
+4 "agarose"
+5 "be"
+6 "well"
+7 "entire"
+8 "wash"
+9 "pbs"
+*Edges
+2 1
+1 4
+4 5
+5 3
+3 6
+6 7
+7 6
+6 5
+5 8
+8 9

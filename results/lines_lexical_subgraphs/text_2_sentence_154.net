@@ -1,0 +1,17 @@
+*Vertices 8
+1 "alms"
+2 "show"
+3 "anterior"
+4 "defect"
+5 "morphology"
+6 "axon"
+7 "be"
+8 "position"
+*Edges
+1 2
+2 4
+4 6
+6 5
+5 7
+7 3
+3 8

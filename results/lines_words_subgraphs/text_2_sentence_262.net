@@ -1,0 +1,23 @@
+*Vertices 11
+1 "pjc15"
+2 "plasmids"
+3 "pjc10"
+4 "injected"
+5 "were"
+6 "tu2562"
+7 "into"
+8 "ml"
+9 "at"
+10 "μg"
+11 "100"
+*Edges
+2 3
+3 1
+1 5
+5 4
+4 7
+7 6
+6 9
+9 11
+11 10
+10 8

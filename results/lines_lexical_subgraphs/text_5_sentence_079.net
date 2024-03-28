@@ -1,0 +1,25 @@
+*Vertices 12
+1 "characterize"
+2 "resistance"
+3 "mediate"
+4 "rankl"
+5 "IFN"
+6 "perform"
+7 "response"
+8 "series"
+9 "dose"
+10 "experiment"
+11 "course"
+12 "time"
+*Edges
+1 4
+4 3
+3 2
+2 5
+5 6
+6 8
+8 9
+9 7
+7 12
+12 11
+11 10

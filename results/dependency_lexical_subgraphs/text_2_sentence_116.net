@@ -1,0 +1,27 @@
+*Vertices 13
+1 "misplace"
+2 "thus"
+3 "affect"
+4 "array"
+5 "transgenic"
+6 "contain"
+7 "sequence"
+8 "titrate"
+9 "migration"
+10 "cell"
+11 "AVMs"
+12 "also"
+13 "be"
+*Edges
+1 2
+4 5
+3 4
+4 6
+7 8
+6 7
+1 3
+9 10
+3 9
+1 11
+1 12
+1 13

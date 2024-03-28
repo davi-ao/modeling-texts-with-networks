@@ -1,0 +1,26 @@
+*Vertices 9
+1 "help"
+2 "alternatively"
+3 "element"
+4 "this"
+5 "might"
+6 "sustain"
+7 "expression"
+8 "mec"
+9 "3"
+*Edges
+3 9
+7 9
+8 9
+4 9
+1 2
+2 6
+3 7
+3 8
+3 5
+3 4
+7 8
+4 7
+1 5
+4 8
+4 5

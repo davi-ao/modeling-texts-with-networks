@@ -1,0 +1,21 @@
+*Vertices 7
+1 "acetone"
+2 "evaporate"
+3 "be"
+4 "then"
+5 "centrifuge"
+6 "vac"
+7 "speed"
+*Edges
+1 5
+1 2
+1 7
+1 6
+3 4
+2 5
+5 7
+4 5
+5 6
+2 7
+2 6
+6 7

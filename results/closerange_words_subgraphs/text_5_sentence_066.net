@@ -1,0 +1,57 @@
+*Vertices 19
+1 "acquired"
+2 "data"
+3 "analyzed"
+4 "were"
+5 "using"
+6 "instrument"
+7 "a"
+8 "facscalibur"
+9 "bedford"
+10 "beckton"
+11 "dickenson"
+12 "usa"
+13 "ma"
+14 "and"
+15 "version"
+16 "by"
+17 "cellquest"
+18 "software"
+19 "3point1"
+*Edges
+1 2 1
+1 4 1
+2 4 1
+1 5 1
+5 4 1
+7 5 1
+7 8 1
+8 5 1
+7 6 1
+8 6 1
+10 8 1
+10 6 1
+10 11 1
+11 6 1
+10 9 1
+9 11 1
+9 13 1
+11 13 1
+9 12 1
+14 13 1
+14 12 1
+14 4 0
+3 14 1
+3 4 1
+3 16 1
+16 4 1
+3 17 1
+16 17 1
+16 18 1
+17 18 1
+17 15 1
+19 18 1
+19 15 1
+19 10 1
+10 15 1
+19 11 1

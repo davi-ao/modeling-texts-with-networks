@@ -1,0 +1,20 @@
+*Vertices 8
+1 "elegans"
+2 "Caenorhabditis"
+3 "maintain"
+4 "be"
+5 "describe"
+6 "as"
+7 "Brenner"
+8 "by"
+*Edges
+4 6
+6 8
+5 6
+4 8
+2 4
+4 5
+1 4
+3 4
+3 7
+1 2

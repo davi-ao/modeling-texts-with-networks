@@ -1,0 +1,19 @@
+*Vertices 9
+1 "use"
+2 "also"
+3 "approach"
+4 "alternative"
+5 "assign"
+6 "value"
+7 "different"
+8 "level"
+9 "evgfp"
+*Edges
+2 1
+1 4
+4 3
+3 5
+5 7
+7 6
+6 8
+8 9

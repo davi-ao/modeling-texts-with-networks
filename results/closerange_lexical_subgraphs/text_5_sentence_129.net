@@ -1,0 +1,51 @@
+*Vertices 18
+1 "appear"
+2 "thus"
+3 "mediate"
+4 "activity"
+5 "IFN"
+6 "osteoclast"
+7 "be"
+8 "differentiation"
+9 "induce"
+10 "terminal"
+11 "lineage"
+12 "away"
+13 "interfere"
+14 "il"
+15 "directly"
+16 "signaling"
+17 "rankl"
+18 "osteoclastogenesis"
+*Edges
+1 5 1
+1 2 1
+5 2 1
+1 6 1
+5 6 1
+4 5 1
+4 6 1
+4 7 0
+7 6 0
+4 3 1
+7 3 0
+7 9 0
+9 3 1
+9 10 1
+3 10 1
+8 9 1
+8 10 1
+12 8 1
+12 10 1
+12 6 1
+8 6 1
+12 11 1
+14 11 1
+15 14 1
+15 11 1
+14 13 1
+13 17 1
+13 16 1
+17 16 1
+18 17 1
+18 16 1

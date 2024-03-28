@@ -1,0 +1,24 @@
+*Vertices 11
+1 "spot"
+2 "first"
+3 "create"
+4 "moiety"
+5 "biotin"
+6 "well"
+7 "be"
+8 "use"
+9 "sulfo"
+10 "nhs"
+11 "lc"
+*Edges
+2 1
+1 5
+5 4
+4 6
+6 7
+7 3
+3 8
+8 9
+9 10
+10 11
+11 5

@@ -1,0 +1,21 @@
+*Vertices 10
+1 "homology"
+2 "sequence"
+3 "identify"
+4 "be"
+5 "algorithm"
+6 "Blast"
+7 "Center"
+8 "National"
+9 "Information"
+10 "Biotechnology"
+*Edges
+2 1
+1 4
+4 3
+3 6
+6 5
+5 8
+8 7
+7 10
+10 9

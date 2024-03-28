@@ -1,0 +1,12 @@
+*Vertices 5
+1 "propose"
+2 "Allison"
+3 "man"
+4 "old"
+5 "woman"
+*Edges
+2 1
+1 4
+4 3
+3 4
+4 5

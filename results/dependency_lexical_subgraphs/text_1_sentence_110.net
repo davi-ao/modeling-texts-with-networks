@@ -1,0 +1,24 @@
+*Vertices 11
+1 "show"
+2 "compare"
+3 "YHL"
+4 "obese"
+5 "normal"
+6 "only"
+7 "woman"
+8 "size"
+9 "large"
+10 "significant"
+11 "effect"
+*Edges
+1 2
+3 4
+4 5
+3 6
+2 3
+3 7
+8 9
+9 10
+8 10
+8 11
+1 8

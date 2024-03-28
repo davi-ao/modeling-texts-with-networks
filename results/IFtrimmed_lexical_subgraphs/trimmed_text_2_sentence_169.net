@@ -1,0 +1,15 @@
+*Vertices 6
+1 "facilitate"
+2 "thus"
+3 "binding"
+4 "factor"
+5 "cooperatively"
+6 "other"
+*Edges
+1 3
+3 4
+3 6
+1 5
+1 6
+4 6
+2 4

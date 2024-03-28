@@ -1,0 +1,15 @@
+*Vertices 7
+1 "experiment"
+2 "use"
+3 "artery"
+4 "mesenteric"
+5 "vein"
+6 "dog"
+7 "different"
+*Edges
+1 2
+2 4
+4 3
+3 5
+5 7
+7 6

@@ -1,0 +1,22 @@
+*Vertices 10
+1 "system"
+2 "apply"
+3 "solution"
+4 "target"
+5 "contain"
+6 "vector"
+7 "free"
+8 "viral"
+9 "be"
+10 "cell"
+*Edges
+2 1
+2 3
+4 3
+3 5
+6 7
+6 8
+5 6
+2 9
+2 4
+4 10

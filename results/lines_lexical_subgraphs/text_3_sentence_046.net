@@ -1,0 +1,25 @@
+*Vertices 11
+1 "cell"
+2 "D"
+3 "place"
+4 "be"
+5 "coat"
+6 "virus"
+7 "well"
+8 "time"
+9 "culture"
+10 "37degreesc"
+11 "h"
+*Edges
+2 1
+1 4
+4 3
+3 6
+6 5
+5 7
+7 8
+8 1
+1 7
+7 9
+9 10
+10 11

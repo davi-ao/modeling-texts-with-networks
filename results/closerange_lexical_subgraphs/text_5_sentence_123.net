@@ -1,0 +1,32 @@
+*Vertices 11
+1 "know"
+2 "be"
+3 "beg"
+4 "express"
+5 "osteoclast"
+6 "receptor"
+7 "IFN"
+8 "question"
+9 "remain"
+10 "pathway"
+11 "operant"
+*Edges
+2 1 1
+2 5 0
+1 5 1
+4 1 1
+4 5 1
+4 7 1
+7 5 1
+4 6 1
+7 6 0
+3 7 1
+3 6 1
+3 8 1
+8 6 1
+3 10 1
+10 8 1
+10 9 1
+8 9 1
+11 10 1
+11 9 1

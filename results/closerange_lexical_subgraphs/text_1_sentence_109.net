@@ -1,0 +1,47 @@
+*Vertices 16
+1 "size"
+2 "effect"
+3 "yield"
+4 "overweight"
+5 "compare"
+6 "normal"
+7 "need"
+8 "small"
+9 "significant"
+10 "suggest"
+11 "sign"
+12 "inconsistent"
+13 "large"
+14 "extremely"
+15 "sample"
+16 "be"
+*Edges
+5 2 1
+5 1 1
+2 1 1
+5 4 1
+5 6 1
+6 4 1
+6 3 1
+4 3 1
+6 8 1
+8 3 1
+9 3 1
+2 9 1
+2 8 1
+2 12 1
+12 11 1
+11 1 1
+12 10 1
+11 10 1
+14 11 1
+14 10 1
+14 13 1
+13 10 1
+14 15 1
+13 15 1
+13 1 1
+15 1 1
+16 15 0
+16 1 0
+7 1 1

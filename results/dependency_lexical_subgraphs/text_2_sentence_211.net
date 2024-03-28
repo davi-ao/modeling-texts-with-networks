@@ -1,0 +1,24 @@
+*Vertices 11
+1 "migrate"
+2 "however"
+3 "ALMs"
+4 "position"
+5 "more"
+6 "anterior"
+7 "terminate"
+8 "axon"
+9 "PLMs"
+10 "often"
+11 "posterior"
+*Edges
+1 2
+1 3
+4 5
+4 6
+1 4
+8 9
+7 8
+7 10
+1 7
+4 11
+7 4

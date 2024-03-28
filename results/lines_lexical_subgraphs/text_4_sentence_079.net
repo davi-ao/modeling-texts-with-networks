@@ -1,0 +1,27 @@
+*Vertices 13
+1 "dog"
+2 "mongrel"
+3 "obtain"
+4 "kg"
+5 "average"
+6 "sex"
+7 "be"
+8 "vendor"
+9 "license"
+10 "Department"
+11 "States"
+12 "United"
+13 "Agriculture"
+*Edges
+2 1
+1 6
+6 5
+5 4
+4 7
+7 3
+3 8
+8 9
+9 12
+12 11
+11 10
+10 13

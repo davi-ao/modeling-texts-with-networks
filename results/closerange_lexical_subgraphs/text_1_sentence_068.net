@@ -1,0 +1,39 @@
+*Vertices 14
+1 "calculate"
+2 "statistics"
+3 "additional"
+4 "descriptive"
+5 "show"
+6 "year"
+7 "final"
+8 "line"
+9 "YOL"
+10 "life"
+11 "unhealthy"
+12 "YHL"
+13 "lose"
+14 "death"
+*Edges
+3 1 1
+3 4 1
+1 4 1
+3 2 1
+4 2 1
+5 2 1
+7 5 1
+7 2 1
+7 8 1
+8 5 1
+7 6 1
+8 6 1
+8 11 1
+10 11 1
+10 6 1
+10 9 1
+11 9 1
+10 12 1
+12 9 1
+6 9 1
+14 6 1
+14 9 1
+13 9 1

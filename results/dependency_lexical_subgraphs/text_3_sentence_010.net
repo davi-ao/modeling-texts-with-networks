@@ -1,0 +1,27 @@
+*Vertices 12
+1 "reason"
+2 "infect"
+3 "vector"
+4 "such"
+5 "immobilize"
+6 "viral"
+7 "cell"
+8 "site"
+9 "only"
+10 "contact"
+11 "surface"
+12 "solid"
+*Edges
+3 4
+3 5
+3 6
+2 3
+1 2
+2 7
+8 9
+8 10
+2 8
+11 12
+8 11
+8 7
+11 7

@@ -1,0 +1,27 @@
+*Vertices 13
+1 "aspect"
+2 "what"
+3 "affect"
+4 "then"
+5 "mec"
+6 "of"
+7 "3"
+8 "expression"
+9 "be"
+10 "element"
+11 "by"
+12 "this"
+13 "control"
+*Edges
+2 1
+1 4
+4 6
+6 5
+5 7
+7 8
+8 9
+9 3
+3 11
+11 12
+12 13
+13 10

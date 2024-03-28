@@ -1,0 +1,23 @@
+*Vertices 9
+1 "suggest"
+2 "together"
+3 "evidence"
+4 "modify"
+5 "rankl"
+6 "effect"
+7 "IFN"
+8 "downstream"
+9 "stat1"
+*Edges
+3 8
+4 8
+8 9
+2 8
+6 7
+5 6
+1 6
+5 7
+7 9
+1 7
+2 4
+1 9

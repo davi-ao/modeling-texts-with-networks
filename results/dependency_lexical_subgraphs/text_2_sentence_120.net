@@ -1,0 +1,21 @@
+*Vertices 9
+1 "position"
+2 "show"
+3 "ALMs"
+4 "tu2562"
+5 "be"
+6 "normal"
+7 "misplace"
+8 "ea485"
+9 "grossly"
+*Edges
+1 2
+2 3
+3 4
+1 5
+1 6
+7 3
+3 8
+7 5
+7 9
+1 7

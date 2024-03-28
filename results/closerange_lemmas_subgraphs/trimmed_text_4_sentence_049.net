@@ -1,0 +1,22 @@
+*Vertices 9
+1 "be"
+2 "there"
+3 "difference"
+4 "significant"
+5 "content"
+6 "in"
+7 "the"
+8 "caldesmon"
+9 "of"
+*Edges
+1 4
+1 2
+2 4
+3 4
+3 6
+3 7
+5 6
+5 7
+5 9
+5 8
+8 9

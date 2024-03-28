@@ -1,0 +1,36 @@
+*Vertices 13
+1 "addition"
+2 "contribute"
+3 "study"
+4 "rare"
+5 "relatively"
+6 "comparative"
+7 "vessel"
+8 "capacitative"
+9 "resistive"
+10 "blood"
+11 "bed"
+12 "same"
+13 "vascular"
+*Edges
+1 2 1
+1 3 1
+2 3 1
+2 5 1
+5 3 1
+2 4 1
+4 5 1
+6 4 1
+6 5 1
+6 3 1
+4 3 1
+8 3 1
+8 9 1
+10 8 1
+10 9 1
+10 7 1
+10 12 1
+12 7 1
+12 13 1
+13 7 1
+11 13 1

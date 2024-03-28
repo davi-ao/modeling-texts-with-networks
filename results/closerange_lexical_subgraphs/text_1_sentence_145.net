@@ -1,0 +1,57 @@
+*Vertices 18
+1 "find"
+2 "association"
+3 "present"
+4 "YHL"
+5 "obesity"
+6 "be"
+7 "not"
+8 "analysis"
+9 "mortality"
+10 "suggest"
+11 "measure"
+12 "sensitive"
+13 "more"
+14 "burden"
+15 "adult"
+16 "old"
+17 "woman"
+18 "especially"
+*Edges
+2 1 1
+2 4 1
+1 4 1
+2 5 1
+5 4 1
+6 5 0
+6 4 0
+6 7 0
+7 5 1
+6 3 0
+7 3 0
+9 7 1
+9 3 1
+8 9 1
+8 3 1
+8 10 1
+9 10 1
+8 4 1
+10 4 1
+6 10 0
+6 13 0
+13 4 1
+6 12 1
+13 12 1
+11 13 1
+11 12 1
+14 11 1
+14 12 1
+14 5 1
+14 16 1
+5 16 1
+15 5 1
+15 16 1
+15 18 1
+18 16 1
+15 17 1
+18 17 1

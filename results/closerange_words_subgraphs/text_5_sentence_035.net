@@ -1,0 +1,43 @@
+*Vertices 15
+1 "cells"
+2 "osteoclasts"
+3 "were"
+4 "large"
+5 "multinucleated"
+6 "levels"
+7 "and"
+8 "expressed"
+9 "high"
+10 "trap"
+11 "of"
+12 "tartrate"
+13 "resistant"
+14 "phosphatase"
+15 "acid"
+*Edges
+4 2 1
+4 3 1
+2 3 1
+4 5 1
+5 3 1
+1 4 1
+1 5 1
+7 1 0
+7 5 1
+7 8 0
+1 8 1
+7 9 0
+8 6 1
+9 6 1
+9 11 0
+6 11 1
+6 12 1
+11 12 1
+11 13 0
+13 12 1
+15 13 1
+15 12 1
+15 14 1
+14 13 1
+15 10 1
+14 10 1

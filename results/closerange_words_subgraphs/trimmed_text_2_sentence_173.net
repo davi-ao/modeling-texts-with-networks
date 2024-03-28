@@ -1,0 +1,27 @@
+*Vertices 10
+1 "region"
+2 "the"
+3 "palindrome"
+4 "nucleotide"
+5 "from"
+6 "39"
+7 "96"
+8 "is"
+9 "a"
+10 "degenerate"
+*Edges
+1 5
+1 2
+4 5
+1 4
+5 6
+4 6
+6 7
+4 7
+6 8
+7 8
+7 9
+8 9
+9 10
+8 10
+3 10

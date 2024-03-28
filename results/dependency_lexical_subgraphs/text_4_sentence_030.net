@@ -1,0 +1,27 @@
+*Vertices 12
+1 "axon"
+2 "nerve"
+3 "contain"
+4 "type"
+5 "several"
+6 "vesicle"
+7 "include"
+8 "core"
+9 "dense"
+10 "small"
+11 "electron"
+12 "lucent"
+*Edges
+1 2
+3 1
+4 5
+3 4
+4 6
+4 7
+8 9
+7 8
+6 10
+6 11
+6 12
+7 6
+8 6

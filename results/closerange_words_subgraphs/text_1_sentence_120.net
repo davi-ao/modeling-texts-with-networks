@@ -1,0 +1,48 @@
+*Vertices 17
+1 "limited"
+2 "since"
+3 "improvements"
+4 "future"
+5 "expectancy"
+6 "in"
+7 "life"
+8 "may"
+9 "be"
+10 "made"
+11 "advances"
+12 "the"
+13 "greatest"
+14 "people"
+15 "by"
+16 "improving"
+17 "yhl"
+*Edges
+4 3 1
+4 2 1
+3 2 1
+4 6 1
+3 6 1
+5 6 1
+5 7 1
+5 8 1
+7 8 1
+9 8 1
+9 1 1
+1 8 1
+9 12 0
+1 12 0
+13 1 1
+13 12 1
+11 13 1
+11 12 1
+11 8 1
+13 8 1
+11 9 1
+9 10 1
+10 8 1
+9 15 1
+15 10 1
+15 16 1
+16 10 1
+16 14 1
+14 17 1

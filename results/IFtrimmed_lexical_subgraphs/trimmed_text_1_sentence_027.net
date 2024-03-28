@@ -1,0 +1,24 @@
+*Vertices 9
+1 "examine"
+2 "be"
+3 "add"
+4 "status"
+5 "health"
+6 "time"
+7 "state"
+8 "sixth"
+9 "dead"
+*Edges
+2 3
+3 6
+2 5
+2 6
+1 9
+8 9
+7 9
+4 9
+1 8
+4 5
+7 8
+4 8
+4 7

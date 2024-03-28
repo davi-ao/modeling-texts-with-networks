@@ -1,0 +1,25 @@
+*Vertices 12
+1 "investigate"
+2 "next"
+3 "blunt"
+4 "effect"
+5 "other"
+6 "IFN"
+7 "inhibition"
+8 "osteoclast"
+9 "be"
+10 "cell"
+11 "rankl"
+12 "pretreat"
+*Edges
+2 1
+1 5
+5 6
+6 4
+4 8
+8 7
+7 9
+9 3
+3 11
+11 12
+12 10

@@ -1,0 +1,23 @@
+*Vertices 9
+1 "lineage"
+2 "cell"
+3 "invariant"
+4 "migration"
+5 "be"
+6 "animal"
+7 "identify"
+8 "defect"
+9 "easily"
+*Edges
+1 2
+3 1
+4 2
+1 4
+3 4
+3 5
+3 6
+8 4
+7 8
+7 5
+7 9
+3 7

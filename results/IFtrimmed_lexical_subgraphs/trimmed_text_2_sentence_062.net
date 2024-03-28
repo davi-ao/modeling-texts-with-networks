@@ -1,0 +1,12 @@
+*Vertices 5
+1 "measure"
+2 "position"
+3 "ALM"
+4 "animal"
+5 "strain"
+*Edges
+3 4
+2 3
+3 5
+1 2
+2 5

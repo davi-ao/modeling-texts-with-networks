@@ -1,0 +1,27 @@
+*Vertices 13
+1 "appear"
+2 "therefore"
+3 "decrease"
+4 "descend"
+5 "tree"
+6 "mesenteric"
+7 "potential"
+8 "contractile"
+9 "strip"
+10 "arterial"
+11 "relative"
+12 "fast"
+13 "vein"
+*Edges
+1 2
+2 4
+4 6
+6 5
+5 8
+8 7
+7 10
+10 9
+9 3
+3 12
+12 11
+11 13

@@ -1,0 +1,23 @@
+*Vertices 11
+1 "line"
+2 "germ"
+3 "transformation"
+4 "done"
+5 "was"
+6 "described"
+7 "as"
+8 "mello"
+9 "by"
+10 "al."
+11 "et"
+*Edges
+2 1
+1 3
+3 5
+5 4
+4 7
+7 6
+6 9
+9 8
+8 11
+11 10

@@ -1,0 +1,25 @@
+*Vertices 12
+1 "defect"
+2 "the"
+3 "alm"
+4 "described"
+5 "here"
+6 "useful"
+7 "may"
+8 "be"
+9 "finding"
+10 "for"
+11 "conditions"
+12 "these"
+*Edges
+2 3
+3 1
+1 4
+4 5
+5 7
+7 8
+8 6
+6 10
+10 9
+9 12
+12 11

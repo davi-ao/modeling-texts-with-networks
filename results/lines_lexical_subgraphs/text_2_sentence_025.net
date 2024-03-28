@@ -1,0 +1,23 @@
+*Vertices 11
+1 "member"
+2 "Drosophila"
+3 "tgfβ"
+4 "family"
+5 "involve"
+6 "be"
+7 "also"
+8 "migration"
+9 "control"
+10 "dorsal"
+11 "ventral"
+*Edges
+2 3
+3 4
+4 1
+1 6
+6 7
+7 5
+5 9
+9 10
+10 11
+11 8

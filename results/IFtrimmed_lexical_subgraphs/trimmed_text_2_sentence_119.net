@@ -1,0 +1,18 @@
+*Vertices 7
+1 "position"
+2 "average"
+3 "6point3"
+4 "AVMs"
+5 "ea485"
+6 "tu2562"
+7 "be"
+*Edges
+3 4
+2 7
+1 2
+2 6
+4 5
+1 7
+1 5
+5 6
+1 6

@@ -1,0 +1,27 @@
+*Vertices 13
+1 "reported"
+2 "we"
+3 "previously"
+4 "strategy"
+5 "a"
+6 "similar"
+7 "one"
+8 "to"
+9 "the"
+10 "described"
+11 "study"
+12 "in"
+13 "this"
+*Edges
+1 2
+1 3
+4 5
+1 4
+4 6
+7 8
+7 9
+6 7
+7 10
+11 12
+11 13
+10 11

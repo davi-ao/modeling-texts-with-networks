@@ -1,0 +1,17 @@
+*Vertices 8
+1 "grown"
+2 "animals"
+3 "were"
+4 "20degreesc"
+5 "at"
+6 "stated"
+7 "unless"
+8 "otherwise"
+*Edges
+2 3
+3 1
+1 5
+5 4
+4 7
+7 8
+8 6

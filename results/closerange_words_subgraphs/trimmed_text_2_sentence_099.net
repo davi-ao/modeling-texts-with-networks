@@ -1,0 +1,24 @@
+*Vertices 10
+1 "transformed"
+2 "we"
+3 "generated"
+4 "tu2562"
+5 "plasmids"
+6 "with"
+7 "these"
+8 "and"
+9 "lines"
+10 "transgenic"
+*Edges
+1 4
+1 2
+2 4
+1 6
+4 7
+5 7
+5 6
+5 8
+3 5
+3 10
+3 9
+9 10

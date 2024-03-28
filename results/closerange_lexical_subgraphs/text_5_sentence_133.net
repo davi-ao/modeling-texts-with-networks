@@ -1,0 +1,68 @@
+*Vertices 24
+1 "study"
+2 "future"
+3 "need"
+4 "understand"
+5 "area"
+6 "be"
+7 "well"
+8 "mediate"
+9 "cell"
+10 "t"
+11 "elucidate"
+12 "produce"
+13 "IFN"
+14 "rankl"
+15 "immunity"
+16 "resorption"
+17 "bone"
+18 "role"
+19 "pathogenesis"
+20 "disease"
+21 "osteomyelitis"
+22 "such"
+23 "arthritis"
+24 "erosive"
+*Edges
+5 2 1
+5 1 1
+2 1 1
+5 6 0
+6 1 0
+5 3 1
+6 7 0
+3 7 1
+3 4 1
+4 7 1
+10 7 1
+9 10 1
+9 4 0
+9 12 1
+12 10 1
+9 13 0
+13 12 1
+13 14 1
+12 14 1
+13 8 1
+8 14 1
+15 8 1
+15 14 1
+17 15 1
+17 8 1
+17 16 1
+15 16 1
+17 7 1
+16 7 1
+11 16 1
+11 7 1
+11 18 1
+18 7 1
+11 19 1
+19 18 1
+20 19 1
+20 18 1
+20 22 1
+19 22 1
+21 22 1
+23 24 1
+23 21 1

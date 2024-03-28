@@ -1,0 +1,55 @@
+*Vertices 19
+1 "show"
+2 "figure"
+3 "5"
+4 "prevent"
+5 "that"
+6 "dna"
+7 "include"
+8 "complex"
+9 "carrier"
+10 "may"
+11 "also"
+12 "artifact"
+13 "transformation"
+14 "result"
+15 "titration"
+16 "from"
+17 "factor"
+18 "of"
+19 "transcription"
+*Edges
+3 2 1
+3 1 1
+2 1 1
+3 5 0
+1 5 1
+7 1 1
+7 5 0
+8 7 1
+8 5 1
+9 8 1
+9 7 1
+9 6 1
+8 6 1
+9 10 1
+11 6 1
+11 10 1
+11 4 1
+10 4 1
+11 13 1
+4 13 1
+12 4 1
+12 13 1
+12 14 1
+14 13 1
+12 16 1
+16 14 1
+16 15 1
+14 15 1
+16 18 0
+18 15 1
+18 19 1
+15 19 1
+17 18 0
+17 19 1

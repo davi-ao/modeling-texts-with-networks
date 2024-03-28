@@ -1,0 +1,61 @@
+*Vertices 21
+1 "reported"
+2 "because"
+3 "others"
+4 "have"
+5 "also"
+6 "expect"
+7 "titration"
+8 "competitive"
+9 "sequences"
+10 "by"
+11 "transgenic"
+12 "elegans"
+13 "in"
+14 "caenorhabditis"
+15 "we"
+16 "uncommon"
+17 "that"
+18 "it"
+19 "will"
+20 "not"
+21 "be"
+*Edges
+2 4 1
+2 3 1
+4 3 1
+5 4 1
+5 3 1
+5 1 1
+4 1 1
+5 8 1
+8 1 1
+8 7 1
+1 7 1
+10 8 1
+10 7 1
+10 11 1
+7 11 1
+10 9 1
+9 11 1
+13 9 0
+13 11 1
+14 13 1
+14 9 1
+14 12 1
+12 13 1
+14 15 1
+12 15 1
+12 6 1
+6 15 1
+6 17 1
+17 15 1
+18 17 1
+18 19 1
+17 19 1
+18 20 1
+20 19 1
+21 20 0
+21 19 1
+21 16 1
+20 16 1

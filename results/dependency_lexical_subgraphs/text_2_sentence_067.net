@@ -1,0 +1,22 @@
+*Vertices 10
+1 "deletion"
+2 "further"
+3 "result"
+4 "pjc18"
+5 "region"
+6 "pjc19"
+7 "defect"
+8 "severe"
+9 "less"
+10 "migration"
+*Edges
+1 2
+3 1
+4 5
+1 4
+1 6
+4 6
+8 9
+7 8
+7 10
+3 7

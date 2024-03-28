@@ -1,0 +1,25 @@
+*Vertices 8
+1 "yhl"
+2 "adjust"
+3 "calculate"
+4 "be"
+5 "manner"
+6 "in"
+7 "a"
+8 "similar"
+*Edges
+2 7
+4 7
+6 7
+5 7
+2 4
+2 3
+2 8
+1 2
+4 6
+4 8
+1 4
+1 3
+6 8
+1 6
+1 8

@@ -1,0 +1,27 @@
+*Vertices 12
+1 "extract"
+2 "tissue"
+3 "boil"
+4 "incubate"
+5 "be"
+6 "min"
+7 "sonicate"
+8 "temperature"
+9 "room"
+10 "enhance"
+11 "yield"
+12 "protein"
+*Edges
+2 1
+1 5
+5 3
+3 6
+6 7
+7 6
+6 4
+4 9
+9 8
+8 6
+6 10
+10 12
+12 11

@@ -1,0 +1,27 @@
+*Vertices 11
+1 "concentration"
+2 "high"
+3 "direct"
+4 "factor"
+5 "ALMs"
+6 "migrate"
+7 "posteriorly"
+8 "level"
+9 "low"
+10 "bdus"
+11 "anteriorly"
+*Edges
+1 2
+3 1
+1 4
+3 5
+6 5
+3 6
+6 7
+8 9
+3 8
+8 4
+6 3
+3 10
+6 10
+6 11

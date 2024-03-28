@@ -1,0 +1,40 @@
+*Vertices 14
+1 "contain"
+2 "array"
+3 "extrachromosomal"
+4 "do"
+5 "not"
+6 "pick"
+7 "3gfp"
+8 "mec"
+9 "score"
+10 "first"
+11 "roller"
+12 "then"
+13 "position"
+14 "ALM"
+*Edges
+2 4 1
+2 3 1
+4 3 1
+2 5 0
+4 5 1
+1 4 1
+1 5 1
+1 8 1
+8 5 0
+7 1 1
+7 8 1
+7 10 1
+10 8 1
+7 6 1
+10 6 1
+10 11 1
+6 11 1
+6 12 1
+11 12 1
+9 12 1
+14 9 1
+14 12 1
+14 13 1
+13 9 1

@@ -1,0 +1,40 @@
+*Vertices 14
+1 "plot"
+2 "test"
+3 "yol"
+4 "mean"
+5 "adjusted"
+6 "yhl"
+7 "bmi"
+8 "difference"
+9 "group"
+10 "use"
+11 "interval"
+12 "confidence"
+13 "analysis"
+14 "variance"
+*Edges
+5 4 1
+5 1 1
+4 1 1
+5 3 1
+4 3 1
+5 6 1
+6 3 1
+7 6 1
+7 3 1
+7 2 1
+2 6 1
+7 8 1
+8 2 1
+7 9 1
+8 9 1
+7 10 0
+9 10 0
+12 9 1
+12 10 1
+12 11 1
+13 12 1
+13 11 1
+13 14 1
+11 14 1

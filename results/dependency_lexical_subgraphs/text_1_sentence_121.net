@@ -1,0 +1,24 @@
+*Vertices 11
+1 "suggest"
+2 "take"
+3 "development"
+4 "guideline"
+5 "future"
+6 "yhl"
+7 "measure"
+8 "other"
+9 "quality"
+10 "life"
+11 "account"
+*Edges
+2 3
+4 5
+3 4
+1 2
+2 6
+7 8
+2 7
+6 7
+7 9
+9 10
+2 11

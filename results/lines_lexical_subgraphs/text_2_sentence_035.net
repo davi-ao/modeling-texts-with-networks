@@ -1,0 +1,21 @@
+*Vertices 10
+1 "factor"
+2 "UNC"
+3 "be"
+4 "pou"
+5 "homeodomain"
+6 "transcription"
+7 "need"
+8 "activate"
+9 "gene"
+10 "mec"
+*Edges
+2 3
+3 4
+4 5
+5 6
+6 1
+1 7
+7 8
+8 10
+10 9

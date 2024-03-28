@@ -1,0 +1,19 @@
+*Vertices 9
+1 "microscopes"
+2 "both"
+3 "equipped"
+4 "were"
+5 "optics"
+6 "with"
+7 "fluorescence"
+8 "nomarski"
+9 "and"
+*Edges
+2 1
+1 4
+4 3
+3 6
+6 7
+7 9
+9 8
+8 5

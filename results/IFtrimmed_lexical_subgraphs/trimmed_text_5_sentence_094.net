@@ -1,0 +1,12 @@
+*Vertices 5
+1 "marker"
+2 "upregulate"
+3 "be"
+4 "strongly"
+5 "IFN"
+*Edges
+3 5
+1 5
+1 4
+1 2
+2 4

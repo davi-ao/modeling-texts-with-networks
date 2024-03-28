@@ -1,0 +1,19 @@
+*Vertices 9
+1 "antibody"
+2 "unbound"
+3 "primary"
+4 "remove"
+5 "be"
+6 "wash"
+7 "min"
+8 "buffer"
+9 "tnt"
+*Edges
+2 3
+3 1
+1 5
+5 4
+4 7
+7 6
+6 9
+9 8

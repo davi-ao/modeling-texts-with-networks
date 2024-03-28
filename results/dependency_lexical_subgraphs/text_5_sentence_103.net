@@ -1,0 +1,25 @@
+*Vertices 12
+1 "result"
+2 "present"
+3 "predict"
+4 "determinant"
+5 "timing"
+6 "exposure"
+7 "IFN"
+8 "be"
+9 "important"
+10 "function"
+11 "biological"
+12 "osteoclastogenesis"
+*Edges
+1 2
+3 1
+4 5
+6 7
+5 6
+4 8
+4 9
+3 4
+10 11
+4 10
+4 12

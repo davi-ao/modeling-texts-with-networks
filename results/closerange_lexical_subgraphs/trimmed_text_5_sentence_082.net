@@ -1,0 +1,17 @@
+*Vertices 6
+1 "phase"
+2 "long"
+3 "pretreatment"
+4 "resistance"
+5 "great"
+6 "IFN"
+*Edges
+1 2
+2 3
+1 3
+1 5
+3 5
+4 5
+1 4
+5 6
+4 6

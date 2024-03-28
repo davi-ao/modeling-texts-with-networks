@@ -1,0 +1,23 @@
+*Vertices 11
+1 "take"
+2 "advantage"
+3 "fact"
+4 "express"
+5 "pag"
+6 "mutant"
+7 "3gfp"
+8 "mec"
+9 "be"
+10 "ALMs"
+11 "bdus"
+*Edges
+1 2
+2 3
+3 5
+5 6
+6 8
+8 7
+7 9
+9 4
+4 10
+10 11

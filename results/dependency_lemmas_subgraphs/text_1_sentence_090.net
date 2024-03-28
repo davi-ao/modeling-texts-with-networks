@@ -1,0 +1,25 @@
+*Vertices 10
+1 "bar"
+2 "the"
+3 "offset"
+4 "permit"
+5 "be"
+6 "slightly"
+7 "to"
+8 "all"
+9 "error"
+10 "see"
+*Edges
+1 2
+3 1
+4 1
+3 5
+3 6
+4 7
+3 4
+1 8
+1 9
+10 1
+10 7
+10 5
+4 10

@@ -1,0 +1,45 @@
+*Vertices 17
+1 "way"
+2 "in"
+3 "this"
+4 "activates"
+5 "mec"
+6 "3"
+7 "transcription"
+8 "its"
+9 "own"
+10 "prevents"
+11 "which"
+12 "probably"
+13 "dedifferentiation"
+14 "the"
+15 "neurons"
+16 "of"
+17 "touch"
+*Edges
+2 3 0
+2 1 1
+3 1 1
+5 3 1
+5 1 1
+6 5 1
+6 1 1
+6 4 1
+4 5 1
+6 8 1
+4 8 1
+4 9 1
+8 9 1
+9 7 1
+9 11 1
+10 12 1
+10 11 1
+10 14 1
+13 10 1
+13 14 1
+13 16 1
+16 14 0
+16 17 1
+14 17 1
+15 14 1
+15 17 1

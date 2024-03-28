@@ -1,0 +1,26 @@
+*Vertices 12
+1 "caldesmon"
+2 "weight"
+3 "high"
+4 "molecular"
+5 "h"
+6 "isoform"
+7 "be"
+8 "major"
+9 "muscle"
+10 "intact"
+11 "vascular"
+12 "smooth"
+*Edges
+3 4
+4 2
+2 1
+1 5
+5 1
+1 7
+7 8
+8 6
+6 10
+10 11
+11 12
+12 9

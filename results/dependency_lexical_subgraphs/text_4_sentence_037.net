@@ -1,0 +1,21 @@
+*Vertices 10
+1 "low"
+2 "likewise"
+3 "vein"
+4 "concentration"
+5 "protein"
+6 "cycle"
+7 "third"
+8 "be"
+9 "level"
+10 "detectable"
+*Edges
+1 2
+2 3
+4 5
+1 4
+6 7
+4 6
+1 8
+9 10
+1 9

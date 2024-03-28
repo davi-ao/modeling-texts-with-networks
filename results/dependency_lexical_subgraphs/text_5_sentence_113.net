@@ -1,0 +1,26 @@
+*Vertices 12
+1 "result"
+2 "present"
+3 "suggest"
+4 "change"
+5 "influence"
+6 "cell"
+7 "activate"
+8 "t"
+9 "osteoclast"
+10 "probably"
+11 "depend"
+12 "encounter"
+*Edges
+1 2
+3 1
+4 5
+6 7
+6 8
+5 6
+5 9
+4 10
+3 4
+12 6
+4 12
+12 9

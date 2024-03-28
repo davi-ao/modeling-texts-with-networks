@@ -1,0 +1,12 @@
+*Vertices 5
+1 "palindrome"
+2 "be"
+3 "level"
+4 "more"
+5 "nest"
+*Edges
+1 2
+2 4
+4 3
+3 5
+5 1

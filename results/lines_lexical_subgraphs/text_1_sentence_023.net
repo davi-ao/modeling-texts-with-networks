@@ -1,0 +1,23 @@
+*Vertices 9
+1 "number"
+2 "year"
+3 "life"
+4 "YOL"
+5 "healthy"
+6 "be"
+7 "live"
+8 "person"
+9 "baseline"
+*Edges
+2 3
+3 2
+2 5
+5 3
+3 4
+4 6
+6 1
+1 2
+2 8
+8 7
+7 2
+2 9

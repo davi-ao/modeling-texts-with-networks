@@ -1,0 +1,20 @@
+*Vertices 9
+1 "temperature"
+2 "grow"
+3 "animal"
+4 "be"
+5 "migration"
+6 "affect"
+7 "ALM"
+8 "ea471"
+9 "tu2562"
+*Edges
+5 6
+4 7
+5 7
+7 9
+3 4
+4 5
+2 8
+1 2
+2 9

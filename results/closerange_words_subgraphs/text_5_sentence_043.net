@@ -1,0 +1,51 @@
+*Vertices 18
+1 "rankl"
+2 "in"
+3 "precursors"
+4 "osteoclast"
+5 "induced"
+6 "positive"
+7 "expression"
+8 "increasing"
+9 "trap"
+10 "percent"
+11 "until"
+12 "100"
+13 "virtually"
+14 "cells"
+15 "of"
+16 "mononuclear"
+17 "were"
+18 "highly"
+*Edges
+2 4 0
+2 3 0
+4 3 1
+4 1 1
+5 3 1
+5 1 1
+8 5 1
+8 1 1
+5 9 1
+7 8 1
+7 9 1
+7 11 1
+9 11 1
+7 13 1
+11 13 1
+12 11 1
+12 13 1
+12 10 1
+10 13 1
+12 15 0
+15 10 1
+16 15 1
+16 10 1
+14 16 1
+14 15 0
+14 17 1
+16 17 1
+18 17 1
+18 9 1
+18 6 1
+6 9 1

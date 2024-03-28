@@ -1,0 +1,68 @@
+*Vertices 25
+1 "strategy"
+2 "useful"
+3 "be"
+4 "very"
+5 "development"
+6 "variety"
+7 "application"
+8 "creation"
+9 "include"
+10 "array"
+11 "base"
+12 "cell"
+13 "expression"
+14 "proteomic"
+15 "discovery"
+16 "drug"
+17 "delivery"
+18 "site"
+19 "highly"
+20 "specific"
+21 "transgene"
+22 "therapy"
+23 "gene"
+24 "engineering"
+25 "tissue"
+*Edges
+3 1 0
+3 4 0
+1 4 1
+3 2 1
+2 4 1
+5 2 1
+5 4 1
+5 6 1
+2 6 1
+7 5 1
+7 6 1
+7 9 1
+9 6 1
+7 8 1
+12 8 1
+12 9 1
+11 12 0
+11 8 1
+11 13 1
+12 13 0
+10 13 1
+10 14 1
+13 14 1
+16 14 1
+15 16 1
+15 14 1
+15 19 1
+16 19 1
+15 18 1
+19 18 1
+18 20 1
+17 18 1
+17 20 1
+17 21 1
+20 21 1
+17 23 1
+23 21 1
+23 22 1
+23 25 1
+24 22 1
+24 25 1

@@ -1,0 +1,23 @@
+*Vertices 11
+1 "adults"
+2 "many"
+3 "healthy"
+4 "older"
+5 "report"
+6 "gain"
+7 "gradual"
+8 "weight"
+9 "life"
+10 "throughout"
+11 "adult"
+*Edges
+2 3
+3 4
+4 1
+1 5
+5 7
+7 8
+8 6
+6 10
+10 11
+11 9

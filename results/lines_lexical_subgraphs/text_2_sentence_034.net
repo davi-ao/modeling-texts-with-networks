@@ -1,0 +1,25 @@
+*Vertices 12
+1 "identify"
+2 "Chalfie"
+3 "colleague"
+4 "have"
+5 "cascade"
+6 "transcriptional"
+7 "lead"
+8 "activation"
+9 "gene"
+10 "neuron"
+11 "touch"
+12 "specific"
+*Edges
+2 3
+3 4
+4 1
+1 6
+6 5
+5 7
+7 8
+8 11
+11 10
+10 12
+12 9

@@ -1,0 +1,26 @@
+*Vertices 12
+1 "present"
+2 "perhaps"
+3 "factor"
+4 "be"
+5 "concentration"
+6 "low"
+7 "part"
+8 "mechanism"
+9 "regulation"
+10 "sensitive"
+11 "state"
+12 "cell"
+*Edges
+2 3
+3 4
+4 1
+1 6
+6 5
+5 4
+4 7
+7 8
+8 10
+10 9
+9 12
+12 11

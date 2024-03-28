@@ -1,0 +1,27 @@
+*Vertices 11
+1 "plate"
+2 "culture"
+3 "well"
+4 "cell"
+5 "coat"
+6 "lysine"
+7 "poly"
+8 "d"
+9 "diameter"
+10 "cm"
+11 "biocoat"
+*Edges
+2 3
+2 4
+1 2
+5 1
+3 7
+3 8
+3 6
+6 3
+6 9
+6 10
+8 11
+8 7
+6 8
+5 6

@@ -1,0 +1,16 @@
+*Vertices 6
+1 "analysis"
+2 "perform"
+3 "be"
+4 "separately"
+5 "man"
+6 "woman"
+*Edges
+1 3
+1 2
+1 6
+3 5
+3 6
+5 6
+2 4
+2 6

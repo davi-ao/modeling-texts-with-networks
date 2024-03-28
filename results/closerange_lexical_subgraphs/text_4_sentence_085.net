@@ -1,0 +1,35 @@
+*Vertices 13
+1 "artery"
+2 "use"
+3 "vein"
+4 "perfuse"
+5 "experiment"
+6 "biochemistry"
+7 "protein"
+8 "be"
+9 "water"
+10 "distilled"
+11 "remove"
+12 "min"
+13 "endothelium"
+*Edges
+1 2 0
+1 3 1
+2 3 0
+7 2 0
+7 3 1
+6 7 1
+6 2 1
+6 5 1
+5 7 1
+8 5 0
+8 4 1
+5 4 1
+10 4 1
+10 9 1
+4 9 1
+10 12 1
+12 9 1
+11 9 1
+13 12 1
+13 11 1

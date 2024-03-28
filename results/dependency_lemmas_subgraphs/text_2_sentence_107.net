@@ -1,0 +1,17 @@
+*Vertices 8
+1 "show"
+2 "figure"
+3 "7"
+4 "result"
+5 "the"
+6 "experiment"
+7 "of"
+8 "this"
+*Edges
+1 2
+2 3
+4 5
+1 4
+6 7
+6 8
+4 6

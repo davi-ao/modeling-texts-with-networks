@@ -1,0 +1,19 @@
+*Vertices 8
+1 "defect"
+2 "ALM"
+3 "describe"
+4 "here"
+5 "useful"
+6 "be"
+7 "find"
+8 "condition"
+*Edges
+2 6
+1 2
+6 8
+1 6
+3 6
+7 8
+5 8
+1 3
+3 4

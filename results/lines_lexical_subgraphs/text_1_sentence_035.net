@@ -1,0 +1,24 @@
+*Vertices 11
+1 "result"
+2 "preliminary"
+3 "similar"
+4 "be"
+5 "approach"
+6 "however"
+7 "report"
+8 "use"
+9 "definition"
+10 "only"
+11 "simple"
+*Edges
+2 1
+1 4
+4 3
+3 5
+5 6
+6 7
+7 1
+1 8
+8 10
+10 11
+11 9

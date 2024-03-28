@@ -1,0 +1,48 @@
+*Vertices 17
+1 "calculate"
+2 "set"
+3 "variable"
+4 "adjust"
+5 "possibility"
+6 "adjustment"
+7 "control"
+8 "inappropriately"
+9 "factor"
+10 "affect"
+11 "diabetes"
+12 "such"
+13 "have"
+14 "be"
+15 "causally"
+16 "weight"
+17 "person"
+*Edges
+4 1 1
+4 2 1
+1 2 1
+4 3 1
+2 3 1
+4 5 1
+5 3 1
+6 5 1
+6 3 1
+6 7 1
+7 5 1
+6 8 1
+7 8 1
+7 9 1
+9 8 1
+9 12 1
+11 9 1
+11 12 1
+11 13 1
+13 12 0
+14 13 0
+14 15 1
+15 13 1
+10 14 0
+10 15 1
+10 17 1
+15 17 1
+10 16 1
+17 16 1

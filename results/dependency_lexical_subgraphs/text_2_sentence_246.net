@@ -1,0 +1,15 @@
+*Vertices 7
+1 "remove"
+2 "fragment"
+3 "kpn"
+4 "i"
+5 "pbs1"
+6 "make"
+7 "pbs1δk"
+*Edges
+2 3
+2 4
+1 2
+1 5
+1 6
+6 7

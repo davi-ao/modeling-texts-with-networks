@@ -1,0 +1,27 @@
+*Vertices 13
+1 "test"
+2 "to"
+3 "measure"
+4 "idea"
+5 "this"
+6 "we"
+7 "position"
+8 "the"
+9 "avm"
+10 "tu2562"
+11 "in"
+12 "ea485"
+13 "and"
+*Edges
+2 1
+1 5
+5 4
+4 6
+6 3
+3 8
+8 9
+9 7
+7 11
+11 10
+10 13
+13 12

@@ -1,0 +1,11 @@
+*Vertices 5
+1 "activate"
+2 "mec"
+3 "be"
+4 "protein"
+5 "UNC"
+*Edges
+1 2
+1 5
+1 4
+4 5

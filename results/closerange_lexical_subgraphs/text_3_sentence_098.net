@@ -1,0 +1,44 @@
+*Vertices 15
+1 "difference"
+2 "primary"
+3 "derive"
+4 "strategy"
+5 "be"
+6 "size"
+7 "well"
+8 "surface"
+9 "solid"
+10 "streptavidin"
+11 "coat"
+12 "microbead"
+13 "relative"
+14 "cell"
+15 "target"
+*Edges
+1 2 1
+1 4 1
+2 4 1
+5 1 0
+5 4 0
+5 3 1
+3 4 1
+5 6 0
+3 6 1
+3 9 1
+6 9 1
+6 8 1
+9 8 1
+9 10 1
+10 8 1
+11 10 1
+11 8 1
+11 7 1
+10 7 1
+11 12 1
+12 10 1
+11 13 1
+12 13 1
+12 15 1
+13 15 1
+14 13 1
+14 15 1

@@ -1,0 +1,22 @@
+*Vertices 10
+1 "array"
+2 "transgenic"
+3 "contain"
+4 "elegans"
+5 "Caenorhabditis"
+6 "about"
+7 "copy"
+8 "plasmid"
+9 "use"
+10 "make"
+*Edges
+2 1
+1 5
+5 4
+4 3
+3 6
+6 7
+7 8
+8 9
+9 10
+10 1

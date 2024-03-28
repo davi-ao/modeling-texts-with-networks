@@ -1,0 +1,22 @@
+*Vertices 9
+1 "mechanism"
+2 "molecular"
+3 "underlie"
+4 "effect"
+5 "contrast"
+6 "remain"
+7 "IFN"
+8 "rankl"
+9 "elusive"
+*Edges
+5 9
+4 7
+4 8
+1 9
+2 9
+3 9
+1 7
+7 8
+6 7
+1 8
+1 3

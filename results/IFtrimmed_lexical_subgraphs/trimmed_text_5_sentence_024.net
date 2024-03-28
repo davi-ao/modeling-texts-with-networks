@@ -1,0 +1,26 @@
+*Vertices 9
+1 "particular"
+2 "show"
+3 "IFN"
+4 "efficacious"
+5 "have"
+6 "be"
+7 "treatment"
+8 "osteoporosis"
+9 "human"
+*Edges
+5 6
+3 6
+2 6
+6 7
+4 9
+4 8
+1 4
+4 7
+3 5
+2 5
+8 9
+1 9
+2 3
+1 8
+1 7

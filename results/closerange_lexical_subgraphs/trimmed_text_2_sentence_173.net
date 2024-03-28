@@ -1,0 +1,13 @@
+*Vertices 5
+1 "region"
+2 "palindrome"
+3 "nucleotide"
+4 "be"
+5 "degenerate"
+*Edges
+3 4
+1 3
+4 5
+3 5
+2 4
+2 5

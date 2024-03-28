@@ -1,0 +1,26 @@
+*Vertices 11
+1 "coefficient"
+2 "correlation"
+3 "position"
+4 "average"
+5 "ALM"
+6 "percent"
+7 "animal"
+8 "defect"
+9 "plm"
+10 "axonal"
+11 "be"
+*Edges
+1 4
+2 4
+1 2
+4 5
+1 5
+3 5
+3 4
+5 6
+3 6
+6 7
+3 7
+7 10
+8 10

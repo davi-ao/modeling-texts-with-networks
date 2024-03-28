@@ -1,0 +1,16 @@
+*Vertices 7
+1 "contribute"
+2 "late"
+3 "development"
+4 "mec"
+5 "also"
+6 "maintenance"
+7 "expression"
+*Edges
+1 5
+4 5
+3 7
+2 3
+3 6
+4 7
+2 6

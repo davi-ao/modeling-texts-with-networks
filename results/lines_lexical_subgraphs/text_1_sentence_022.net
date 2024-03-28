@@ -1,0 +1,23 @@
+*Vertices 11
+1 "consider"
+2 "separately"
+3 "group"
+4 "associate"
+5 "bmi"
+6 "be"
+7 "survival"
+8 "low"
+9 "study"
+10 "cite"
+11 "above"
+*Edges
+1 2
+2 3
+3 5
+5 6
+6 4
+4 8
+8 7
+7 9
+9 10
+10 11

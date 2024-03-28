@@ -1,0 +1,25 @@
+*Vertices 12
+1 "8b"
+2 "figure"
+3 "shows"
+4 "distributions"
+5 "the"
+6 "positions"
+7 "of"
+8 "avm"
+9 "strains"
+10 "for"
+11 "these"
+12 "two"
+*Edges
+1 2
+3 1
+4 5
+3 4
+6 7
+6 8
+4 6
+9 10
+9 11
+9 12
+6 9

@@ -1,0 +1,24 @@
+*Vertices 11
+1 "culture"
+2 "less"
+3 "robust"
+4 "quantitate"
+5 "osteoclast"
+6 "well"
+7 "be"
+8 "morge"
+9 "accurately"
+10 "count"
+11 "individual"
+*Edges
+2 3
+3 1
+1 5
+5 6
+6 7
+7 8
+8 9
+9 4
+4 10
+10 11
+11 5

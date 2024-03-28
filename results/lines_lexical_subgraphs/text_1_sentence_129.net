@@ -1,0 +1,19 @@
+*Vertices 9
+1 "find"
+2 "interestingly"
+3 "relationship"
+4 "strong"
+5 "health"
+6 "be"
+7 "adult"
+8 "underweight"
+9 "old"
+*Edges
+2 4
+4 5
+5 3
+3 6
+6 1
+1 8
+8 9
+9 7

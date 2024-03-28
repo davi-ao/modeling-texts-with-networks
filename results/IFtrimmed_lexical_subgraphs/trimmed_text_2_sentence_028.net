@@ -1,0 +1,21 @@
+*Vertices 9
+1 "gene"
+2 "vab"
+3 "involve"
+4 "migration"
+5 "cell"
+6 "anterior"
+7 "posterior"
+8 "be"
+9 "mig"
+*Edges
+6 7
+5 8
+1 8
+4 8
+1 5
+4 5
+3 4
+2 3
+2 9
+2 7

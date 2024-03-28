@@ -1,0 +1,32 @@
+*Vertices 11
+1 "surprisingly"
+2 "not"
+3 "show"
+4 "mutant"
+5 "many"
+6 "also"
+7 "defect"
+8 "extension"
+9 "axon"
+10 "bundle"
+11 "pathfinding"
+*Edges
+5 2 1
+5 1 1
+2 1 1
+5 4 1
+4 1 1
+6 5 1
+6 4 1
+6 3 1
+4 3 1
+6 7 1
+7 3 1
+9 7 1
+9 3 1
+9 8 1
+7 8 1
+9 10 1
+10 8 1
+10 11 1
+8 11 1

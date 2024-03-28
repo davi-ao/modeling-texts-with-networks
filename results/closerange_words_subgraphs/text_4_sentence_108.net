@@ -1,0 +1,36 @@
+*Vertices 14
+1 "antibodies"
+2 "the"
+3 "unbound"
+4 "primary"
+5 "removed"
+6 "were"
+7 "washes"
+8 "by"
+9 "three"
+10 "min"
+11 "5"
+12 "buffer"
+13 "with"
+14 "tnt"
+*Edges
+4 2 1
+4 3 1
+2 3 0
+1 4 1
+1 3 1
+1 6 1
+4 6 0
+5 6 1
+8 6 1
+8 9 1
+5 9 1
+11 8 0
+11 9 1
+11 10 1
+11 7 1
+10 7 1
+7 13 1
+14 13 1
+12 14 1
+12 13 1

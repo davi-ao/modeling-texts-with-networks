@@ -1,0 +1,61 @@
+*Vertices 23
+1 "successful"
+2 "if"
+3 "then"
+4 "so"
+5 "trials"
+6 "behavior"
+7 "change"
+8 "modification"
+9 "of"
+10 "weight"
+11 "might"
+12 "be"
+13 "more"
+14 "evaluated"
+15 "they"
+16 "were"
+17 "health"
+18 "on"
+19 "improved"
+20 "rather"
+21 "than"
+22 "mortality"
+23 "decreased"
+*Edges
+2 4 1
+2 3 1
+4 3 1
+6 4 1
+6 3 1
+6 7 1
+7 3 1
+6 5 1
+7 5 1
+7 9 0
+9 5 0
+9 10 0
+5 10 1
+8 9 1
+8 10 1
+11 10 1
+12 11 1
+12 13 1
+12 1 1
+13 1 1
+2 13 1
+2 1 1
+2 15 1
+2 16 1
+15 16 1
+14 15 1
+18 16 0
+14 19 1
+17 19 1
+17 18 1
+17 20 1
+17 21 1
+18 20 1
+18 21 0
+23 18 1
+23 21 1

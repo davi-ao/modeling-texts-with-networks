@@ -1,0 +1,20 @@
+*Vertices 9
+1 "inheritance"
+2 "Mosaic"
+3 "score"
+4 "array"
+5 "extrachromosomal"
+6 "ALMs"
+7 "contain"
+8 "not"
+9 "have"
+*Edges
+1 2
+3 1
+4 5
+1 4
+3 6
+7 8
+7 9
+3 7
+7 4

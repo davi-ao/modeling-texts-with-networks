@@ -1,0 +1,27 @@
+*Vertices 13
+1 "help"
+2 "furthermore"
+3 "factor"
+4 "activate"
+5 "expression"
+6 "mec"
+7 "cause"
+8 "thereby"
+9 "ALMs"
+10 "differentiate"
+11 "neuron"
+12 "receptor"
+13 "touch"
+*Edges
+2 3
+3 1
+1 4
+4 6
+6 5
+5 8
+8 7
+7 9
+9 10
+10 13
+13 12
+12 11

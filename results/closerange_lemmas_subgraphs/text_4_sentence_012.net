@@ -1,0 +1,70 @@
+*Vertices 24
+1 "experiment"
+2 "we"
+3 "provide"
+4 "hint"
+5 "understand"
+6 "for"
+7 "contribute"
+8 "how"
+9 "morphology"
+10 "the"
+11 "content"
+12 "and"
+13 "contractile"
+14 "protein"
+15 "might"
+16 "function"
+17 "to"
+18 "distinct"
+19 "site"
+20 "of"
+21 "arterial"
+22 "venous"
+23 "circulation"
+24 "splanchnic"
+*Edges
+1 3 1
+1 2 1
+3 2 1
+1 4 1
+4 3 1
+6 4 1
+6 3 1
+6 5 1
+4 5 1
+8 5 1
+8 10 0
+10 5 0
+8 9 1
+9 10 0
+12 10 0
+13 9 1
+12 14 0
+13 14 1
+11 14 1
+11 15 1
+15 14 1
+7 15 1
+7 17 1
+15 17 0
+7 18 1
+18 17 1
+18 16 1
+16 17 1
+18 20 0
+16 20 0
+16 10 0
+20 10 0
+21 20 1
+21 10 0
+12 22 1
+21 22 1
+12 19 0
+20 19 0
+20 22 1
+19 10 0
+20 24 1
+24 10 1
+23 24 1
+23 10 1

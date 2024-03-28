@@ -1,0 +1,25 @@
+*Vertices 12
+1 "use"
+2 "approve"
+3 "dog"
+4 "experiment"
+5 "be"
+6 "Committee"
+7 "Animal"
+8 "Institutional"
+9 "Care"
+10 "Use"
+11 "University"
+12 "Nevada"
+*Edges
+1 3
+3 4
+4 5
+5 2
+2 8
+8 7
+7 9
+9 10
+10 6
+6 11
+11 12

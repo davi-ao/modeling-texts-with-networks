@@ -1,0 +1,16 @@
+*Vertices 7
+1 "test"
+2 "measure"
+3 "idea"
+4 "position"
+5 "avm"
+6 "tu2562"
+7 "ea485"
+*Edges
+3 5
+4 5
+4 7
+6 7
+2 4
+4 6
+1 6

@@ -1,0 +1,36 @@
+*Vertices 13
+1 "expressed"
+2 "unc"
+3 "129"
+4 "is"
+5 "dorsally"
+6 "disrupts"
+7 "and"
+8 "loss"
+9 "function"
+10 "of"
+11 "migrations"
+12 "dorsal"
+13 "axon"
+*Edges
+3 4 1
+3 2 1
+4 2 1
+3 1 1
+1 4 1
+5 1 1
+5 4 1
+7 1 0
+7 8 0
+5 8 1
+7 10 0
+10 2 0
+3 10 1
+3 9 1
+9 2 1
+3 6 1
+6 9 1
+12 9 1
+13 6 1
+13 12 1
+13 11 1

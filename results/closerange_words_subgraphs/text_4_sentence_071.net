@@ -1,0 +1,44 @@
+*Vertices 15
+1 "proteins"
+2 "caldesmon"
+3 "tm"
+4 "and"
+5 "were"
+6 "the"
+7 "two"
+8 "contractile"
+9 "displayed"
+10 "that"
+11 "differences"
+12 "quantitative"
+13 "artery"
+14 "between"
+15 "vein"
+*Edges
+4 2 1
+4 3 1
+2 3 1
+4 5 0
+6 3 0
+6 5 0
+6 7 0
+7 5 0
+8 6 0
+8 7 1
+8 1 1
+1 7 1
+8 10 1
+1 10 0
+9 1 1
+9 10 1
+9 12 1
+12 10 1
+11 12 1
+14 11 1
+14 12 1
+13 14 1
+13 11 1
+4 13 1
+4 14 1
+4 15 1
+13 15 1

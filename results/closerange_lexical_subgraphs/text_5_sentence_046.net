@@ -1,0 +1,48 @@
+*Vertices 17
+1 "culture"
+2 "robust"
+3 "extremely"
+4 "osteoclast"
+5 "measure"
+6 "tracing"
+7 "manual"
+8 "quantitation"
+9 "digital"
+10 "area"
+11 "photograph"
+12 "be"
+13 "good"
+14 "fusion"
+15 "extensive"
+16 "multinucleation"
+17 "cell"
+*Edges
+3 4 1
+3 2 1
+4 2 1
+1 4 1
+1 2 1
+1 7 1
+7 4 1
+1 6 1
+7 6 1
+9 7 1
+9 6 1
+9 8 1
+8 6 1
+9 11 1
+11 8 1
+4 11 1
+4 8 1
+10 4 1
+10 11 1
+10 12 0
+12 4 0
+10 13 1
+12 13 0
+12 5 0
+13 5 1
+15 13 1
+14 5 1
+14 16 1
+17 16 1

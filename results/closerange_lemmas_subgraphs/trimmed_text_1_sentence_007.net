@@ -1,0 +1,27 @@
+*Vertices 11
+1 "suggest"
+2 "it"
+3 "have"
+4 "be"
+5 "adjust"
+6 "that"
+7 "standard"
+8 "weight"
+9 "upwards"
+10 "age"
+11 "for"
+*Edges
+2 4
+2 3
+1 6
+1 8
+7 8
+4 7
+4 5
+5 7
+5 9
+4 9
+5 11
+9 11
+10 11
+9 10

@@ -1,0 +1,30 @@
+*Vertices 11
+1 "compose"
+2 "arteries"
+3 "vein"
+4 "bed"
+5 "different"
+6 "vascular"
+7 "be"
+8 "primarily"
+9 "muscle"
+10 "tonic"
+11 "smooth"
+*Edges
+2 5 1
+2 3 1
+5 3 1
+5 6 1
+6 3 1
+4 5 1
+4 6 1
+7 6 0
+7 8 1
+4 8 1
+1 8 1
+1 10 1
+8 10 1
+1 11 1
+11 10 1
+9 11 1
+9 10 1

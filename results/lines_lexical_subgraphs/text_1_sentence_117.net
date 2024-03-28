@@ -1,0 +1,13 @@
+*Vertices 6
+1 "propose"
+2 "Andres"
+3 "bmi"
+4 "desirable"
+5 "person"
+6 "age"
+*Edges
+2 1
+1 4
+4 3
+3 5
+5 6

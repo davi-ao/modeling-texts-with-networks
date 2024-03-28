@@ -1,0 +1,21 @@
+*Vertices 10
+1 "proteins"
+2 "Caldesmon"
+3 "tm"
+4 "be"
+5 "contractile"
+6 "display"
+7 "difference"
+8 "quantitative"
+9 "artery"
+10 "vein"
+*Edges
+2 3
+3 4
+4 5
+5 1
+1 6
+6 8
+8 7
+7 9
+9 10

@@ -1,0 +1,21 @@
+*Vertices 9
+1 "divide"
+2 "cell"
+3 "generate"
+4 "alms"
+5 "bdus"
+6 "factor"
+7 "segregate"
+8 "differentially"
+9 "ALMs"
+*Edges
+1 2
+3 2
+1 3
+3 4
+3 5
+4 5
+7 6
+7 8
+3 7
+7 9

@@ -1,0 +1,22 @@
+*Vertices 8
+1 "pjc12"
+2 "plasmid"
+3 "deletion"
+4 "be"
+5 "II"
+6 "Hinc"
+7 "bp"
+8 "pjc10"
+*Edges
+2 4
+3 7
+6 7
+5 7
+7 8
+3 6
+3 5
+3 8
+5 6
+1 6
+5 8
+2 8

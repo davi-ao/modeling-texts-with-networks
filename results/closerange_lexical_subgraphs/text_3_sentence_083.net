@@ -1,0 +1,29 @@
+*Vertices 11
+1 "method"
+2 "attach"
+3 "moiety"
+4 "biotin"
+5 "be"
+6 "initially"
+7 "covalently"
+8 "region"
+9 "discrete"
+10 "surface"
+11 "solid"
+*Edges
+4 1 1
+4 3 1
+1 3 1
+5 3 0
+5 6 1
+6 3 1
+2 5 1
+2 6 1
+2 7 1
+7 6 1
+2 9 1
+7 9 1
+7 8 1
+8 11 1
+8 10 0
+11 10 1

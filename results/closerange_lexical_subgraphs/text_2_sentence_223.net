@@ -1,0 +1,39 @@
+*Vertices 14
+1 "report"
+2 "other"
+3 "have"
+4 "also"
+5 "expect"
+6 "titration"
+7 "competitive"
+8 "sequence"
+9 "transgenic"
+10 "elegans"
+11 "Caenorhabditis"
+12 "uncommon"
+13 "not"
+14 "be"
+*Edges
+4 3 1
+4 2 1
+3 2 1
+4 1 1
+3 1 1
+4 7 1
+7 1 1
+7 6 1
+1 6 1
+7 9 1
+6 9 1
+8 6 1
+8 9 1
+11 8 1
+11 9 1
+11 10 1
+10 8 1
+11 5 1
+10 13 1
+5 13 1
+14 13 0
+14 12 1
+13 12 1

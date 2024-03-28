@@ -1,0 +1,17 @@
+*Vertices 8
+1 "tu2562"
+2 "strain"
+3 "uis22"
+4 "mec"
+5 "gift"
+6 "be"
+7 "Chalfie"
+8 "M"
+*Edges
+2 1
+1 4
+4 3
+3 6
+6 5
+5 8
+8 7

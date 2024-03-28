@@ -1,0 +1,19 @@
+*Vertices 9
+1 "studies"
+2 "recent"
+3 "defined"
+4 "have"
+5 "obesity"
+6 "reference"
+7 "without"
+8 "age"
+9 "to"
+*Edges
+2 1
+1 4
+4 3
+3 5
+5 7
+7 6
+6 9
+9 8

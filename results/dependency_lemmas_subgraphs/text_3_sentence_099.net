@@ -1,0 +1,26 @@
+*Vertices 12
+1 "size"
+2 "the"
+3 "small"
+4 "conjugate"
+5 "of"
+6 "adenovirus"
+7 "microbead"
+8 "be"
+9 "that"
+10 "than"
+11 "cell"
+12 "target"
+*Edges
+1 2
+3 1
+4 5
+4 6
+4 7
+1 4
+3 8
+9 10
+3 9
+11 5
+11 12
+9 11

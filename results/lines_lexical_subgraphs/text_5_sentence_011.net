@@ -1,0 +1,24 @@
+*Vertices 11
+1 "require"
+2 "signal"
+3 "rank"
+4 "rankl"
+5 "be"
+6 "absolutely"
+7 "influence"
+8 "osteoclastogenesis"
+9 "efficiency"
+10 "process"
+11 "cytokine"
+*Edges
+3 4
+4 2
+2 5
+5 6
+6 1
+1 8
+8 9
+9 10
+10 5
+5 7
+7 11

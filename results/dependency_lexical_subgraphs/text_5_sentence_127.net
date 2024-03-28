@@ -1,0 +1,25 @@
+*Vertices 12
+1 "article"
+2 "present"
+3 "demonstrate"
+4 "recover"
+5 "induce"
+6 "rankl"
+7 "osteoclastogenesis"
+8 "not"
+9 "be"
+10 "exposure"
+11 "follow"
+12 "IFN"
+*Edges
+1 2
+3 1
+5 6
+7 5
+4 7
+4 8
+4 9
+3 4
+10 11
+4 10
+10 12

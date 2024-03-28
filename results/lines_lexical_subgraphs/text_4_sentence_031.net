@@ -1,0 +1,17 @@
+*Vertices 8
+1 "organization"
+2 "overall"
+3 "ultrastructural"
+4 "similar"
+5 "vein"
+6 "mesenteric"
+7 "be"
+8 "artery"
+*Edges
+2 3
+3 1
+1 6
+6 5
+5 7
+7 4
+4 8

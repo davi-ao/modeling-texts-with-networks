@@ -1,0 +1,25 @@
+*Vertices 11
+1 "result"
+2 "above"
+3 "show"
+4 "however"
+5 "defect"
+6 "migration"
+7 "PLM"
+8 "axonal"
+9 "morphology"
+10 "expression"
+11 "gfp"
+*Edges
+2 1
+1 4
+4 3
+3 6
+6 5
+5 7
+7 8
+8 9
+9 5
+5 1
+1 10
+10 11

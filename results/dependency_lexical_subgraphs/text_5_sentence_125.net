@@ -1,0 +1,26 @@
+*Vertices 12
+1 "study"
+2 "future"
+3 "need"
+4 "resolve"
+5 "design"
+6 "understand"
+7 "signaling"
+8 "IFN"
+9 "osteoclast"
+10 "mature"
+11 "be"
+12 "issue"
+*Edges
+1 2
+3 1
+4 1
+1 5
+5 6
+7 8
+6 7
+9 10
+7 9
+3 11
+3 4
+4 12

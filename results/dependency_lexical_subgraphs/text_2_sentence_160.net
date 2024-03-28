@@ -1,0 +1,26 @@
+*Vertices 12
+1 "show"
+2 "figure"
+3 "sufficient"
+4 "pjc10"
+5 "upstream"
+6 "mec"
+7 "sequence"
+8 "alone"
+9 "induce"
+10 "be"
+11 "defect"
+12 "migration"
+*Edges
+1 2
+4 5
+4 6
+8 7
+6 8
+3 4
+9 4
+3 10
+1 3
+3 9
+11 12
+9 11

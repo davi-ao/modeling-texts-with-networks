@@ -1,0 +1,17 @@
+*Vertices 8
+1 "migration"
+2 "cell"
+3 "behavior"
+4 "be"
+5 "important"
+6 "most"
+7 "complex"
+8 "cellular"
+*Edges
+2 1
+1 4
+4 6
+6 5
+5 7
+7 8
+8 3

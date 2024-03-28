@@ -1,0 +1,22 @@
+*Vertices 10
+1 "supernatant"
+2 "pool"
+3 "artery"
+4 "vein"
+5 "be"
+6 "together"
+7 "assay"
+8 "concentration"
+9 "protein"
+10 "again"
+*Edges
+1 3
+3 4
+4 5
+5 2
+2 6
+6 9
+9 8
+8 5
+5 7
+7 10

@@ -1,0 +1,12 @@
+*Vertices 5
+1 "line"
+2 "cell"
+3 "use"
+4 "be"
+5 "target"
+*Edges
+2 4
+3 4
+1 2
+2 5
+2 3

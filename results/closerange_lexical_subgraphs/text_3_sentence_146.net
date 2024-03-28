@@ -1,0 +1,28 @@
+*Vertices 10
+1 "Labware"
+2 "Cellware"
+3 "Well"
+4 "Dickinson"
+5 "Plates"
+6 "Becton"
+7 "use"
+8 "be"
+9 "surface"
+10 "solid"
+*Edges
+2 5 1
+2 3 1
+5 3 1
+6 5 1
+6 3 1
+6 4 1
+4 5 1
+6 1 1
+4 1 1
+8 4 0
+8 1 0
+8 7 1
+1 7 1
+8 10 0
+10 7 1
+10 9 1

@@ -1,0 +1,23 @@
+*Vertices 11
+1 "layer"
+2 "in"
+3 "the"
+4 "adventitial"
+5 "be"
+6 "there"
+7 "abundance"
+8 "a"
+9 "fibril"
+10 "of"
+11 "collagen"
+*Edges
+2 3
+3 4
+4 1
+1 6
+6 5
+5 8
+8 7
+7 10
+10 11
+11 9

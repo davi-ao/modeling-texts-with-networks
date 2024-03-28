@@ -1,0 +1,27 @@
+*Vertices 13
+1 "conclude"
+2 "therefore"
+3 "sequestering"
+4 "sequence"
+5 "be"
+6 "factor"
+7 "help"
+8 "control"
+9 "migration"
+10 "ALM"
+11 "outgrowth"
+12 "PLM"
+13 "axon"
+*Edges
+1 2
+2 4
+4 5
+5 3
+3 6
+6 7
+7 8
+8 10
+10 9
+9 12
+12 13
+13 11

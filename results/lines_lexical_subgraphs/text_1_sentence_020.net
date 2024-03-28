@@ -1,0 +1,22 @@
+*Vertices 10
+1 "calculate"
+2 "bmi"
+3 "be"
+4 "weight"
+5 "measure"
+6 "kilogram"
+7 "divide"
+8 "square"
+9 "height"
+10 "meter"
+*Edges
+2 3
+3 1
+1 5
+5 4
+4 6
+6 7
+7 8
+8 5
+5 9
+9 10

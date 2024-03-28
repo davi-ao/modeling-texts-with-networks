@@ -1,0 +1,15 @@
+*Vertices 7
+1 "coat"
+2 "virus"
+3 "surface"
+4 "solid"
+5 "offer"
+6 "variety"
+7 "application"
+*Edges
+2 1
+1 4
+4 3
+3 5
+5 6
+6 7

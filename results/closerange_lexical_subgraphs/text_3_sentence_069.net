@@ -1,0 +1,72 @@
+*Vertices 21
+1 "serve"
+2 "thus"
+3 "infection"
+4 "cell"
+5 "vector"
+6 "adenoviral"
+7 "free"
+8 "collision"
+9 "particle"
+10 "viral"
+11 "surface"
+12 "amount"
+13 "receptor"
+14 "primary"
+15 "car"
+16 "coxsackie"
+17 "adenovirus"
+18 "target"
+19 "not"
+20 "determinant"
+21 "permissivity"
+*Edges
+4 3 1
+4 2 0
+3 2 1
+7 3 1
+6 4 0
+6 7 1
+6 5 1
+7 5 1
+6 8 1
+8 5 1
+8 10 1
+5 10 1
+8 9 1
+9 10 1
+4 9 0
+4 10 0
+4 11 1
+9 11 1
+12 4 1
+12 11 1
+12 14 1
+14 11 1
+12 13 1
+14 13 1
+6 14 1
+6 13 1
+13 5 0
+6 16 1
+16 5 1
+17 16 1
+17 5 1
+17 13 1
+16 13 1
+17 15 1
+15 13 1
+15 18 1
+13 18 1
+15 4 1
+4 18 1
+4 19 0
+19 18 0
+4 1 1
+19 1 1
+19 14 1
+20 14 1
+20 1 1
+20 21 1
+4 20 1
+4 21 1

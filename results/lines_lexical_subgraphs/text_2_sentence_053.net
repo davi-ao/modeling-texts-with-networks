@@ -1,0 +1,21 @@
+*Vertices 10
+1 "ea485"
+2 "short"
+3 "axon"
+4 "PLM"
+5 "have"
+6 "be"
+7 "often"
+8 "misdirect"
+9 "branch"
+10 "extra"
+*Edges
+1 4
+4 3
+3 6
+6 7
+7 2
+2 8
+8 5
+5 10
+10 9

@@ -1,0 +1,23 @@
+*Vertices 10
+1 "elegans"
+2 "Caenorhabditis"
+3 "gene"
+4 "cell"
+5 "unc"
+6 "guide"
+7 "process"
+8 "axis"
+9 "dorsal"
+10 "ventral"
+*Edges
+1 2
+4 3
+4 5
+5 5
+4 6
+1 4
+1 7
+4 7
+8 9
+8 10
+4 8

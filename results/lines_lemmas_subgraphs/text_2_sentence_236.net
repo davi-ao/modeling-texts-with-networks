@@ -1,0 +1,17 @@
+*Vertices 8
+1 "strain"
+2 "the"
+3 "type"
+4 "wild"
+5 "Bristol"
+6 "be"
+7 "var"
+8 "n2"
+*Edges
+2 4
+4 3
+3 1
+1 6
+6 8
+8 7
+7 5

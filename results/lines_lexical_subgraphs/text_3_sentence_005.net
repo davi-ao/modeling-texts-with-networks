@@ -1,0 +1,25 @@
+*Vertices 12
+1 "free"
+2 "similarly"
+3 "vector"
+4 "viral"
+5 "administer"
+6 "solution"
+7 "be"
+8 "locally"
+9 "systemically"
+10 "application"
+11 "transfer"
+12 "gene"
+*Edges
+2 1
+1 4
+4 3
+3 6
+6 7
+7 5
+5 8
+8 9
+9 12
+12 11
+11 10

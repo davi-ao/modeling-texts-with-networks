@@ -1,0 +1,34 @@
+*Vertices 12
+1 "essential"
+2 "it"
+3 "be"
+4 "function"
+5 "for"
+6 "development"
+7 "animal"
+8 "system"
+9 "immune"
+10 "repair"
+11 "and"
+12 "wound"
+*Edges
+3 1 1
+3 2 1
+1 2 1
+3 5 0
+1 5 1
+7 1 1
+7 5 0
+7 6 1
+6 5 1
+7 9 1
+6 9 1
+6 8 1
+9 8 1
+4 9 1
+4 8 1
+11 8 0
+11 12 1
+4 12 1
+11 10 1
+10 12 1

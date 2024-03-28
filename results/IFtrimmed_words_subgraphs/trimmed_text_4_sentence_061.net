@@ -1,0 +1,23 @@
+*Vertices 9
+1 "arterial"
+2 "moreover"
+3 "cells"
+4 "muscle"
+5 "smooth"
+6 "have"
+7 "gaps"
+8 "smaller"
+9 "intercellular"
+*Edges
+1 9
+1 4
+1 5
+3 6
+3 4
+3 5
+7 9
+2 7
+7 8
+2 9
+4 9
+4 5

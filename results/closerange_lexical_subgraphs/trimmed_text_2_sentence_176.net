@@ -1,0 +1,24 @@
+*Vertices 9
+1 "structure"
+2 "interesting"
+3 "sequence"
+4 "result"
+5 "juxtaposition"
+6 "site"
+7 "transcription"
+8 "binding"
+9 "factor"
+*Edges
+2 3
+1 2
+1 3
+1 4
+4 5
+1 5
+5 7
+4 7
+7 9
+8 9
+7 8
+6 8
+6 9

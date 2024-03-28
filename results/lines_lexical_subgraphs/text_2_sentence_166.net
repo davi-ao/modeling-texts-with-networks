@@ -1,0 +1,27 @@
+*Vertices 12
+1 "sequence"
+2 "other"
+3 "appear"
+4 "facilitate"
+5 "titrate"
+6 "binding"
+7 "involve"
+8 "factor"
+9 "migration"
+10 "control"
+11 "ALM"
+12 "cell"
+*Edges
+2 1
+1 5
+5 1
+1 3
+3 4
+4 6
+6 8
+8 8
+8 7
+7 10
+10 11
+11 12
+12 9

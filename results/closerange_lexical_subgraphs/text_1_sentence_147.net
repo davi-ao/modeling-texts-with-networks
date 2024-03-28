@@ -1,0 +1,39 @@
+*Vertices 14
+1 "YOL"
+2 "use"
+3 "YHL"
+4 "find"
+5 "however"
+6 "risk"
+7 "excess"
+8 "adult"
+9 "old"
+10 "classify"
+11 "be"
+12 "overweight"
+13 "guideline"
+14 "NHLBI"
+*Edges
+2 3 1
+2 1 1
+3 1 1
+5 3 1
+5 1 1
+4 5 1
+4 3 1
+7 4 1
+7 5 1
+7 6 1
+4 6 1
+7 9 1
+9 6 1
+8 9 1
+8 6 1
+8 11 0
+11 9 0
+8 10 1
+11 12 1
+10 12 1
+10 14 1
+14 12 1
+13 14 1

@@ -1,0 +1,27 @@
+*Vertices 13
+1 "alms"
+2 "all"
+3 "show"
+4 "anterior"
+5 "that"
+6 "defect"
+7 "morphology"
+8 "in"
+9 "axon"
+10 "be"
+11 "position"
+12 "to"
+13 "6"
+*Edges
+2 1
+1 5
+5 3
+3 6
+6 8
+8 9
+9 7
+7 10
+10 4
+4 12
+12 11
+11 13

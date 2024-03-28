@@ -1,0 +1,17 @@
+*Vertices 7
+1 "small"
+2 "strain"
+3 "variability"
+4 "be"
+5 "valid"
+6 "assumption"
+7 "probably"
+*Edges
+1 2
+3 2
+2 3
+1 4
+5 1
+5 6
+5 4
+5 7

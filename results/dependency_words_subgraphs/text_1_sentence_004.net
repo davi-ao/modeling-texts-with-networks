@@ -1,0 +1,22 @@
+*Vertices 10
+1 "review"
+2 "a"
+3 "drew"
+4 "studies"
+5 "of"
+6 "13"
+7 "adults"
+8 "older"
+9 "conclusions"
+10 "similar"
+*Edges
+1 2
+3 1
+4 5
+4 6
+1 4
+7 5
+7 8
+4 7
+9 10
+3 9

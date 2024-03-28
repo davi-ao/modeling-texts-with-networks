@@ -1,0 +1,25 @@
+*Vertices 8
+1 "cell"
+2 "ALM"
+3 "BDU"
+4 "migrate"
+5 "express"
+6 "anteriorly"
+7 "bdu"
+8 "mec"
+*Edges
+2 3 1
+2 1 0
+3 1 1
+3 4 1
+1 4 0
+6 1 0
+6 4 1
+6 7 1
+7 4 1
+6 5 1
+7 5 1
+7 8 1
+5 8 1
+2 5 1
+2 8 0

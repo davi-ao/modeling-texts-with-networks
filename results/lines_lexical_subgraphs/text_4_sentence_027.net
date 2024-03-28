@@ -1,0 +1,25 @@
+*Vertices 12
+1 "tissue"
+2 "Elastic"
+3 "connective"
+4 "occupy"
+5 "abundance"
+6 "fibril"
+7 "collagen"
+8 "space"
+9 "intercellular"
+10 "cell"
+11 "smooth"
+12 "muscle"
+*Edges
+2 3
+3 1
+1 5
+5 7
+7 6
+6 4
+4 9
+9 8
+8 11
+11 12
+12 10

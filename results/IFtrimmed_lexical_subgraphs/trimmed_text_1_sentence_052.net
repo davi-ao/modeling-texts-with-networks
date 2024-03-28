@@ -1,0 +1,20 @@
+*Vertices 8
+1 "mean"
+2 "yol"
+3 "variable"
+4 "new"
+5 "group"
+6 "subject"
+7 "be"
+8 "adjust"
+*Edges
+7 8
+1 8
+3 8
+2 8
+5 7
+1 5
+2 5
+1 2
+4 6
+3 4

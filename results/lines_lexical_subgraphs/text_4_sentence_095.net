@@ -1,0 +1,27 @@
+*Vertices 13
+1 "protocol"
+2 "describe"
+3 "previously"
+4 "general"
+5 "apply"
+6 "extraction"
+7 "proteins"
+8 "contractile"
+9 "be"
+10 "artery"
+11 "canine"
+12 "mesenteric"
+13 "vein"
+*Edges
+3 2
+2 4
+4 1
+1 6
+6 8
+8 7
+7 9
+9 5
+5 11
+11 12
+12 10
+10 13

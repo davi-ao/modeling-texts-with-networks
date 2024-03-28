@@ -1,0 +1,25 @@
+*Vertices 9
+1 "case"
+2 "fail"
+3 "cell"
+4 "interpret"
+5 "correctly"
+6 "information"
+7 "anterior"
+8 "posterior"
+9 "spatial"
+*Edges
+3 7
+2 7
+7 8
+1 5
+1 6
+1 4
+1 9
+2 5
+5 6
+4 5
+5 9
+4 6
+6 9
+4 9

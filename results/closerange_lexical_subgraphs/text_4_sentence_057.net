@@ -1,0 +1,38 @@
+*Vertices 14
+1 "architecture"
+2 "overall"
+3 "factor"
+4 "contents"
+5 "proteins"
+6 "individual"
+7 "contractile"
+8 "be"
+9 "contribute"
+10 "difference"
+11 "behavior"
+12 "functional"
+13 "vessel"
+14 "blood"
+*Edges
+1 4 1
+1 2 1
+4 2 1
+1 6 1
+4 6 1
+7 6 1
+7 5 1
+8 5 0
+8 3 0
+3 5 1
+8 9 0
+9 3 1
+9 10 1
+10 3 0
+9 12 1
+10 12 1
+11 10 1
+11 12 1
+11 14 1
+14 12 1
+11 13 1
+14 13 1

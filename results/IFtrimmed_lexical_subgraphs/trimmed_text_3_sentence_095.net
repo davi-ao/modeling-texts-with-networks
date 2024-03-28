@@ -1,0 +1,13 @@
+*Vertices 6
+1 "report"
+2 "previously"
+3 "strategy"
+4 "similar"
+5 "describe"
+6 "study"
+*Edges
+2 5
+1 2
+2 3
+1 4
+4 6

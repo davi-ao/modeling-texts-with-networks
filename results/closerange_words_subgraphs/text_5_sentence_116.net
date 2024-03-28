@@ -1,0 +1,39 @@
+*Vertices 13
+1 "mechanisms"
+2 "the"
+3 "molecular"
+4 "underlying"
+5 "effects"
+6 "contrasting"
+7 "remain"
+8 "of"
+9 "ifn"
+10 "γ"
+11 "rankl"
+12 "and"
+13 "elusive"
+*Edges
+1 3 1
+1 2 1
+3 2 1
+1 4 1
+3 4 1
+2 4 1
+6 2 1
+6 4 1
+6 5 1
+5 2 0
+6 8 1
+5 8 1
+5 9 1
+9 8 1
+9 10 1
+8 10 1
+12 9 0
+12 10 0
+12 11 0
+11 10 1
+12 7 1
+11 7 1
+13 11 1
+13 7 1

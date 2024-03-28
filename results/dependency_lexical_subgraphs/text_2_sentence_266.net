@@ -1,0 +1,15 @@
+*Vertices 7
+1 "strain"
+2 "present"
+3 "here"
+4 "frequency"
+5 "have"
+6 "transmission"
+7 "great"
+*Edges
+2 1
+2 3
+4 5
+4 6
+2 4
+4 7

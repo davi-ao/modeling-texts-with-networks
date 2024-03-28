@@ -1,0 +1,23 @@
+*Vertices 8
+1 "conceivable"
+2 "be"
+3 "however"
+4 "present"
+5 "gene"
+6 "small"
+7 "undetected"
+8 "sequence"
+*Edges
+2 5
+2 3
+2 4
+2 8
+2 6
+1 6
+1 7
+5 8
+5 6
+3 6
+4 8
+6 8
+6 7

@@ -1,0 +1,27 @@
+*Vertices 13
+1 "gene"
+2 "mec"
+3 "3gfp"
+4 "fusion"
+5 "lack"
+6 "appear"
+7 "express"
+8 "that"
+9 "element"
+10 "this"
+11 "to"
+12 "be"
+13 "correctly"
+*Edges
+2 3
+3 4
+4 1
+1 8
+8 5
+5 10
+10 9
+9 6
+6 11
+11 12
+12 13
+13 7

@@ -1,0 +1,23 @@
+*Vertices 10
+1 "defect"
+2 "axonal"
+3 "common"
+4 "alms"
+5 "in"
+6 "the"
+7 "be"
+8 "less"
+9 "plm"
+10 "than"
+*Edges
+2 1
+1 5
+5 6
+6 4
+4 7
+7 8
+8 3
+3 10
+10 5
+5 6
+6 9

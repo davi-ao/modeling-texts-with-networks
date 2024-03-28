@@ -1,0 +1,26 @@
+*Vertices 12
+1 "show"
+2 "table"
+3 "yol"
+4 "mean"
+5 "calculate"
+6 "yhl"
+7 "EVGFP"
+8 "year"
+9 "first"
+10 "study"
+11 "age"
+12 "adjust"
+*Edges
+1 2
+3 4
+5 3
+3 6
+5 6
+1 5
+5 7
+8 9
+5 8
+8 10
+11 12
+5 11

@@ -1,0 +1,20 @@
+*Vertices 7
+1 "goal"
+2 "examine"
+3 "be"
+4 "association"
+5 "YOL"
+6 "YHL"
+7 "bmi"
+*Edges
+3 2 0
+3 1 1
+2 1 1
+4 3 0
+4 2 1
+4 5 1
+2 5 1
+4 6 1
+6 5 1
+7 6 1
+7 5 1

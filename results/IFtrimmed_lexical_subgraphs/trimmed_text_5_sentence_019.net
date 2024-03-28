@@ -1,0 +1,23 @@
+*Vertices 9
+1 "be"
+2 "clear"
+3 "situation"
+4 "however"
+5 "effect"
+6 "osteoclastogenic"
+7 "IFN"
+8 "not"
+9 "so"
+*Edges
+1 5
+1 4
+1 7
+1 8
+2 3
+5 7
+5 8
+4 8
+7 8
+6 7
+3 6
+3 9

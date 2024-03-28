@@ -1,0 +1,21 @@
+*Vertices 10
+1 "efficiency"
+2 "immobilize"
+3 "transduction"
+4 "vector"
+5 "adenoviral"
+6 "investigate"
+7 "well"
+8 "coat"
+9 "streptavidin"
+10 "be"
+*Edges
+1 3
+3 5
+5 4
+4 2
+2 9
+9 8
+8 7
+7 10
+10 6

@@ -1,0 +1,60 @@
+*Vertices 21
+1 "infection"
+2 "successful"
+3 "show"
+4 "cell"
+5 "target"
+6 "vector"
+7 "adenoviral"
+8 "surface"
+9 "solid"
+10 "suggest"
+11 "use"
+12 "technology"
+13 "control"
+14 "be"
+15 "spatially"
+16 "location"
+17 "transduction"
+18 "gene"
+19 "placement"
+20 "strategic"
+21 "viral"
+*Edges
+1 2 1
+1 5 1
+2 5 1
+4 1 1
+4 5 1
+7 4 0
+7 5 1
+7 6 1
+4 6 0
+7 9 1
+9 6 1
+9 8 1
+3 9 0
+3 8 0
+3 10 1
+10 8 1
+3 12 1
+10 12 1
+14 10 0
+14 12 1
+14 11 1
+14 13 0
+13 11 0
+13 15 1
+15 11 1
+16 15 1
+18 15 1
+18 17 1
+16 17 1
+18 9 0
+9 17 1
+9 20 1
+19 20 1
+19 8 1
+19 21 1
+19 6 1
+6 21 1

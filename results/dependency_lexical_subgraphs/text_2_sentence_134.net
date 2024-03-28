@@ -1,0 +1,25 @@
+*Vertices 11
+1 "ea489"
+2 "present"
+3 "bdus"
+4 "be"
+5 "animal"
+6 "even"
+7 "alms"
+8 "anterior"
+9 "position"
+10 "locate"
+11 "normal"
+*Edges
+2 1
+2 3
+2 4
+5 6
+2 5
+5 7
+7 8
+8 9
+10 4
+2 10
+9 11
+10 9

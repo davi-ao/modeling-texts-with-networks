@@ -1,0 +1,45 @@
+*Vertices 16
+1 "determine"
+2 "result"
+3 "defect"
+4 "migration"
+5 "make"
+6 "have"
+7 "copy"
+8 "many"
+9 "sequence"
+10 "titrate"
+11 "transformant"
+12 "mixture"
+13 "different"
+14 "plasmid"
+15 "dna"
+16 "genomic"
+*Edges
+3 1 1
+3 4 1
+1 4 1
+3 2 1
+4 2 0
+3 6 0
+6 2 0
+6 8 1
+8 2 1
+7 6 1
+7 8 1
+7 10 1
+8 10 1
+7 9 1
+9 10 1
+5 9 1
+5 10 1
+5 11 1
+9 11 1
+13 5 1
+13 11 1
+13 12 1
+12 11 1
+13 14 1
+12 14 1
+16 12 1
+15 16 1

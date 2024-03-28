@@ -1,0 +1,27 @@
+*Vertices 9
+1 "capacity"
+2 "resorbing"
+3 "bone"
+4 "unique"
+5 "be"
+6 "share"
+7 "other"
+8 "cell"
+9 "capability"
+*Edges
+3 5
+5 8
+5 7
+3 8
+2 3
+1 9
+2 9
+6 9
+4 9
+1 2
+1 6
+1 4
+7 8
+2 6
+2 4
+4 6

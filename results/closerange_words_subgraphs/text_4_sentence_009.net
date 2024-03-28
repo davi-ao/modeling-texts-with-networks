@@ -1,0 +1,162 @@
+*Vertices 50
+1 "mechanisms"
+2 "although"
+3 "differences"
+4 "type"
+5 "in"
+6 "the"
+7 "amount"
+8 "and"
+9 "density"
+10 "of"
+11 "receptor"
+12 "neurotransmitters"
+13 "sensitivity"
+14 "or"
+15 "action"
+16 "for"
+17 "neurotransmitter"
+18 "transduction"
+19 "signal"
+20 "couple"
+21 "that"
+22 "receptors"
+23 "membrane"
+24 "elements"
+25 "to"
+26 "contractile"
+27 "proposed"
+28 "have"
+29 "been"
+30 "underlie"
+31 "distinctions"
+32 "functional"
+33 "regions"
+34 "between"
+35 "capacitative"
+36 "resistive"
+37 "circulation"
+38 "mesenteric"
+39 "possibility"
+40 "ruled"
+41 "convey"
+42 "artery"
+43 "vein"
+44 "levels"
+45 "distinct"
+46 "expression"
+47 "proteins"
+48 "has"
+49 "not"
+50 "out"
+*Edges
+2 3 1
+2 5 1
+3 5 1
+3 6 1
+5 6 0
+5 4 1
+6 4 0
+8 6 0
+8 4 0
+7 8 0
+7 4 1
+7 10 1
+8 10 0
+7 12 1
+12 10 1
+12 11 1
+10 11 0
+9 12 1
+9 11 1
+8 11 0
+9 14 1
+8 13 1
+14 13 1
+16 13 1
+16 17 1
+17 13 1
+15 16 1
+15 17 1
+15 14 1
+17 14 1
+15 19 1
+14 19 1
+14 18 1
+19 18 1
+1 19 1
+1 18 1
+1 21 1
+21 18 0
+20 1 1
+20 21 1
+20 23 1
+23 21 1
+20 22 1
+23 22 1
+23 25 1
+22 25 1
+22 6 0
+6 25 0
+26 6 0
+26 25 0
+24 6 0
+26 28 1
+24 28 1
+29 24 1
+29 28 1
+29 27 1
+28 27 1
+29 25 1
+27 30 1
+25 30 1
+6 30 1
+32 30 1
+31 32 1
+31 6 1
+34 31 1
+34 32 1
+34 35 1
+35 31 1
+8 34 1
+8 35 1
+8 36 1
+35 36 1
+33 36 1
+10 36 1
+10 6 0
+33 6 1
+38 10 1
+38 6 1
+37 38 1
+37 6 1
+37 39 1
+21 6 0
+38 39 1
+38 21 0
+42 38 1
+42 21 1
+8 42 1
+8 38 1
+8 43 1
+42 43 1
+8 41 1
+41 43 1
+41 45 1
+45 43 1
+41 46 1
+45 46 1
+45 44 1
+46 44 1
+46 10 1
+44 10 1
+26 10 1
+26 47 1
+26 48 1
+48 49 1
+29 48 1
+29 49 0
+29 40 1
+49 40 1
+29 50 1
+50 40 1

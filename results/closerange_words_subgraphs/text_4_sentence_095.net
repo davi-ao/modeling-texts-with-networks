@@ -1,0 +1,53 @@
+*Vertices 19
+1 "protocol"
+2 "a"
+3 "described"
+4 "previously"
+5 "general"
+6 "applied"
+7 "extraction"
+8 "for"
+9 "proteins"
+10 "of"
+11 "contractile"
+12 "was"
+13 "arteries"
+14 "to"
+15 "the"
+16 "canine"
+17 "mesenteric"
+18 "veins"
+19 "and"
+*Edges
+2 3 0
+2 4 1
+3 4 1
+3 5 1
+5 4 1
+3 1 1
+5 1 1
+8 5 1
+8 1 1
+7 8 1
+7 1 1
+7 10 1
+8 10 0
+11 7 1
+11 10 1
+11 9 1
+11 12 0
+9 12 0
+6 12 1
+6 14 1
+14 12 0
+6 15 1
+15 14 0
+16 15 1
+16 14 1
+16 17 1
+17 15 1
+13 17 1
+19 13 1
+19 17 1
+19 18 1
+13 18 1

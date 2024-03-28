@@ -1,0 +1,38 @@
+*Vertices 14
+1 "role"
+2 "see"
+3 "th1"
+4 "immunity"
+5 "cellular"
+6 "loss"
+7 "inflammatory"
+8 "bone"
+9 "such"
+10 "osteomyelitis"
+11 "arthritis"
+12 "erosive"
+13 "remain"
+14 "unclear"
+*Edges
+5 4 1
+5 1 1
+4 1 1
+5 3 1
+4 3 1
+4 7 1
+7 3 1
+8 7 1
+8 3 1
+8 6 1
+7 6 1
+8 9 1
+6 9 1
+6 2 1
+10 2 1
+10 9 1
+12 2 1
+11 12 1
+11 10 1
+11 13 1
+11 14 1
+13 14 1

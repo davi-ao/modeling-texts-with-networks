@@ -1,0 +1,61 @@
+*Vertices 20
+1 "lacz"
+2 "ad5cmv"
+3 "carry"
+4 "gene"
+5 "bacterial"
+6 "z"
+7 "lac"
+8 "β"
+9 "galactosidase"
+10 "control"
+11 "cmv"
+12 "human"
+13 "cytomegalovirus"
+14 "promoter"
+15 "immediate"
+16 "early"
+17 "sequence"
+18 "globin"
+19 "polyadenylation"
+20 "signal"
+*Edges
+2 3 1
+2 1 1
+3 1 1
+5 3 1
+5 1 1
+5 7 1
+3 7 1
+5 6 1
+7 6 1
+7 8 1
+6 8 1
+9 6 1
+9 8 1
+9 4 1
+4 8 1
+10 4 1
+10 12 1
+4 12 1
+10 13 1
+13 12 1
+11 13 1
+11 12 1
+11 15 1
+13 15 1
+11 16 1
+16 15 1
+16 14 1
+16 12 1
+12 14 1
+12 8 1
+14 8 1
+18 12 1
+18 8 1
+18 19 1
+19 8 1
+18 20 1
+19 20 1
+19 17 1
+17 20 1

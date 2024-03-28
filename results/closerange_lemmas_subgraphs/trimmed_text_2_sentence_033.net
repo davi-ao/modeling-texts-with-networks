@@ -1,0 +1,26 @@
+*Vertices 13
+1 "signal"
+2 "MIG"
+3 "13"
+4 "may"
+5 "therefore"
+6 "cell"
+7 "to"
+8 "direction"
+9 "they"
+10 "extent"
+11 "and"
+12 "migration"
+13 "of"
+*Edges
+3 4
+2 3
+2 4
+3 5
+4 5
+1 4
+1 5
+7 9
+8 9
+10 11
+8 10

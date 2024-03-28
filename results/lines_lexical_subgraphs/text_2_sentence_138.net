@@ -1,0 +1,27 @@
+*Vertices 13
+1 "determine"
+2 "grow"
+3 "sensitive"
+4 "defect"
+5 "ALM"
+6 "migration"
+7 "be"
+8 "temperature"
+9 "ea471"
+10 "tu2562"
+11 "20degreesc"
+12 "15degreesc"
+13 "25degreesc"
+*Edges
+1 5
+5 6
+6 4
+4 7
+7 3
+3 8
+8 2
+2 9
+9 10
+10 12
+12 11
+11 13

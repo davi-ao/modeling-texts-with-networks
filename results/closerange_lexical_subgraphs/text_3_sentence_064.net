@@ -1,0 +1,14 @@
+*Vertices 5
+1 "result"
+2 "consistent"
+3 "be"
+4 "show"
+5 "figure"
+*Edges
+3 2 1
+3 1 0
+2 1 1
+3 4 0
+2 4 1
+2 5 1
+5 4 1

@@ -1,0 +1,27 @@
+*Vertices 12
+1 "sequence"
+2 "titrate"
+3 "locate"
+4 "be"
+5 "gene"
+6 "position"
+7 "head"
+8 "mec"
+9 "f01d41"
+10 "encode"
+11 "glucoronosyltransferase"
+12 "UDP"
+*Edges
+2 1
+1 4
+4 3
+3 5
+5 4
+4 6
+6 7
+7 7
+7 8
+8 9
+9 10
+10 12
+12 11

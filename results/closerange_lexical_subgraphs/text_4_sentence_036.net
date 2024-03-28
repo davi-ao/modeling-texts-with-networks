@@ -1,0 +1,59 @@
+*Vertices 21
+1 "concentration"
+2 "protein"
+3 "determine"
+4 "homogenate"
+5 "clear"
+6 "artery"
+7 "decrease"
+8 "cycle"
+9 "extraction"
+10 "ml"
+11 "mg"
+12 "first"
+13 "second"
+14 "low"
+15 "be"
+16 "detectable"
+17 "minimum"
+18 "assay"
+19 "bca"
+20 "micro"
+21 "third"
+*Edges
+1 3 1
+1 2 1
+3 2 1
+5 1 1
+5 3 1
+5 4 1
+3 4 1
+6 5 1
+6 4 1
+6 7 1
+7 4 1
+7 9 1
+8 9 1
+9 11 1
+8 10 1
+12 10 1
+11 13 1
+10 13 1
+15 10 0
+15 13 0
+15 14 0
+14 13 1
+15 16 1
+16 14 1
+16 17 1
+14 17 1
+16 11 1
+11 17 1
+19 10 1
+19 20 1
+20 10 1
+18 20 1
+18 21 1
+20 21 1
+18 8 1
+8 21 1

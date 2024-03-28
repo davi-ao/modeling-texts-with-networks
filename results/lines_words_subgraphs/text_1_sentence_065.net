@@ -1,0 +1,24 @@
+*Vertices 11
+1 "was"
+2 "there"
+3 "thus"
+4 "change"
+5 "substantial"
+6 "evgfp"
+7 "in"
+8 "time"
+9 "over"
+10 "directions"
+11 "both"
+*Edges
+2 1
+1 3
+3 5
+5 4
+4 7
+7 6
+6 9
+9 8
+8 7
+7 11
+11 10

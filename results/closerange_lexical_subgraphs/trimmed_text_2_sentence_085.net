@@ -1,0 +1,15 @@
+*Vertices 6
+1 "tu2562"
+2 "strain"
+3 "position"
+4 "average"
+5 "ALM"
+6 "be"
+*Edges
+2 4
+1 4
+1 2
+4 5
+1 5
+3 5
+3 4

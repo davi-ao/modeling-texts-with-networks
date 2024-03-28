@@ -1,0 +1,57 @@
+*Vertices 20
+1 "determine"
+2 "generate"
+3 "presence"
+4 "defect"
+5 "ALM"
+6 "migration"
+7 "be"
+8 "due"
+9 "sequence"
+10 "specific"
+11 "dna"
+12 "array"
+13 "extrachromosomal"
+14 "construct"
+15 "mec"
+16 "deletion"
+17 "contain"
+18 "portion"
+19 "various"
+20 "upstream"
+*Edges
+5 1 1
+5 6 1
+1 6 1
+5 4 1
+4 6 1
+7 4 0
+7 6 0
+7 8 1
+4 8 1
+7 3 0
+8 3 1
+11 3 1
+11 10 1
+9 10 1
+13 9 1
+12 13 1
+12 9 1
+12 2 1
+13 2 1
+12 15 0
+2 15 1
+16 2 1
+16 15 1
+14 15 1
+14 17 1
+14 19 1
+17 19 1
+17 18 1
+18 19 1
+15 18 1
+15 19 1
+15 20 1
+18 20 1
+15 9 1
+9 20 1

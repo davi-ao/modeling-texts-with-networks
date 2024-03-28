@@ -1,0 +1,23 @@
+*Vertices 11
+1 "palindrome"
+2 "within"
+3 "this"
+4 "are"
+5 "there"
+6 "levels"
+7 "two"
+8 "more"
+9 "palindromes"
+10 "of"
+11 "nested"
+*Edges
+2 3
+3 1
+1 5
+5 4
+4 7
+7 8
+8 6
+6 10
+10 11
+11 9

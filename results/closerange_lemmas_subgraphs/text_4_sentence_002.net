@@ -1,0 +1,91 @@
+*Vertices 31
+1 "example"
+2 "for"
+3 "attribute"
+4 "behavior"
+5 "phasic"
+6 "tonic"
+7 "and"
+8 "muscle"
+9 "of"
+10 "gastrointestinal"
+11 "smooth"
+12 "have"
+13 "be"
+14 "level"
+15 "to"
+16 "different"
+17 "expression"
+18 "caldesmon"
+19 "proteins"
+20 "bind"
+21 "not"
+22 "but"
+23 "difference"
+24 "proportion"
+25 "in"
+26 "the"
+27 "relative"
+28 "calponin"
+29 "actin"
+30 "myosin"
+31 "tropomyosin"
+*Edges
+1 2 1
+1 5 1
+2 5 1
+7 1 1
+7 5 1
+7 6 1
+5 6 1
+4 6 1
+4 9 1
+9 6 1
+4 10 1
+10 9 1
+10 11 1
+9 11 1
+10 8 1
+8 11 1
+12 11 0
+13 12 0
+3 13 1
+3 12 1
+3 15 1
+13 15 0
+3 16 1
+16 15 0
+16 17 1
+17 15 0
+17 9 1
+14 9 1
+18 14 1
+18 9 1
+7 9 0
+20 18 1
+20 19 1
+18 19 1
+20 22 1
+22 21 1
+22 15 0
+21 15 0
+23 21 1
+23 15 0
+23 25 1
+25 15 0
+23 26 1
+25 26 0
+25 27 0
+27 26 1
+24 27 1
+9 24 1
+9 27 1
+30 9 0
+29 30 1
+29 9 0
+29 28 1
+28 30 1
+29 7 1
+7 28 1
+7 31 1
+28 31 1

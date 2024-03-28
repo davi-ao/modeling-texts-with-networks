@@ -1,0 +1,24 @@
+*Vertices 11
+1 "involve"
+2 "perhaps"
+3 "element"
+4 "the"
+5 "titrate"
+6 "be"
+7 "activation"
+8 "in"
+9 "initial"
+10 "mec"
+11 "3"
+*Edges
+2 4
+4 5
+5 3
+3 6
+6 1
+1 8
+8 4
+4 9
+9 10
+10 11
+11 7

@@ -1,0 +1,25 @@
+*Vertices 12
+1 "base"
+2 "evgfp"
+3 "miss"
+4 "YHL"
+5 "be"
+6 "have"
+7 "effect"
+8 "obesity"
+9 "factor"
+10 "risk"
+11 "health"
+12 "future"
+*Edges
+2 4
+4 5
+5 1
+1 6
+6 3
+3 7
+7 8
+8 10
+10 9
+9 12
+12 11

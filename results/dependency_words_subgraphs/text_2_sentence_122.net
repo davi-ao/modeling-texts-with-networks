@@ -1,0 +1,22 @@
+*Vertices 10
+1 "had"
+2 "strains"
+3 "that"
+4 "defects"
+5 "many"
+6 "alm"
+7 "migration"
+8 "also"
+9 "plm"
+10 "axonal"
+*Edges
+1 2
+2 3
+2 1
+4 5
+4 6
+4 7
+1 4
+1 8
+4 9
+4 10

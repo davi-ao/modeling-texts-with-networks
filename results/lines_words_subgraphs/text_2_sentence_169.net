@@ -1,0 +1,26 @@
+*Vertices 11
+1 "facilitate"
+2 "thus"
+3 "binding"
+4 "the"
+5 "factor"
+6 "of"
+7 "one"
+8 "might"
+9 "cooperatively"
+10 "factors"
+11 "other"
+*Edges
+2 4
+4 3
+3 6
+6 7
+7 5
+5 8
+8 9
+9 1
+1 4
+4 3
+3 6
+6 11
+11 10

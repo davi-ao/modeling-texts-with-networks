@@ -1,0 +1,11 @@
+*Vertices 5
+1 "migrate"
+2 "alms"
+3 "remain"
+4 "fail"
+5 "position"
+*Edges
+2 4
+4 1
+1 3
+3 5

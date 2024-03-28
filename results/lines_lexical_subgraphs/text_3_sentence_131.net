@@ -1,0 +1,25 @@
+*Vertices 11
+1 "suspend"
+2 "finally"
+3 "particle"
+4 "viral"
+5 "be"
+6 "μl"
+7 "pbst"
+8 "fresh"
+9 "concentration"
+10 "ml"
+11 "time"
+*Edges
+2 4
+4 3
+3 5
+5 1
+1 6
+6 8
+8 7
+7 9
+9 11
+11 4
+4 3
+3 10

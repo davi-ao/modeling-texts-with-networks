@@ -1,0 +1,24 @@
+*Vertices 10
+1 "way"
+2 "activate"
+3 "mec"
+4 "transcription"
+5 "own"
+6 "prevent"
+7 "probably"
+8 "dedifferentiation"
+9 "neuron"
+10 "touch"
+*Edges
+2 3
+2 7
+2 10
+2 4
+5 8
+6 8
+1 8
+3 9
+3 10
+9 10
+5 6
+4 6

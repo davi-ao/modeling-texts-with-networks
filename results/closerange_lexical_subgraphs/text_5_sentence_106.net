@@ -1,0 +1,43 @@
+*Vertices 16
+1 "microenvironment"
+2 "bone"
+3 "influence"
+4 "rankl"
+5 "however"
+6 "abundant"
+7 "more"
+8 "produce"
+9 "cell"
+10 "osteoblast"
+11 "stromal"
+12 "monocyte"
+13 "certain"
+14 "commit"
+15 "lineage"
+16 "osteoclast"
+*Edges
+2 5 1
+2 1 1
+5 1 1
+5 7 1
+6 5 1
+6 7 1
+6 4 1
+7 4 1
+6 8 1
+8 4 1
+10 8 1
+10 4 1
+10 11 1
+8 11 1
+9 11 1
+3 11 1
+9 13 1
+13 3 1
+13 12 1
+3 12 1
+13 14 1
+14 12 1
+14 16 1
+12 16 1
+14 15 1

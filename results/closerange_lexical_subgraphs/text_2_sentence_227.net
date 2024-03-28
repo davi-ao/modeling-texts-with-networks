@@ -1,0 +1,21 @@
+*Vertices 7
+1 "effect"
+2 "include"
+3 "improve"
+4 "expression"
+5 "increase"
+6 "uniformity"
+7 "transgene"
+*Edges
+1 2 1
+1 5 1
+2 5 1
+4 2 1
+4 5 1
+4 3 1
+3 5 1
+4 6 1
+3 6 1
+3 7 1
+7 6 1
+4 7 1

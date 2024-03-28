@@ -1,0 +1,89 @@
+*Vertices 31
+1 "case"
+2 "in"
+3 "the"
+4 "of"
+5 "circulating"
+6 "macrophages"
+7 "or"
+8 "peripheral"
+9 "encountered"
+10 "that"
+11 "have"
+12 "not"
+13 "quantities"
+14 "osteoclastogenic"
+15 "ifn"
+16 "rankl"
+17 "induces"
+18 "γ"
+19 "rapidly"
+20 "activation"
+21 "macrophage"
+22 "production"
+23 "and"
+24 "subsequent"
+25 "no"
+26 "recruiting"
+27 "cells"
+28 "these"
+29 "responses"
+30 "for"
+31 "immune"
+*Edges
+1 2 1
+1 3 1
+2 3 0
+1 4 1
+4 3 0
+1 5 1
+5 4 1
+5 7 1
+5 8 1
+7 8 1
+6 8 1
+6 10 1
+11 6 1
+11 10 1
+11 12 1
+12 10 0
+9 11 1
+9 12 1
+9 14 1
+12 14 1
+9 13 1
+14 13 1
+4 14 1
+4 13 1
+4 16 0
+15 4 1
+15 16 1
+15 18 1
+16 18 1
+15 19 1
+19 18 1
+17 19 1
+17 18 1
+17 21 1
+21 19 1
+20 17 1
+20 21 1
+20 23 0
+23 21 0
+20 24 1
+23 24 1
+25 24 1
+25 22 1
+22 24 1
+25 26 1
+22 26 1
+22 28 1
+26 28 1
+27 26 1
+27 28 1
+27 30 0
+30 28 0
+27 31 1
+30 31 1
+30 29 1
+31 29 1

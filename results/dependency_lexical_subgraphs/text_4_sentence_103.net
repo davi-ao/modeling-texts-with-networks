@@ -1,0 +1,23 @@
+*Vertices 11
+1 "amount"
+2 "equal"
+3 "resolve"
+4 "protein"
+5 "total"
+6 "sample"
+7 "μg"
+8 "usually"
+9 "be"
+10 "page"
+11 "sds"
+*Edges
+1 2
+3 1
+4 5
+4 6
+1 4
+7 8
+1 7
+3 9
+10 11
+3 10

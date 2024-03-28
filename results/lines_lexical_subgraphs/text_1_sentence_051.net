@@ -1,0 +1,18 @@
+*Vertices 8
+1 "person"
+2 "be"
+3 "YOL"
+4 "adjust"
+5 "residual"
+6 "regression"
+7 "mean"
+8 "grand"
+*Edges
+2 1
+1 4
+4 3
+3 2
+2 5
+5 6
+6 8
+8 7

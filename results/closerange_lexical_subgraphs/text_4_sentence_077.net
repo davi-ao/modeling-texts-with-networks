@@ -1,0 +1,71 @@
+*Vertices 26
+1 "result"
+2 "confirm"
+3 "study"
+4 "previous"
+5 "cause"
+6 "layer"
+7 "thick"
+8 "assemble"
+9 "more"
+10 "tightly"
+11 "muscle"
+12 "smooth"
+13 "profile"
+14 "rather"
+15 "proteins"
+16 "major"
+17 "contractile"
+18 "be"
+19 "likely"
+20 "potential"
+21 "high"
+22 "mechanical"
+23 "artery"
+24 "mesenteric"
+25 "vein"
+26 "compare"
+*Edges
+2 1 1
+2 3 1
+1 3 1
+2 4 1
+4 3 1
+4 7 1
+9 3 1
+9 7 1
+9 10 1
+7 10 1
+8 9 1
+8 10 1
+8 12 1
+12 10 1
+8 11 1
+11 12 1
+6 11 1
+6 12 1
+6 14 1
+11 14 1
+6 13 1
+13 14 1
+16 13 1
+16 14 1
+17 16 1
+17 13 1
+17 15 1
+18 15 0
+18 19 1
+18 5 0
+21 19 1
+5 22 1
+21 22 1
+21 20 1
+22 20 1
+22 24 1
+24 20 1
+23 24 1
+23 20 1
+23 26 1
+26 24 1
+23 25 1
+26 25 1

@@ -1,0 +1,27 @@
+*Vertices 13
+1 "CHS"
+2 "Health"
+3 "Cardiovascular"
+4 "Study"
+5 "population"
+6 "be"
+7 "study"
+8 "base"
+9 "longitudinal"
+10 "adult"
+11 "age"
+12 "old"
+13 "baseline"
+*Edges
+3 2
+2 4
+4 1
+1 6
+6 5
+5 8
+8 9
+9 7
+7 10
+10 11
+11 12
+12 13

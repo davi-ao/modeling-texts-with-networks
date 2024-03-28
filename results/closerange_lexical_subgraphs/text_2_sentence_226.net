@@ -1,0 +1,44 @@
+*Vertices 17
+1 "find"
+2 "Kelly"
+3 "improve"
+4 "inclusion"
+5 "dna"
+6 "complex"
+7 "carrier"
+8 "experiment"
+9 "elegans"
+10 "Caenorhabditis"
+11 "transformation"
+12 "function"
+13 "inject"
+14 "co"
+15 "certain"
+16 "construct"
+17 "reporter"
+*Edges
+1 4 1
+1 2 1
+4 2 1
+6 1 1
+6 4 1
+7 6 1
+7 4 1
+7 5 1
+6 5 1
+10 5 1
+10 9 1
+10 11 1
+9 11 1
+9 8 1
+8 11 1
+8 3 1
+3 11 1
+15 12 1
+15 3 1
+15 14 1
+14 13 1
+14 17 1
+13 17 1
+16 13 1
+16 17 1

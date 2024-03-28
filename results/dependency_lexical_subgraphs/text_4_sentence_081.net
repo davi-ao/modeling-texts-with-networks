@@ -1,0 +1,19 @@
+*Vertices 9
+1 "animal"
+2 "euthanize"
+3 "be"
+4 "overdose"
+5 "kg"
+6 "pentobarbitone"
+7 "sodium"
+8 "mg"
+9 "intraperitoneally"
+*Edges
+2 1
+2 3
+2 4
+5 6
+5 7
+5 8
+4 5
+2 9

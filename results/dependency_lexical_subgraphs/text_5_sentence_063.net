@@ -1,0 +1,19 @@
+*Vertices 8
+1 "antibody"
+2 "USA"
+3 "be"
+4 "Cruz"
+5 "Santa"
+6 "actin"
+7 "purchase"
+8 "Sigma"
+*Edges
+2 1
+2 3
+4 5
+2 4
+2 6
+7 6
+7 3
+6 7
+7 8

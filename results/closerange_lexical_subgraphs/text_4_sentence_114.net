@@ -1,0 +1,25 @@
+*Vertices 9
+1 "t"
+2 "student"
+3 "test"
+4 "pair"
+5 "apply"
+6 "datum"
+7 "unpaired"
+8 "be"
+9 "appropriate"
+*Edges
+2 1 1
+2 3 1
+1 3 1
+4 1 1
+4 3 1
+4 7 1
+3 7 1
+6 7 1
+8 6 0
+8 7 1
+5 8 1
+5 6 1
+5 9 1
+9 8 1

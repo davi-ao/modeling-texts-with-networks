@@ -1,0 +1,26 @@
+*Vertices 10
+1 "secondary"
+2 "interestingly"
+3 "however"
+4 "vein"
+5 "tertiary"
+6 "mesenteric"
+7 "have"
+8 "identical"
+9 "almost"
+10 "thickness"
+*Edges
+8 9
+4 7
+3 4
+2 8
+5 8
+1 6
+5 6
+4 6
+1 5
+1 10
+1 4
+5 10
+4 5
+4 10

@@ -1,0 +1,26 @@
+*Vertices 12
+1 "dose"
+2 "low"
+3 "induce"
+4 "generate"
+5 "trap"
+6 "specific"
+7 "osteoclast"
+8 "marker"
+9 "cell"
+10 "mononuclear"
+11 "few"
+12 "substantially"
+*Edges
+2 1
+1 3
+3 7
+7 6
+6 8
+8 5
+5 10
+10 9
+9 4
+4 12
+12 11
+11 7

@@ -1,0 +1,36 @@
+*Vertices 12
+1 "pathway"
+2 "Jak"
+3 "stat1"
+4 "intact"
+5 "be"
+6 "cell"
+7 "indicate"
+8 "involve"
+9 "event"
+10 "downstream"
+11 "transcriptional"
+12 "inhibition"
+*Edges
+2 1 1
+2 3 1
+1 3 1
+5 1 0
+5 3 0
+5 4 1
+4 1 1
+5 6 0
+6 4 1
+6 7 0
+7 4 1
+6 10 1
+10 7 1
+10 11 1
+7 11 1
+10 9 1
+9 11 1
+5 11 0
+5 8 1
+9 8 1
+5 12 0
+12 8 1

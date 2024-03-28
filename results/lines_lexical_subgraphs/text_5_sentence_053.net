@@ -1,0 +1,25 @@
+*Vertices 12
+1 "bioactivity"
+2 "verify"
+3 "rankl"
+4 "gst"
+5 "be"
+6 "osteoclastogenesis"
+7 "raw"
+8 "cell"
+9 "trap"
+10 "expression"
+11 "use"
+12 "experimental"
+*Edges
+1 4
+4 3
+3 5
+5 2
+2 7
+7 8
+8 6
+6 9
+9 10
+10 12
+12 11

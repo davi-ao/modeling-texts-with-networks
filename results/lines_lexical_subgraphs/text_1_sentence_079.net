@@ -1,0 +1,13 @@
+*Vertices 6
+1 "examine"
+2 "next"
+3 "relationship"
+4 "bmi"
+5 "YOL"
+6 "YHL"
+*Edges
+2 1
+1 3
+3 4
+4 5
+5 6

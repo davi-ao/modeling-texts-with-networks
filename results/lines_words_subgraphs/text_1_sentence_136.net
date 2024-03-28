@@ -1,0 +1,19 @@
+*Vertices 9
+1 "results"
+2 "these"
+3 "year"
+4 "are"
+5 "for"
+6 "a"
+7 "7"
+8 "follow"
+9 "up"
+*Edges
+2 1
+1 4
+4 5
+5 6
+6 7
+7 3
+3 8
+8 9

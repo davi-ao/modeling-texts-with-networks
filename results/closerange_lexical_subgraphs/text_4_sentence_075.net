@@ -1,0 +1,66 @@
+*Vertices 22
+1 "recognize"
+2 "moreover"
+3 "have"
+4 "be"
+5 "modulate"
+6 "caldesmon"
+7 "tm"
+8 "interaction"
+9 "actin"
+10 "myosin"
+11 "manner"
+12 "cooperative"
+13 "suggest"
+14 "effect"
+15 "functional"
+16 "proteins"
+17 "coupling"
+18 "muscle"
+19 "smooth"
+20 "mechanics"
+21 "interpret"
+22 "parallel"
+*Edges
+4 3 0
+4 2 1
+3 2 1
+4 1 1
+3 1 1
+6 1 1
+6 7 1
+1 7 1
+6 5 1
+5 7 1
+9 5 1
+9 7 1
+9 10 1
+9 8 1
+8 10 1
+12 8 1
+12 10 1
+12 11 1
+8 11 1
+12 13 1
+11 13 1
+15 13 1
+14 15 1
+14 13 1
+14 16 1
+15 16 1
+9 14 1
+9 16 1
+10 16 1
+9 17 1
+17 10 1
+17 19 1
+10 19 1
+17 18 1
+18 19 1
+20 18 1
+20 19 1
+4 18 0
+4 21 1
+21 20 1
+4 22 1
+21 22 1

@@ -1,0 +1,28 @@
+*Vertices 10
+1 "show"
+2 "strain"
+3 "defect"
+4 "ALM"
+5 "migration"
+6 "also"
+7 "pair"
+8 "neuron"
+9 "touch"
+10 "PLMs"
+*Edges
+4 1 1
+4 2 1
+1 2 1
+4 5 1
+5 1 1
+4 3 1
+3 5 1
+6 3 1
+6 5 1
+6 1 1
+3 1 1
+7 1 1
+3 9 1
+7 9 1
+8 9 1
+10 9 1

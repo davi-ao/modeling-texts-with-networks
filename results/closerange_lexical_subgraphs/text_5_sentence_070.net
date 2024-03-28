@@ -1,0 +1,57 @@
+*Vertices 19
+1 "cell"
+2 "demonstrate"
+3 "recapitulate"
+4 "have"
+5 "be"
+6 "aspect"
+7 "critical"
+8 "formation"
+9 "osteoclast"
+10 "activity"
+11 "expression"
+12 "include"
+13 "resorption"
+14 "bone"
+15 "fusion"
+16 "receptor"
+17 "calcitonin"
+18 "multinuclear"
+19 "trap"
+*Edges
+5 1 0
+5 4 0
+1 4 0
+5 2 0
+2 4 1
+5 3 1
+2 3 1
+7 2 1
+7 3 1
+6 7 1
+6 3 1
+6 9 1
+7 9 1
+6 8 1
+8 9 1
+10 8 1
+10 9 1
+10 12 1
+8 12 1
+10 14 1
+14 12 1
+14 13 1
+12 13 1
+14 11 1
+11 13 1
+17 11 1
+17 13 1
+17 16 1
+11 16 1
+17 18 1
+18 16 1
+15 18 1
+15 16 1
+15 19 1
+18 19 1
+11 19 1

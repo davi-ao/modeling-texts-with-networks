@@ -1,0 +1,15 @@
+*Vertices 7
+1 "consider"
+2 "value"
+3 "p"
+4 "less"
+5 "be"
+6 "significant"
+7 "statistically"
+*Edges
+2 3
+3 4
+4 5
+5 1
+1 7
+7 6

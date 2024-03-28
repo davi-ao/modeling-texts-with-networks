@@ -1,0 +1,23 @@
+*Vertices 11
+1 "measure"
+2 "we"
+3 "position"
+4 "the"
+5 "ALM"
+6 "animal"
+7 "in"
+8 "100"
+9 "strain"
+10 "from"
+11 "each"
+*Edges
+2 1
+1 4
+4 5
+5 3
+3 7
+7 8
+8 6
+6 10
+10 11
+11 9

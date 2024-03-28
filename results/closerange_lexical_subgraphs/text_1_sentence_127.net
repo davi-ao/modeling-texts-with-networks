@@ -1,0 +1,39 @@
+*Vertices 13
+1 "important"
+2 "be"
+3 "particularly"
+4 "light"
+5 "finding"
+6 "recent"
+7 "find"
+8 "harmful"
+9 "intervention"
+10 "drug"
+11 "such"
+12 "loss"
+13 "weight"
+*Edges
+2 1 1
+2 3 1
+1 3 1
+1 4 1
+4 3 1
+1 6 1
+4 6 1
+5 4 1
+5 6 1
+7 5 1
+7 6 1
+7 9 1
+5 9 1
+7 11 1
+9 11 1
+9 13 1
+11 13 1
+12 11 1
+12 13 1
+10 12 1
+10 13 1
+2 12 0
+2 8 1
+10 8 1

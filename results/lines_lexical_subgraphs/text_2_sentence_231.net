@@ -1,0 +1,21 @@
+*Vertices 10
+1 "factor"
+2 "regulate"
+3 "also"
+4 "mec"
+5 "fate"
+6 "control"
+7 "thereby"
+8 "receptor"
+9 "touch"
+10 "neuron"
+*Edges
+1 3
+3 2
+2 4
+4 7
+7 6
+6 9
+9 8
+8 10
+10 5

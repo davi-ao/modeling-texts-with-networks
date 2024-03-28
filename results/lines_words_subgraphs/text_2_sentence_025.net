@@ -1,0 +1,26 @@
+*Vertices 12
+1 "members"
+2 "in"
+3 "drosophila"
+4 "tgfβ"
+5 "family"
+6 "involved"
+7 "are"
+8 "also"
+9 "migrations"
+10 "controlling"
+11 "dorsal"
+12 "ventral"
+*Edges
+2 3
+3 4
+4 5
+5 1
+1 7
+7 8
+8 6
+6 2
+2 10
+10 11
+11 12
+12 9

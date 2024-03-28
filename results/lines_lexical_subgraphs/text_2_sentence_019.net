@@ -1,0 +1,26 @@
+*Vertices 11
+1 "protein"
+2 "UNC"
+3 "homolog"
+4 "laminin"
+5 "locate"
+6 "be"
+7 "region"
+8 "ventral"
+9 "animal"
+10 "netrin"
+11 "vertebrate"
+*Edges
+2 1
+1 4
+4 1
+1 6
+6 5
+5 8
+8 7
+7 9
+9 6
+6 3
+3 11
+11 1
+1 10

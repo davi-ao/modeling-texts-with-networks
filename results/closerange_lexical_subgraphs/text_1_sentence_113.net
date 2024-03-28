@@ -1,0 +1,49 @@
+*Vertices 17
+1 "improve"
+2 "trial"
+3 "health"
+4 "group"
+5 "other"
+6 "normal"
+7 "fruitless"
+8 "probably"
+9 "be"
+10 "evidence"
+11 "overweight"
+12 "man"
+13 "woman"
+14 "obese"
+15 "affect"
+16 "YOL"
+17 "YHL"
+*Edges
+3 1 1
+3 2 1
+1 2 1
+3 5 1
+1 5 1
+4 3 1
+4 5 1
+4 6 1
+6 5 1
+4 8 1
+6 8 1
+9 6 0
+9 8 0
+9 7 1
+7 8 1
+9 10 1
+10 7 1
+9 11 1
+10 11 1
+9 12 0
+12 11 1
+12 13 1
+12 14 1
+14 13 1
+15 12 1
+15 14 1
+15 16 1
+12 16 1
+15 17 1
+17 16 1

@@ -1,0 +1,19 @@
+*Vertices 6
+1 "dsrna"
+2 "inject"
+3 "be"
+4 "concentration"
+5 "ml"
+6 "μg"
+*Edges
+3 4
+2 3
+3 5
+3 6
+2 4
+4 5
+4 6
+1 2
+2 5
+2 6
+5 6

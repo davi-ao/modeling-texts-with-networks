@@ -1,0 +1,27 @@
+*Vertices 12
+1 "give"
+2 "qrpa"
+3 "rise"
+4 "neuron"
+5 "to"
+6 "two"
+7 "sdqr"
+8 "and"
+9 "the"
+10 "receptor"
+11 "AVM"
+12 "touch"
+*Edges
+1 2
+1 3
+4 5
+4 6
+1 4
+4 7
+4 8
+4 9
+10 11
+10 12
+4 10
+4 4
+7 4

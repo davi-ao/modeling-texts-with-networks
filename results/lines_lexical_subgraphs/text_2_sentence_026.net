@@ -1,0 +1,25 @@
+*Vertices 12
+1 "appear"
+2 "therefore"
+3 "act"
+4 "netrin"
+5 "UNC"
+6 "system"
+7 "guidance"
+8 "tgfβ"
+9 "conserve"
+10 "redundantly"
+11 "be"
+12 "species"
+*Edges
+1 2
+2 5
+5 4
+4 8
+8 7
+7 6
+6 3
+3 10
+10 11
+11 9
+9 12

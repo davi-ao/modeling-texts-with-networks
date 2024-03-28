@@ -1,0 +1,18 @@
+*Vertices 7
+1 "rankl"
+2 "gst"
+3 "purified"
+4 "was"
+5 "described"
+6 "as"
+7 "previously"
+*Edges
+5 6
+1 6
+4 6
+2 5
+5 7
+4 5
+1 2
+3 7
+1 4

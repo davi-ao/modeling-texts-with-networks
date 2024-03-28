@@ -1,0 +1,51 @@
+*Vertices 16
+1 "evaluate"
+2 "effect"
+3 "utilize"
+4 "IFN"
+5 "osteoclastogenesis"
+6 "cell"
+7 "line"
+8 "mouse"
+9 "macrophage"
+10 "raw2647"
+11 "raw"
+12 "splenic"
+13 "bl6"
+14 "cba"
+15 "precursor"
+16 "osteoclast"
+*Edges
+2 1 1
+2 4 1
+1 4 1
+2 5 1
+4 5 1
+4 3 1
+5 3 1
+8 5 1
+8 3 1
+9 8 1
+9 3 1
+6 9 0
+6 8 1
+6 7 1
+7 9 1
+6 10 1
+7 10 1
+7 11 1
+11 10 1
+6 11 1
+6 12 1
+11 12 1
+9 12 1
+14 9 1
+14 12 1
+13 14 1
+13 9 1
+13 8 1
+14 8 1
+13 16 1
+8 16 1
+8 15 1
+16 15 1

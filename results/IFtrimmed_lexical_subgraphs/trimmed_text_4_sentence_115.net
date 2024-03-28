@@ -1,0 +1,15 @@
+*Vertices 7
+1 "way"
+2 "anova"
+3 "apply"
+4 "be"
+5 "comparison"
+6 "multiple"
+7 "group"
+*Edges
+2 5
+2 6
+1 2
+3 4
+4 7
+5 7

@@ -1,0 +1,23 @@
+*Vertices 11
+1 "make"
+2 "pjc16"
+3 "digest"
+4 "pjc10"
+5 "EI"
+6 "Bsp"
+7 "RI"
+8 "Eco"
+9 "remove"
+10 "fragment"
+11 "bp"
+*Edges
+1 2
+2 3
+3 4
+4 6
+6 5
+5 8
+8 7
+7 9
+9 11
+11 10

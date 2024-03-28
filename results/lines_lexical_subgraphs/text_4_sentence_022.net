@@ -1,0 +1,27 @@
+*Vertices 13
+1 "detail"
+2 "ultrastructural"
+3 "observe"
+4 "morphology"
+5 "wall"
+6 "vessel"
+7 "be"
+8 "microscopy"
+9 "electron"
+10 "artery"
+11 "canine"
+12 "mesenteric"
+13 "vein"
+*Edges
+2 1
+1 6
+6 5
+5 4
+4 7
+7 3
+3 9
+9 8
+8 11
+11 12
+12 10
+10 13

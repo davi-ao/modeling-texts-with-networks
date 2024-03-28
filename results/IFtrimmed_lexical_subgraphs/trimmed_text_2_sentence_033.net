@@ -1,0 +1,17 @@
+*Vertices 7
+1 "signal"
+2 "MIG"
+3 "therefore"
+4 "cell"
+5 "direction"
+6 "extent"
+7 "migration"
+*Edges
+4 7
+1 4
+5 6
+2 5
+5 7
+2 6
+6 7
+3 7

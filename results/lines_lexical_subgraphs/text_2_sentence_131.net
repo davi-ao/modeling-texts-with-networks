@@ -1,0 +1,25 @@
+*Vertices 12
+1 "control"
+2 "cross"
+3 "array"
+4 "integrated"
+5 "generate"
+6 "tu2562"
+7 "background"
+8 "ls20"
+9 "pag"
+10 "genetic"
+11 "ea363"
+12 "strain"
+*Edges
+1 2
+2 4
+4 3
+3 6
+6 9
+9 8
+8 10
+10 7
+7 5
+5 12
+12 11

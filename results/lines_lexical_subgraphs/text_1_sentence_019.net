@@ -1,0 +1,19 @@
+*Vertices 9
+1 "collection"
+2 "datum"
+3 "begin"
+4 "follow"
+5 "complete"
+6 "be"
+7 "virtually"
+8 "subject"
+9 "survive"
+*Edges
+2 1
+1 3
+3 4
+4 6
+6 7
+7 5
+5 9
+9 8

@@ -1,0 +1,23 @@
+*Vertices 10
+1 "difference"
+2 "black"
+3 "gender"
+4 "significant"
+5 "be"
+6 "loss"
+7 "pound"
+8 "unintended"
+9 "weight"
+10 "age"
+*Edges
+2 3
+3 1
+1 5
+5 4
+4 7
+7 8
+8 9
+9 6
+6 9
+9 6
+6 10

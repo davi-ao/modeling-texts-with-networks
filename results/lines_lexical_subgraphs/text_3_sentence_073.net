@@ -1,0 +1,26 @@
+*Vertices 12
+1 "particle"
+2 "adenoviral"
+3 "take"
+4 "be"
+5 "efficiently"
+6 "relatively"
+7 "line"
+8 "cell"
+9 "result"
+10 "do"
+11 "not"
+12 "transduction"
+*Edges
+2 1
+1 4
+4 3
+3 6
+6 5
+5 8
+8 7
+7 10
+10 11
+11 9
+9 12
+12 8

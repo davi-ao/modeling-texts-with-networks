@@ -1,0 +1,26 @@
+*Vertices 12
+1 "yol"
+2 "both"
+3 "significant"
+4 "yhl"
+5 "and"
+6 "would"
+7 "be"
+8 "clinically"
+9 "group"
+10 "in"
+11 "this"
+12 "patient"
+*Edges
+1 2
+3 1
+4 5
+1 4
+3 4
+3 6
+3 7
+3 8
+9 10
+9 11
+9 12
+3 9

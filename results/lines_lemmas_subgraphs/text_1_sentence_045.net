@@ -1,0 +1,17 @@
+*Vertices 8
+1 "measure"
+2 "this"
+3 "explain"
+4 "be"
+5 "detail"
+6 "in"
+7 "more"
+8 "elsewhere"
+*Edges
+2 1
+1 4
+4 3
+3 6
+6 7
+7 5
+5 8

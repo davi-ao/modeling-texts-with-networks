@@ -1,0 +1,20 @@
+*Vertices 8
+1 "stabilize"
+2 "protrusion"
+3 "retract"
+4 "adhere"
+5 "fail"
+6 "enough"
+7 "strongly"
+8 "be"
+*Edges
+2 4
+4 7
+2 7
+4 6
+6 7
+1 8
+1 6
+1 5
+3 5
+1 3

@@ -1,0 +1,27 @@
+*Vertices 13
+1 "vector"
+2 "biotinylate"
+3 "adenoviral"
+4 "analyze"
+5 "be"
+6 "infect"
+7 "ability"
+8 "cell"
+9 "immobilize"
+10 "surface"
+11 "coat"
+12 "streptavidin"
+13 "solid"
+*Edges
+2 3
+3 1
+1 5
+5 4
+4 7
+7 6
+6 8
+8 9
+9 12
+12 11
+11 13
+13 10

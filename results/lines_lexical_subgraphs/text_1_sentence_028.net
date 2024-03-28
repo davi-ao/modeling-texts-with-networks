@@ -1,0 +1,13 @@
+*Vertices 6
+1 "available"
+2 "datum"
+3 "be"
+4 "about"
+5 "percent"
+6 "time"
+*Edges
+2 3
+3 1
+1 4
+4 5
+5 6

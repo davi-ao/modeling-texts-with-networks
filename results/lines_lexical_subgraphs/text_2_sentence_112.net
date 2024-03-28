@@ -1,0 +1,13 @@
+*Vertices 6
+1 "neuroblast"
+2 "qrp"
+3 "generate"
+4 "be"
+5 "posterior"
+6 "animal"
+*Edges
+2 1
+1 4
+4 3
+3 5
+5 6

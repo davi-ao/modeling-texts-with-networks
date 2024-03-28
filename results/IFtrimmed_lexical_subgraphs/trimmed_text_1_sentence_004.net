@@ -1,0 +1,19 @@
+*Vertices 7
+1 "review"
+2 "draw"
+3 "study"
+4 "adult"
+5 "old"
+6 "conclusion"
+7 "similar"
+*Edges
+4 6
+2 4
+4 5
+1 4
+3 4
+2 6
+1 6
+1 2
+3 5
+3 7

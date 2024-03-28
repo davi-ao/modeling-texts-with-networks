@@ -1,0 +1,47 @@
+*Vertices 18
+1 "show"
+2 "previously"
+3 "attach"
+4 "moiety"
+5 "biotin"
+6 "be"
+7 "covalently"
+8 "surface"
+9 "outer"
+10 "vector"
+11 "adenoviral"
+12 "effect"
+13 "appreciable"
+14 "infectivity"
+15 "condition"
+16 "control"
+17 "carefully"
+18 "biotinylation"
+*Edges
+5 2 1
+5 1 0
+2 1 1
+5 4 1
+4 1 1
+6 4 0
+3 6 1
+3 4 1
+3 7 1
+6 7 1
+3 9 1
+7 9 1
+7 8 1
+11 9 1
+11 8 1
+11 10 1
+11 13 1
+13 10 1
+13 12 1
+12 10 0
+13 14 1
+12 14 1
+17 12 1
+17 14 1
+16 14 1
+18 16 1
+15 16 1

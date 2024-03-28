@@ -1,0 +1,99 @@
+*Vertices 34
+1 "seem"
+2 "similarly"
+3 "tm"
+4 "function"
+5 "do"
+6 "not"
+7 "protein"
+8 "major"
+9 "regulatory"
+10 "document"
+11 "effect"
+12 "modulatory"
+13 "ability"
+14 "maintain"
+15 "structure"
+16 "actin"
+17 "filamentous"
+18 "inhibit"
+19 "ca"
+20 "2plus"
+21 "activity"
+22 "atpase"
+23 "alter"
+24 "improve"
+25 "dynamics"
+26 "cytoskeletal"
+27 "filament"
+28 "flexibility"
+29 "cycle"
+30 "contraction"
+31 "relaxation"
+32 "have"
+33 "be"
+34 "well"
+*Edges
+5 2 1
+5 3 1
+2 3 1
+5 6 1
+6 3 1
+5 1 1
+6 1 1
+4 6 1
+4 1 1
+4 8 1
+4 9 1
+8 9 1
+7 9 1
+12 7 1
+12 9 1
+11 12 1
+11 7 0
+13 11 1
+13 12 1
+13 14 1
+11 14 1
+13 16 1
+16 14 1
+16 17 1
+17 14 1
+16 15 1
+17 15 1
+18 15 1
+19 18 1
+19 15 1
+20 19 1
+20 18 1
+20 22 1
+22 19 1
+20 21 1
+21 22 1
+23 22 1
+21 26 1
+23 26 1
+23 25 1
+26 25 1
+26 24 1
+25 24 1
+16 25 1
+16 24 1
+16 27 1
+27 24 1
+16 28 1
+27 28 1
+30 27 1
+30 28 1
+30 31 1
+28 31 1
+30 29 1
+29 31 1
+29 32 1
+32 31 1
+33 29 1
+33 32 0
+33 34 0
+32 34 0
+33 10 1
+10 34 1

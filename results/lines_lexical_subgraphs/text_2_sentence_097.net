@@ -1,0 +1,23 @@
+*Vertices 11
+1 "determine"
+2 "make"
+3 "increase"
+4 "have"
+5 "promoter"
+6 "present"
+7 "effectiveness"
+8 "sequence"
+9 "plasmid"
+10 "show"
+11 "figure"
+*Edges
+1 4
+4 5
+5 6
+6 3
+3 7
+7 8
+8 2
+2 9
+9 10
+10 11

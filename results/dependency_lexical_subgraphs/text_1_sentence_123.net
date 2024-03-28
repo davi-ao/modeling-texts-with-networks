@@ -1,0 +1,24 @@
+*Vertices 10
+1 "woman"
+2 "be"
+3 "show"
+4 "change"
+5 "obese"
+6 "normal"
+7 "likely"
+8 "YHL"
+9 "not"
+10 "YOL"
+*Edges
+1 2
+3 1
+1 4
+5 2
+4 5
+6 2
+5 6
+3 7
+3 4
+4 8
+10 9
+3 10

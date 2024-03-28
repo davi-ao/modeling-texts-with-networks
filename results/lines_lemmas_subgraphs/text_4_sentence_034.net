@@ -1,0 +1,27 @@
+*Vertices 13
+1 "experiment"
+2 "for"
+3 "this"
+4 "use"
+5 "we"
+6 "artery"
+7 "mesenteric"
+8 "vein"
+9 "and"
+10 "dog"
+11 "from"
+12 "12"
+13 "different"
+*Edges
+2 3
+3 1
+1 5
+5 4
+4 7
+7 6
+6 9
+9 8
+8 11
+11 12
+12 13
+13 10

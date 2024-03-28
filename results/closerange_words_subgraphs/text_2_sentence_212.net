@@ -1,0 +1,29 @@
+*Vertices 10
+1 "had"
+2 "temperature"
+3 "effect"
+4 "a"
+5 "strong"
+6 "defects"
+7 "on"
+8 "the"
+9 "alm"
+10 "migration"
+*Edges
+4 1 0
+4 2 1
+1 2 1
+4 5 1
+1 5 1
+4 3 1
+3 5 1
+3 7 1
+7 5 1
+3 8 1
+7 8 0
+9 7 0
+9 8 1
+9 10 1
+10 8 1
+9 6 1
+6 10 1

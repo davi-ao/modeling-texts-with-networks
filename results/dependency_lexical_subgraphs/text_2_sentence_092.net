@@ -1,0 +1,19 @@
+*Vertices 9
+1 "measure"
+2 "position"
+3 "ALMs"
+4 "animal"
+5 "strain"
+6 "transgenic"
+7 "make"
+8 "mixture"
+9 "dna"
+*Edges
+1 2
+2 3
+1 4
+5 6
+1 5
+5 7
+8 9
+7 8

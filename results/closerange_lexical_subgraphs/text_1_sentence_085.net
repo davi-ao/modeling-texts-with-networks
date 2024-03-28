@@ -1,0 +1,33 @@
+*Vertices 13
+1 "consider"
+2 "mention"
+3 "have"
+4 "group"
+5 "bmi"
+6 "be"
+7 "normal"
+8 "guideline"
+9 "NHLBI"
+10 "YOL"
+11 "low"
+12 "YHL"
+13 "comparison"
+*Edges
+5 4 1
+5 2 1
+4 2 1
+6 5 0
+6 4 0
+6 7 0
+1 7 1
+1 9 1
+9 7 1
+8 9 1
+3 9 1
+3 11 1
+3 10 1
+11 10 1
+11 12 1
+12 10 1
+13 12 1
+13 10 1

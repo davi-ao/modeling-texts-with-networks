@@ -1,0 +1,26 @@
+*Vertices 12
+1 "have"
+2 "whites"
+3 "sample"
+4 "in"
+5 "the"
+6 "income"
+7 "high"
+8 "datum"
+9 "education"
+10 "and"
+11 "show"
+12 "not"
+*Edges
+1 2
+3 4
+3 5
+2 3
+6 7
+8 6
+9 10
+6 9
+8 9
+11 8
+11 12
+1 11

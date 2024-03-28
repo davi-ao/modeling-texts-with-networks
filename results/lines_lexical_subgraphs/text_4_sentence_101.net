@@ -1,0 +1,22 @@
+*Vertices 10
+1 "resuspend"
+2 "pellet"
+3 "be"
+4 "buffer"
+5 "extraction"
+6 "protein"
+7 "extract"
+8 "twice"
+9 "describe"
+10 "above"
+*Edges
+2 3
+3 1
+1 5
+5 4
+4 6
+6 3
+3 7
+7 8
+8 9
+9 10

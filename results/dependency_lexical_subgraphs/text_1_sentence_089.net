@@ -1,0 +1,25 @@
+*Vertices 11
+1 "interval"
+2 "category"
+3 "different"
+4 "confidence"
+5 "overlap"
+6 "do"
+7 "not"
+8 "slightly"
+9 "only"
+10 "be"
+11 "significantly"
+*Edges
+1 2
+3 2
+1 4
+5 1
+5 6
+5 7
+2 5
+5 5
+8 9
+5 8
+3 10
+3 11

@@ -1,0 +1,15 @@
+*Vertices 7
+1 "normal"
+2 "woman"
+3 "overweight"
+4 "average"
+5 "be"
+6 "about"
+7 "yhl"
+*Edges
+2 5
+5 1
+1 3
+3 4
+4 6
+6 7

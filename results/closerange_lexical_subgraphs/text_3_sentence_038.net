@@ -1,0 +1,47 @@
+*Vertices 17
+1 "hypothesize"
+2 "cause"
+3 "reduction"
+4 "efficiency"
+5 "immobilization"
+6 "be"
+7 "property"
+8 "physical"
+9 "fluidic"
+10 "vector"
+11 "viral"
+12 "have"
+13 "well"
+14 "particle"
+15 "ability"
+16 "limited"
+17 "migrate"
+*Edges
+1 5 1
+1 3 1
+5 3 1
+4 5 1
+4 3 1
+6 4 0
+6 5 0
+6 2 0
+6 8 1
+2 8 1
+2 9 1
+9 8 1
+9 7 1
+8 7 1
+9 11 1
+7 11 1
+10 11 1
+10 13 0
+11 13 1
+14 11 1
+14 13 1
+12 14 0
+12 11 0
+16 14 1
+15 12 1
+15 16 1
+15 17 1
+16 17 1

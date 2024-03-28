@@ -1,0 +1,26 @@
+*Vertices 12
+1 "make"
+2 "trial"
+3 "woman"
+4 "obese"
+5 "comparable"
+6 "normal"
+7 "evaluate"
+8 "be"
+9 "use"
+10 "yhl"
+11 "not"
+12 "YOL"
+*Edges
+1 2
+3 4
+5 3
+1 5
+3 6
+7 8
+1 7
+7 9
+9 10
+12 11
+9 12
+10 12

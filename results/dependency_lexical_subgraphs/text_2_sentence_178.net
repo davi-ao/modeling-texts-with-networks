@@ -1,0 +1,19 @@
+*Vertices 9
+1 "be"
+2 "proteins"
+3 "homology"
+4 "family"
+5 "stat"
+6 "factor"
+7 "transcription"
+8 "elegans"
+9 "Caenorhabditis"
+*Edges
+1 2
+2 3
+4 5
+3 4
+6 7
+4 6
+8 9
+1 8

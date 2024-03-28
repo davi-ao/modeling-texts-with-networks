@@ -1,0 +1,25 @@
+*Vertices 11
+1 "role"
+2 "apparent"
+3 "not"
+4 "be"
+5 "gene"
+6 "mec"
+7 "fusion"
+8 "activate"
+9 "heterodimer"
+10 "endogenous"
+11 "UNC"
+*Edges
+1 3
+3 4
+4 2
+2 6
+6 7
+7 5
+5 4
+4 8
+8 10
+10 11
+11 6
+6 9

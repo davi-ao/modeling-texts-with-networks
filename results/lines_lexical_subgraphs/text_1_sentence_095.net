@@ -1,0 +1,17 @@
+*Vertices 8
+1 "line"
+2 "lowermost"
+3 "yhl"
+4 "figure"
+5 "show"
+6 "mean"
+7 "woman"
+8 "man"
+*Edges
+2 1
+1 4
+4 5
+5 6
+6 3
+3 7
+7 8

@@ -1,0 +1,38 @@
+*Vertices 13
+1 "transduction"
+2 "specific"
+3 "see"
+4 "cell"
+5 "target"
+6 "be"
+7 "spot"
+8 "only"
+9 "location"
+10 "attach"
+11 "moiety"
+12 "biotin"
+13 "initially"
+*Edges
+2 5 1
+2 1 1
+5 1 1
+4 5 1
+4 1 1
+6 4 0
+6 5 0
+6 3 1
+4 3 1
+6 8 0
+8 3 1
+9 8 1
+9 3 1
+9 7 1
+8 7 1
+12 7 1
+12 11 1
+11 7 1
+6 11 0
+6 13 1
+13 11 1
+10 6 1
+10 13 1

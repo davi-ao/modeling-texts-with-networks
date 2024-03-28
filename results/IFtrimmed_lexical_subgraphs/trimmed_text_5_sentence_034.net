@@ -1,0 +1,25 @@
+*Vertices 9
+1 "administration"
+2 "culture"
+3 "delay"
+4 "IFN"
+5 "be"
+6 "allow"
+7 "effect"
+8 "early"
+9 "rankl"
+*Edges
+1 3
+3 6
+2 5
+5 7
+4 5
+5 9
+2 4
+2 9
+3 8
+4 8
+8 9
+4 7
+7 9
+4 9

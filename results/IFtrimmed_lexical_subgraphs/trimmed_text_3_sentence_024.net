@@ -1,0 +1,9 @@
+*Vertices 4
+1 "agreement"
+2 "be"
+3 "study"
+4 "early"
+*Edges
+1 4
+2 3
+3 4

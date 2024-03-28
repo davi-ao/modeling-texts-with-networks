@@ -1,0 +1,25 @@
+*Vertices 9
+1 "vector"
+2 "viral"
+3 "purify"
+4 "have"
+5 "be"
+6 "round"
+7 "centrifugation"
+8 "gradient"
+9 "cscl"
+*Edges
+4 1 0
+4 2 0
+1 2 1
+5 4 0
+5 1 0
+5 3 0
+4 3 1
+5 6 1
+9 3 1
+9 6 1
+9 8 1
+8 6 1
+7 9 1
+7 8 1

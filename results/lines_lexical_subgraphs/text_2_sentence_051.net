@@ -1,0 +1,26 @@
+*Vertices 11
+1 "show"
+2 "figure"
+3 "example"
+4 "plm"
+5 "normal"
+6 "tu2562"
+7 "strain"
+8 "several"
+9 "defect"
+10 "axonal"
+11 "ea485"
+*Edges
+2 1
+1 3
+3 5
+5 4
+4 7
+7 6
+6 8
+8 3
+3 4
+4 10
+10 9
+9 7
+7 11

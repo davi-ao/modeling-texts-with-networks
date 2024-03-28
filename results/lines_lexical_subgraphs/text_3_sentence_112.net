@@ -1,0 +1,25 @@
+*Vertices 11
+1 "availability"
+2 "library"
+3 "such"
+4 "viral"
+5 "vector"
+6 "particularly"
+7 "facilitate"
+8 "base"
+9 "adenoviral"
+10 "realization"
+11 "application"
+*Edges
+1 3
+3 4
+4 5
+5 2
+2 6
+6 8
+8 9
+9 5
+5 7
+7 10
+10 3
+3 11

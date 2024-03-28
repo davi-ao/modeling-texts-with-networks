@@ -1,0 +1,21 @@
+*Vertices 8
+1 "category"
+2 "bmi"
+3 "plot"
+4 "mean"
+5 "interval"
+6 "percent"
+7 "confidence"
+8 "be"
+*Edges
+2 8
+6 8
+1 2
+2 3
+1 7
+1 5
+5 7
+4 7
+3 7
+4 5
+3 5

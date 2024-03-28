@@ -1,0 +1,16 @@
+*Vertices 7
+1 "mrankl"
+2 "gst"
+3 "generate"
+4 "be"
+5 "describe"
+6 "as"
+7 "later"
+*Edges
+4 6
+5 6
+4 5
+2 5
+2 3
+1 2
+1 7

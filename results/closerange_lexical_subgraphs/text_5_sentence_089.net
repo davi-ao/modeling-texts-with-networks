@@ -1,0 +1,50 @@
+*Vertices 17
+1 "result"
+2 "show"
+3 "capable"
+4 "osteoclast"
+5 "late"
+6 "suggest"
+7 "be"
+8 "signaling"
+9 "stat1"
+10 "jak"
+11 "modulate"
+12 "event"
+13 "distal"
+14 "traf6"
+15 "resistance"
+16 "cell"
+17 "IFN"
+*Edges
+5 1 1
+5 2 1
+1 2 1
+5 4 1
+4 2 0
+7 5 1
+7 4 0
+7 3 1
+3 4 1
+7 8 0
+3 8 1
+3 10 1
+10 8 1
+10 9 1
+8 9 1
+10 6 1
+8 6 1
+12 6 1
+13 12 1
+13 8 1
+13 14 1
+12 14 1
+13 9 1
+9 14 1
+11 9 1
+11 14 1
+15 9 1
+16 11 1
+16 15 0
+16 17 0
+17 15 1

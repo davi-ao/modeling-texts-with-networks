@@ -1,0 +1,27 @@
+*Vertices 13
+1 "contrast"
+2 "thin"
+3 "layer"
+4 "muscle"
+5 "wall"
+6 "venous"
+7 "be"
+8 "accommodate"
+9 "vein"
+10 "better"
+11 "change"
+12 "volume"
+13 "blood"
+*Edges
+1 4
+4 3
+3 6
+6 5
+5 7
+7 2
+2 9
+9 10
+10 8
+8 11
+11 13
+13 12

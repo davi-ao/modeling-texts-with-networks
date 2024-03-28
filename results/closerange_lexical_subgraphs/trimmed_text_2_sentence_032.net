@@ -1,0 +1,23 @@
+*Vertices 8
+1 "dose"
+2 "appear"
+3 "affect"
+4 "MIG"
+5 "extent"
+6 "migration"
+7 "anterior"
+8 "cell"
+*Edges
+1 2
+2 4
+1 4
+2 3
+3 4
+3 5
+2 5
+3 7
+5 7
+7 8
+5 8
+6 7
+6 8

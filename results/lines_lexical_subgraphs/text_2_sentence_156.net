@@ -1,0 +1,21 @@
+*Vertices 10
+1 "have"
+2 "interestingly"
+3 "alms"
+4 "position"
+5 "anteriorly"
+6 "morphology"
+7 "axon"
+8 "similar"
+9 "neuron"
+10 "BDU"
+*Edges
+2 5
+5 4
+4 3
+3 1
+1 7
+7 6
+6 8
+8 10
+10 9

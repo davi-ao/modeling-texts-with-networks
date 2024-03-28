@@ -1,0 +1,24 @@
+*Vertices 11
+1 "amount"
+2 "increase"
+3 "infection"
+4 "add"
+5 "number"
+6 "particle"
+7 "viral"
+8 "be"
+9 "well"
+10 "step"
+11 "immobilization"
+*Edges
+1 3
+3 2
+2 2
+2 5
+5 7
+7 6
+6 8
+8 4
+4 9
+9 11
+11 10

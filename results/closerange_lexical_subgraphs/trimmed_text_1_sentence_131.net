@@ -1,0 +1,17 @@
+*Vertices 7
+1 "YOL"
+2 "significant"
+3 "YHL"
+4 "be"
+5 "clinically"
+6 "group"
+7 "patient"
+*Edges
+1 3
+4 5
+3 5
+2 5
+5 7
+2 7
+6 7
+2 6

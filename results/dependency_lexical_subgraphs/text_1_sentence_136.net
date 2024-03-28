@@ -1,0 +1,9 @@
+*Vertices 4
+1 "result"
+2 "year"
+3 "be"
+4 "follow"
+*Edges
+2 1
+2 3
+2 4

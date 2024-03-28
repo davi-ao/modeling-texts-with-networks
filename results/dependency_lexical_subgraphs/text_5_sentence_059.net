@@ -1,0 +1,24 @@
+*Vertices 11
+1 "datum"
+2 "similar"
+3 "obtain"
+4 "be"
+5 "normalize"
+6 "protein"
+7 "control"
+8 "variation"
+9 "number"
+10 "cell"
+11 "proliferation"
+*Edges
+1 2
+3 1
+3 4
+5 6
+1 5
+1 7
+7 8
+9 10
+8 9
+8 11
+9 11

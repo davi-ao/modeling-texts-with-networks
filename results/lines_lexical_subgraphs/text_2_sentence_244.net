@@ -1,0 +1,15 @@
+*Vertices 7
+1 "introduce"
+2 "site"
+3 "Sal"
+4 "end"
+5 "exon"
+6 "third"
+7 "mec"
+*Edges
+1 3
+3 2
+2 4
+4 6
+6 5
+5 7

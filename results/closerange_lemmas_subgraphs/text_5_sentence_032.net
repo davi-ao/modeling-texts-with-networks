@@ -1,0 +1,47 @@
+*Vertices 17
+1 "maintain"
+2 "culture"
+3 "be"
+4 "Systems"
+5 "with"
+6 "dmem"
+7 "r&d"
+8 "supplement"
+9 "serum"
+10 "percent"
+11 "10"
+12 "fetal"
+13 "bovine"
+14 "streptomycin"
+15 "and"
+16 "1"
+17 "penicillin"
+*Edges
+3 2 0
+3 1 1
+2 1 1
+3 5 0
+1 5 1
+6 1 1
+6 5 1
+8 4 1
+8 5 1
+4 5 1
+11 5 0
+11 10 1
+10 5 1
+11 12 1
+12 10 1
+13 12 1
+13 10 1
+13 9 1
+12 9 1
+15 9 1
+16 15 0
+16 9 1
+16 10 1
+15 10 0
+16 17 1
+17 10 1
+17 14 1
+10 14 1

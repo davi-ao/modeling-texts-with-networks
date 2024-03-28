@@ -1,0 +1,25 @@
+*Vertices 12
+1 "shows"
+2 "table"
+3 "1"
+4 "distribution"
+5 "the"
+6 "variables"
+7 "of"
+8 "key"
+9 "sex"
+10 "by"
+11 "race"
+12 "and"
+*Edges
+2 3
+3 1
+1 5
+5 4
+4 7
+7 8
+8 6
+6 10
+10 9
+9 12
+12 11

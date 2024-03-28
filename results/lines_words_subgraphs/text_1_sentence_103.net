@@ -1,0 +1,27 @@
+*Vertices 13
+1 "size"
+2 "the"
+3 "effect"
+4 "4point92"
+5 "is"
+6 "thus"
+7 "4point50"
+8 "minus"
+9 "divided"
+10 "0point29"
+11 "by"
+12 "1point44"
+13 "equal"
+*Edges
+2 3
+3 1
+1 5
+5 6
+6 4
+4 8
+8 7
+7 9
+9 11
+11 12
+12 13
+13 10

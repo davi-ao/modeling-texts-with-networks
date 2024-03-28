@@ -1,0 +1,21 @@
+*Vertices 10
+1 "knowledge"
+2 "use"
+3 "vector"
+4 "viral"
+5 "have"
+6 "always"
+7 "almost"
+8 "be"
+9 "free"
+10 "solution"
+*Edges
+1 4
+4 3
+3 5
+5 7
+7 6
+6 8
+8 2
+2 9
+9 10

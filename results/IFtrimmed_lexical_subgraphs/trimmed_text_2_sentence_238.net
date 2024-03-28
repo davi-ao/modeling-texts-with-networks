@@ -1,0 +1,25 @@
+*Vertices 9
+1 "method"
+2 "standard"
+3 "biology"
+4 "molecular"
+5 "use"
+6 "be"
+7 "make"
+8 "plasmid"
+9 "follow"
+*Edges
+6 9
+6 7
+6 8
+2 6
+5 6
+3 4
+1 7
+7 8
+5 7
+1 8
+1 5
+2 4
+5 8
+2 5

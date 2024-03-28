@@ -1,0 +1,17 @@
+*Vertices 9
+1 "thus"
+2 "ratio"
+3 "calculate"
+4 "average"
+5 "protein"
+6 "total"
+7 "artery"
+8 "vein"
+9 "be"
+*Edges
+2 3
+2 4
+5 6
+2 5
+2 7
+2 8

@@ -1,0 +1,14 @@
+*Vertices 6
+1 "transform"
+2 "generate"
+3 "tu2562"
+4 "plasmid"
+5 "line"
+6 "transgenic"
+*Edges
+2 3
+4 5
+1 5
+1 4
+3 4
+1 6

@@ -1,0 +1,67 @@
+*Vertices 23
+1 "production"
+2 "no"
+3 "measure"
+4 "be"
+5 "reaction"
+6 "by"
+7 "the"
+8 "Greiss"
+9 "detect"
+10 "USA"
+11 "Promega"
+12 "Madison"
+13 "which"
+14 "spectrophotometrically"
+15 "product"
+16 "nitrite"
+17 "a"
+18 "stable"
+19 "breakdown"
+20 "of"
+21 "accumulation"
+22 "whose"
+23 "reflect"
+*Edges
+4 2 1
+4 1 0
+2 1 1
+4 3 0
+3 1 1
+4 6 0
+6 3 0
+6 7 0
+3 7 1
+6 8 1
+8 7 1
+8 5 1
+5 7 1
+8 11 1
+11 5 1
+12 11 1
+12 5 1
+12 10 1
+11 10 1
+12 13 1
+14 10 1
+14 13 1
+9 14 1
+9 13 1
+16 14 1
+17 18 1
+16 18 1
+17 19 1
+19 18 1
+19 15 1
+15 18 1
+19 20 1
+20 15 1
+2 20 0
+2 15 1
+2 22 1
+20 22 0
+21 2 1
+21 22 1
+21 23 1
+23 22 1
+2 23 1

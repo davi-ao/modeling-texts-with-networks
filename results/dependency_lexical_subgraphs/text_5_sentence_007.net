@@ -1,0 +1,17 @@
+*Vertices 8
+1 "signal"
+2 "molecular"
+3 "require"
+4 "elucidate"
+5 "osteoclastogenesis"
+6 "have"
+7 "recently"
+8 "be"
+*Edges
+1 2
+3 1
+4 3
+3 5
+4 6
+4 7
+4 8

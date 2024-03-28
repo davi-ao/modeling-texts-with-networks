@@ -1,0 +1,22 @@
+*Vertices 10
+1 "sensitivity"
+2 "cold"
+3 "useful"
+4 "defect"
+5 "ALM"
+6 "migration"
+7 "be"
+8 "suppressor"
+9 "identify"
+10 "genetic"
+*Edges
+1 2
+3 1
+4 5
+4 6
+1 4
+3 7
+8 9
+8 10
+3 8
+8 4

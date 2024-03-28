@@ -1,0 +1,22 @@
+*Vertices 10
+1 "supernatant"
+2 "cell"
+3 "harvest"
+4 "react"
+5 "be"
+6 "sulfanilamide"
+7 "percent"
+8 "naphthyl"
+9 "0point1"
+10 "ethylenediamine"
+*Edges
+2 1
+1 5
+5 3
+3 4
+4 7
+7 6
+6 9
+9 7
+7 8
+8 10

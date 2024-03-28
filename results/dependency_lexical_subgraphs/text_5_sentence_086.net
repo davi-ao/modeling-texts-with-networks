@@ -1,0 +1,27 @@
+*Vertices 12
+1 "fail"
+2 "observe"
+3 "degradation"
+4 "significant"
+5 "traf6"
+6 "stimulation"
+7 "culture"
+8 "IFN"
+9 "rankl"
+10 "term"
+11 "short"
+12 "long"
+*Edges
+1 2
+3 4
+2 3
+3 5
+7 6
+6 8
+6 9
+8 9
+10 11
+6 10
+10 12
+10 10
+2 7

@@ -1,0 +1,19 @@
+*Vertices 9
+1 "locate"
+2 "alms"
+3 "be"
+4 "anteriorly"
+5 "more"
+6 "ea471"
+7 "tu2562"
+8 "grow"
+9 "15degreesc"
+*Edges
+2 3
+3 1
+1 5
+5 4
+4 6
+6 7
+7 8
+8 9

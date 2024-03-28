@@ -1,0 +1,22 @@
+*Vertices 8
+1 "incidence"
+2 "correlate"
+3 "defect"
+4 "PLM"
+5 "axonal"
+6 "well"
+7 "ALM"
+8 "migration"
+*Edges
+1 5
+4 5
+1 4
+3 5
+3 4
+2 5
+2 3
+2 6
+2 7
+7 8
+3 7
+3 8

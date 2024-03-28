@@ -1,0 +1,33 @@
+*Vertices 12
+1 "take"
+2 "thus"
+3 "division"
+4 "ALM"
+5 "BDU"
+6 "cell"
+7 "be"
+8 "place"
+9 "migrate"
+10 "bdus"
+11 "normally"
+12 "strain"
+*Edges
+4 5 1
+4 2 1
+5 2 1
+4 6 0
+5 6 1
+5 3 1
+6 3 1
+7 6 0
+7 3 1
+7 1 1
+7 8 1
+8 1 1
+10 8 1
+10 1 1
+10 7 1
+10 9 1
+7 9 0
+7 11 1
+9 11 1

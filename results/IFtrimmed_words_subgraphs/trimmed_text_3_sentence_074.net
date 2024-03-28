@@ -1,0 +1,23 @@
+*Vertices 8
+1 "poor"
+2 "thus"
+3 "expression"
+4 "the"
+5 "transgenes"
+6 "of"
+7 "is"
+8 "extremely"
+*Edges
+3 7
+3 6
+3 4
+2 3
+1 8
+5 8
+6 7
+1 7
+4 7
+2 7
+4 6
+2 6
+2 4

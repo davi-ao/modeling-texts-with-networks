@@ -1,0 +1,27 @@
+*Vertices 8
+1 "occur"
+2 "Fusion"
+3 "multinucleation"
+4 "subsequently"
+5 "proportion"
+6 "magnitude"
+7 "stimulus"
+8 "rankl"
+*Edges
+2 6
+2 3
+1 2
+2 5
+2 7
+2 4
+3 6
+5 6
+6 7
+4 6
+3 5
+3 7
+3 4
+1 8
+5 7
+4 5
+4 7

@@ -1,0 +1,23 @@
+*Vertices 11
+1 "pjc10"
+2 "plasmid"
+3 "appear"
+4 "capable"
+5 "pjc11"
+6 "be"
+7 "equally"
+8 "defect"
+9 "induce"
+10 "ALM"
+11 "migration"
+*Edges
+2 1
+1 5
+5 3
+3 6
+6 7
+7 4
+4 9
+9 10
+10 11
+11 8

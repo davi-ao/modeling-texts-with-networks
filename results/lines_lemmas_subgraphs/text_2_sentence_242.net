@@ -1,0 +1,15 @@
+*Vertices 7
+1 "make"
+2 "we"
+3 "pjc8"
+4 "pbs1"
+5 "from"
+6 "pjc3"
+7 "and"
+*Edges
+2 1
+1 3
+3 5
+5 4
+4 7
+7 6

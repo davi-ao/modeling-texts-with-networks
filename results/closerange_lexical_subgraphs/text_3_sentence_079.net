@@ -1,0 +1,46 @@
+*Vertices 16
+1 "imply"
+2 "require"
+3 "binding"
+4 "particle"
+5 "viral"
+6 "CAR"
+7 "be"
+8 "still"
+9 "infection"
+10 "cell"
+11 "target"
+12 "surface"
+13 "solid"
+14 "vector"
+15 "immobilize"
+16 "adenoviral"
+*Edges
+3 1 1
+3 5 1
+1 5 1
+3 4 1
+4 5 1
+6 4 1
+6 5 1
+7 4 0
+7 8 1
+6 8 1
+7 2 0
+2 8 1
+9 2 1
+9 8 1
+9 11 1
+2 11 1
+10 9 1
+10 11 1
+10 13 1
+13 11 1
+10 12 1
+13 12 1
+15 13 1
+15 12 1
+16 15 1
+16 12 1
+16 14 1
+15 14 1

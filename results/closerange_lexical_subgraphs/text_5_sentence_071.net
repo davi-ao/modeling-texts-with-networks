@@ -1,0 +1,24 @@
+*Vertices 9
+1 "dose"
+2 "generate"
+3 "rankl"
+4 "ng"
+5 "ml"
+6 "osteoclast"
+7 "numerous"
+8 "large"
+9 "multinucleated"
+*Edges
+1 5 1
+1 4 1
+5 4 1
+5 3 1
+2 5 1
+2 3 1
+2 7 1
+7 3 1
+2 8 1
+8 7 1
+8 9 1
+8 6 1
+9 6 1

@@ -1,0 +1,17 @@
+*Vertices 8
+1 "apply"
+2 "cell"
+3 "result"
+4 "virus"
+5 "array"
+6 "target"
+7 "culture"
+8 "be"
+*Edges
+3 4
+4 5
+5 6
+6 2
+2 8
+8 1
+1 7

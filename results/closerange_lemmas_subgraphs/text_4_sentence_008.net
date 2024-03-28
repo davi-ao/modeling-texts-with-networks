@@ -1,0 +1,79 @@
+*Vertices 28
+1 "explain"
+2 "difference"
+3 "thickness"
+4 "in"
+5 "layer"
+6 "smooth"
+7 "muscle"
+8 "however"
+9 "do"
+10 "not"
+11 "always"
+12 "satisfactorily"
+13 "responsive"
+14 "why"
+15 "instance"
+16 "some"
+17 "stimulation"
+18 "include"
+19 "vein"
+20 "of"
+21 "terminal"
+22 "postganglionic"
+23 "nerve"
+24 "be"
+25 "more"
+26 "artery"
+27 "than"
+28 "correspond"
+*Edges
+2 4 1
+2 6 1
+4 6 0
+7 6 1
+5 7 1
+5 6 1
+5 3 1
+7 3 1
+8 5 1
+8 3 1
+9 8 1
+9 3 1
+9 10 1
+8 10 1
+11 10 1
+11 12 1
+10 12 1
+1 12 1
+1 14 1
+12 14 1
+1 4 1
+4 14 1
+4 16 1
+16 14 1
+4 15 1
+15 16 1
+18 15 1
+18 16 1
+18 17 1
+15 17 1
+18 20 0
+20 17 1
+20 22 1
+22 17 1
+23 20 0
+23 22 1
+23 21 1
+22 21 1
+23 19 1
+21 19 1
+24 21 1
+24 19 0
+25 19 1
+24 13 1
+25 13 1
+25 27 1
+28 13 1
+28 27 1
+26 27 1
