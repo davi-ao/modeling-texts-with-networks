@@ -2,7 +2,7 @@ Modeling texts with networks
 
 Authors: Davi Alves Oliveira and Hernane Borges de Barros Pereira
 
-"This script was developed and used for the study reported in the article
+This script was developed and used for the study reported in the article
 “Modeling texts with networks” submitted to The European Physical Journal B
 (https://epjb.epj.org/) in 2024. The abstract and keywords of the article can
 be found below. The script uses data from the Open American National Corpus
@@ -19,7 +19,7 @@ reference numbers, and parenthesis characters were removed. Then, the text was
 split, so that each sentence was in a separate line, save in text files and
 parsed with the Stanford CoreNLP dependency parser 
 (https://stanfordnlp.github.io/CoreNLP/) via de java command line. The parsed 
-files were saved in the JSON format."
+files were saved in the JSON format.
 
 
 Abstract
